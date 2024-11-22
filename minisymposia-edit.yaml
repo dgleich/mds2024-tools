@@ -1,0 +1,2689 @@
+80265:
+  class codes:
+    - 5209
+    - 5110
+    - 5111
+  emails:
+    - "8d6817f05a4f940e"
+    - "397ee1f8bc65ab13"
+    - "2482785ca2e68e56"
+    - "d61f0b5e8d4b19f3"
+  organizers:
+    - "Hangjie Ji"
+    - "Alexey Miroshnikov"
+  speakers:
+    - "Khashayar Filom"
+    - "Hangjie Ji"
+    - "Alexey Miroshnikov"
+    - "Jeremias Sulam"
+  talks:
+    - "Neural Differential Equations for Medical Image Prediction and Segmentation"
+    - |-
+      Stability Theory of Game-Theoretic Group Feature Explanations for Machine Learning
+      Models
+    - "Formal Interpretability for Machine Learning"
+    - "Analytic Formulas for Marginal Feature Attributions of Oblivious Decision Trees"
+  title: "Mathematics of Explainable AI with Applications to Finance and Medicine"
+80287:
+  class codes:
+    - 5103
+    - 5202
+    - 5114
+  emails:
+    - "eede46d2e41fa44e"
+    - "b471017382530f24"
+    - "c797bb6c8b912e0f"
+    - "6873f3f4c13e421e"
+    - "4dc93993913a67f7"
+    - "d2e9637e44e21db7"
+  organizers:
+    - "Matthias Chung"
+    - "Andreas Mang"
+  speakers:
+    - "Paul Atzberger"
+    - "Russell Philley"
+    - "Rosemary Renaut"
+    - "Rebekah White"
+  talks:
+    - |-
+      Model-Constrained Uncertainty Quantification for Scientific Deep Learning of Inverse
+      Problems
+    - |-
+      Geometric Neural-Operators for Manifold Point-Cloud Representations: PDE Solvers
+      and Bayesian Inverse Problems
+    - |-
+      Using Data-Consistent Inversion to Build Population-Informed Priors for Bayesian
+      Inference
+    - |-
+      Using Mixed-Precision randomized SVD or GKB algorithms for low rank Kronecker
+      Product approximations of Large Matrices
+  title: "Integration of Model and Data-Driven Methods for Large-Scale Inverse Problems"
+80312:
+  class codes:
+    - 5107
+    - 5210
+    - 0
+  emails:
+    - "9e81f48f6435cc5c"
+    - "4f4dd471d8e50a48"
+    - "5ac2da87e39c8bc5"
+    - "ab41bfb683200972"
+    - "126bca5b7c440766"
+    - "dc00ad0d655c559e"
+  organizers:
+    - "Ethan Epperly"
+    - "Robert Webber"
+  speakers:
+    - "Ethan Epperly"
+    - "Daniel LeJeune"
+    - "Max Melnichenko"
+    - "Raphael Meyer"
+  talks:
+    - |-
+      Embrace Rejection: Faster Low-rank Approximation by Rejection Sampling-accelerated
+      Randomly Pivoted Cholesky
+    - "Asymptotically Free Sketching and Applications in Ridge Regression"
+    - |-
+      Novel Randomized Algorithms for Low- and Full-rank Decompositions and Their Implementations
+      in RandLAPACK
+    - "Hutchinson's Estimator is Bad at Kronecker Trace Estimation"
+  title: |-
+    Randomized Matrix Computations for Large-scale Scientific and Machine Learning
+    Problems
+80316:
+  class codes:
+    - 5109
+    - 5104
+    - 5204
+  emails:
+    - "ad752226293cca18"
+    - "bf447149e5d87b45"
+    - "a3af64c2b36f1572"
+    - "3ab97192dac1ac95"
+    - "fbd92cadfd720d81"
+  organizers:
+    - "Lucas Boettcher"
+    - "Mason Porter"
+  speakers:
+    - "Lucas Boettcher"
+    - "Lincoln D. Carr"
+    - "Michael Perlmutter"
+    - "Yu Tian"
+  talks:
+    - "Complex Networks with Complex Weights"
+    - "Structural Balance and Random Walks on Complex Networks with Complex Weights"
+    - "MagNet: A Neural Network for Directed Graphs"
+    - |-
+      Case Studies on Physical Complexity in Quantum States: From Quantum Phase Transitions
+      to Quantum Cellular Automata
+  title: "Complex Weights in Networks and Data Science"
+80336:
+  class codes:
+    - 5200
+    - 400
+    - 5202
+  emails:
+    - "657156a9cc1d4b5b"
+    - "1db7493a8cce58f6"
+    - "6007ab64b3fb4a13"
+    - "6b8d24ea7de982d6"
+    - "e1a620adbe5b009e"
+  organizers:
+    - "Li Wang"
+    - "Yuanzhe Xi"
+  speakers:
+    - "Lili Ju"
+    - "Wonjun Lee"
+    - "Yuanzhe Xi"
+    - "Yue Yu"
+  talks:
+    - "Transferable Neural Networks for Partial Differential Equations"
+    - |-
+      Hyperno: An Information-Theory Based Neural Operator Architecture for Inverse
+      Pde Problems
+    - "Efficient Hybrid Spatial-Temporal Operator Learning"
+    - "Monotone Generative Modeling Via a Geometry-Preserving Mapping"
+  title: |-
+    Scientific Machine Learning for Solving Differential Equations: Computation
+    and Applications
+80338:
+  class codes:
+    - 5101
+    - 5104
+    - 5202
+  emails:
+    - "3eddef598a126aa8"
+    - "c4de7f80f36b094b"
+    - "f1049f9f31787695"
+    - "1dbb22c9a8d10bc5"
+  organizers:
+    - "Eitan Levin"
+  speakers:
+    - "Matthieu Darcy"
+    - "Samuel Lanthaler"
+    - "Eitan Levin"
+    - "Luana Ruiz"
+  talks:
+    - "Any-Dimensional Equivariant Learning"
+    - "A Poincaré Inequality and Consistency Results for Signal Sampling on Large Graphs"
+    - "Sample-Complexity Bounds for Operator Learning"
+    - "Kernel Methods Are Competitive for Operator Learning"
+  title: "Learning Dimension and Scale Invariant Algorithms"
+80339:
+  class codes:
+    - 4805
+    - 5109
+    - 5106
+  emails:
+    - "472d0df6a2f96e41"
+    - "183c7ff54dd199c1"
+    - "70cc29c542184a48"
+    - "e362e0ba0b905004"
+    - "f72ca57d6c9141fb"
+  organizers:
+    - "Ming-Jun Lai"
+    - "Daniel McKenzie"
+  speakers:
+    - "Daniel McKenzie"
+    - "James Murphy"
+    - "Zhaiming Shen"
+    - "Abiy Tasissa"
+  talks:
+    - "Intrinsic Models in Wasserstein Space with Applications to Molecular Dynamics"
+    - "Graph-Based Clustering with and Without Labeled Nodes"
+    - "Cut Improvement and Clustering Using Compressed Sensing"
+    - "Nystrom Method with Missing Distances"
+  title: "Sparse Solutions and Low Rank Methods for Unsupervised Learning"
+80340:
+  class codes:
+    - 5203
+    - 5102
+    - 5000
+  emails:
+    - "4231d8d79d7ace8a"
+    - "d5cd9a0aa5a5ecb8"
+    - "50e0a0ab06f392b6"
+    - "8458684e34b30814"
+    - "8fcec8cf6be4286d"
+    - "e81a9e015faa4551"
+  organizers:
+    - "Peng Chen"
+    - "Omar Ghattas"
+    - "Stefan Henneking"
+  speakers:
+    - "Stefan Henneking"
+    - "Felix Herrmann"
+    - "Pavlos Stavrinides"
+    - "Yunan Yang"
+  talks:
+    - "Experimental design for uncertainty-aware Digital Twins"
+    - "Ensemble Kalman Inversion for Linear Bayesian Inverse Problems"
+    - |-
+      Generative Modeling of Time-Dependent Densities via Optimal Transport and Projection
+      Pursuit
+    - |-
+      Real-Time Bayesian Inversion of Autonomous Systems with Application to Tsunami
+      Forecasting
+  title: "Advances in Fast and Scalable Bayesian Inference"
+80341:
+  class codes:
+    - 600
+    - 400
+    - 806
+  emails:
+    - "51ca70707946d071"
+    - "72dd0b7745151b45"
+    - "c393749e59011ee0"
+    - "58cc885d17a2c65b"
+    - "5a426c1fe81de15b"
+    - "40a5b5ad3654b50b"
+  organizers:
+    - "Wenrui Hao"
+    - "Yulong Lu"
+  speakers:
+    - "Feng Bao"
+    - "Jonathan Siegel"
+    - "Sifan Wang"
+    - "Yahong Yang"
+  talks:
+    - "On The Approximation Theory of Relu^k Neural Networks"
+    - "An Ensemble Score Filter for Tracking High Dimensional Dynamical Systems"
+    - |-
+      Approximation and Generalization Errors in Deep Neural Networks for Sobolev Spaces
+      Measured by Sobolev Norms
+    - "PirateNets: Physics-Informed Deep Learning with Residual Adaptive Networks"
+  title: |-
+    Theoretical Advancements in Machine Learning for Solving Partial Differential
+    Equations
+80343:
+  class codes:
+    - 5202
+    - 4300
+    - 5107
+  emails:
+    - "d3568db7cc06afda"
+    - "6d1b85aeb6fee346"
+    - "46ab909eab158e36"
+    - "1bcbf15e730b6a43"
+  organizers:
+    - "Difeng Cai"
+  speakers:
+    - "Difeng Cai"
+    - "Baris Coskunuzer"
+    - "Pedro Maia"
+    - "George Yin"
+  talks:
+    - "Autm Flow: Atomic Unrestricted Time Machine As a Monotonic Normalizing Flow"
+    - |-
+      Data-Driven Solutions for Neuroscience Challenges: Integrating Theory, Computation,
+      and Practice
+    - "Computational Nonlinear Filtering: A Deep Learning Approach"
+    - "Topological Machine Learning for Drug Discovery"
+  title: "Distribution, Dynamics, and Deep Learning"
+80346:
+  class codes:
+    - 5202
+    - 400
+    - 700
+  emails:
+    - "3374f161a47a52ad"
+    - "5b5e5aa0afab10bb"
+    - "8d80a3285cbf26dd"
+    - "7e68397168b04951"
+    - "b62024991aa31f1f"
+    - "e4e5473c35dae308"
+  organizers:
+    - "Ido Ben-Yair"
+    - "Matan Goren"
+    - "Eran Treister"
+  speakers:
+    - "Matan Goren"
+    - "Eldad Haber"
+    - "Alena Kopanicakova"
+    - "Rui Peng Li"
+  talks:
+    - "ACNN"
+    - "Learning to Solve Faster: Data-Driven Algebraic Multigrid Methods"
+    - "DeepONet-Based Preconditioning"
+    - |-
+      Physics-guided Full Waveform Inversion using Encoder-Solver Convolutional Neural
+      Networks
+  title: "Scientific Computation Meets Deep Learning"
+80347:
+  class codes:
+    - 5206
+    - 600
+    - 400
+  emails:
+    - "9558a12aa68a0d61"
+    - "51ca70707946d071"
+    - "89fcc5aee199f28e"
+    - "98ae52e299b33846"
+  organizers:
+    - "Yuhua Zhu"
+  speakers:
+    - "Bao Feng"
+    - "Gaozhan Wang"
+    - "Renyuan Xu"
+    - "Yuhua Zhu"
+  talks:
+    - |-
+      A Stochastic Maximum Principle Approach for Reinforcement Learning with Parameterized
+      Environment.
+    - "Reinforcement Learning for Optimal Stopping Problems in Continuous Time"
+    - |-
+      Convergence of Policy Improvement Algorithm for Exploratory Stochastic Control
+      Problems
+    - "Phibe: A Pde-Based Bellman Equation for Continuous-Time Reinforcement Learning"
+  title: |-
+    Continuous-Time Reinforcement Learning: Bridging Theory, Algorithms, and
+    Applications
+80397:
+  class codes:
+    - 700
+    - 5202
+    - 5207
+  emails:
+    - "51b59913f7a0adad"
+    - "1f07376f9e081309"
+    - "3c297c5153661e5a"
+    - "48efb2a663a0294a"
+    - "8458684e34b30814"
+    - "c42045d61583c4ff"
+  organizers:
+    - "Lu Lu"
+    - "Zecheng Zhang"
+  speakers:
+    - "Peng Chen"
+    - "Wenjing Liao"
+    - "Guang Lin"
+    - "Hayden Schaeffer"
+  talks:
+    - "Predicting Operators and Symbolic Expressions Using Multimodal Transformers"
+    - "Exploiting Low-Dimensional Structures in Deep Learning"
+    - "Learning Neural Operators with Derivatives"
+    - |-
+      Conformalized-Deeponet: A Distribution-Free Framework for Uncertainty Quantification
+      in Deep Operator Networks
+  title: |-
+    Recent Advances of Operator Learning and Foundation-Model-Assisted Multi-Operator
+    Learning
+80398:
+  class codes:
+    - 5200
+    - 5000
+    - 4300
+  emails:
+    - "65a82ee7602b5fb1"
+    - "51ca70707946d071"
+    - "d30f7ea8b3c78db1"
+    - "2d04e3e9471b5c7e"
+    - "61ae88d91fb43ad1"
+    - "9aa29ef8afe1dd27"
+    - "3bead878a4688c6"
+  organizers:
+    - "Feng Bao"
+    - "Sanghyun Lee"
+    - "Yeonjong Shin"
+  speakers:
+    - "Elena Celledoni"
+    - "Teeratorn Kadeethum"
+    - "Dongbin Xiu"
+    - "Guannan Zhang"
+  talks:
+    - "Data Driven Modeling of Unknown Systems with Deep Neural Networks"
+    - "Deep Learning of Diffeomorphisms with Application to Shape Analysis"
+    - |-
+      Training-Free Diffusion Models for Supervised Learning of Generative Models in
+      Density Estimation
+    - |-
+      Enhancing Subsurface Surrogate Efficiency: Integrating Improved Neural Operators
+      with Graph Convolutional Networks
+  title: |-
+    Recent Advances in Scientific Machine Learning for Data-Driven Discovery
+    of Dynamical Systems
+80400:
+  class codes:
+    - 5103
+    - 5102
+    - 5104
+  emails:
+    - "b569771e345a7bae"
+    - "7f46626cb5e5a5fb"
+    - "2d328641a48b8599"
+    - "56357c77371fe34e"
+  organizers:
+    - "Mateo Diaz"
+  speakers:
+    - "Vasilis Charisopoulos"
+    - "Diego Cifuentes"
+    - "Mateo Diaz"
+    - "Ashwin Pananjady"
+  talks:
+    - "Tbd2"
+    - |-
+      Finite-sample statistical inference for stochastic optimization with dependent
+      data: A case study in reinforcement learning
+    - "The Radius of Statistical Efficiency"
+    - "A superlinearly convergent first-order method for nonsmooth optimization"
+  title: "Optimization and Statistics at Scale"
+80424:
+  class codes:
+    - 5202
+    - 1200
+    - 600
+  emails:
+    - "56e86ce58475f5f5"
+    - "13615b860808b52a"
+    - "b05b5a902a1c5c92"
+    - "2cc92281b95ad4ca"
+    - "a4f1f887987196ec"
+  organizers:
+    - "Stephan Schmidt"
+    - "Volker Schulz"
+  speakers:
+    - "Long Chen"
+    - "Johannes Haubner"
+    - "Volker Schulz"
+    - "Xili Wang"
+  talks:
+    - "Shape Optimization Via Pinns and Stochastic Interpretation of Pde"
+    - "AONN-2: An Adjoint-oriented Neural Network Method for PDE-constrained Shape Optimization"
+    - |-
+      Learning Mesh Motion Techniques with Application to Fluid-Structure Interaction
+      and Shape Optimization
+    - |-
+      Data-Driven Aerodynamic Shape Design with Distributionally Robust Optimization
+      Approaches
+  title: "Machine Learning and Shape Optimization"
+80425:
+  class codes:
+    - 5102
+    - 100
+    - 5106
+  emails:
+    - "77d7a13b2bd5d4e6"
+    - "6f8a5cd36ef2ff5d"
+    - "707ecc726b1607c8"
+    - "5fe03a0869e90804"
+    - "96d7fcb793a84ee3"
+    - "55ef7f1db5efe62"
+  organizers:
+    - "Tamir Bendory"
+    - "Dan Edidin"
+  speakers:
+    - "Ido Hadi"
+    - "Joseph Iverson"
+    - "Anna Little"
+    - "Sheng Xu"
+  talks:
+    - "Bilipschitz Invariant Theory"
+    - "Bispectrum Unbiasing for Dilation-Invariant Multi-Reference Alignment"
+    - "SE(3) Synchronization by Eigenvectors of Dual Quaternion Matrices"
+    - "Maximum Likelihood and Moment Matching for High-Noise Group Orbit Estimation"
+  title: "Data Science Over Groups"
+80426:
+  class codes:
+    - 806
+    - 600
+    - 5200
+  emails:
+    - "5c608d88e3d6a270"
+    - "e8e2182d3ef81032"
+    - "b6fa38d25904ff25"
+    - "263984634b22e2f8"
+    - "1f199c27067a705c"
+    - "a65ffefd554fe690"
+  organizers:
+    - "Yoon Byung-Jun"
+    - "YoungJoon Hong"
+  speakers:
+    - "Eric Cyr"
+    - "Lav Varshney"
+    - "Peihao Wang"
+    - "Wuzhe Xu"
+  talks:
+    - "Neural-network Based Collision Operators for the Boltzmann Equation"
+    - "Generative Downscaling of pde Solvers with Physics-guided Diffusion Models"
+    - "Signal Processing with Implicit Neural Fields: Editing, Manipulation, and Understanding"
+    - "Autoequivariant Network Search via Group Decomposition"
+  title: "Machine Learning Advances in Scientific Computing and Applications"
+80427:
+  class codes:
+    - 5000
+    - 5201
+    - 5103
+  emails:
+    - "7ebe6673e9071643"
+    - "9c0d2d09a0f52dc7"
+    - "cecbb424b9616211"
+    - "b9c408ef27af81df"
+    - "7793fbd62ee401ee"
+  organizers:
+    - "Yoonsang Lee"
+  speakers:
+    - "Victor Churchill"
+    - "Keenan Eikenberry"
+    - "Di Qi"
+    - "Shanyin Tong"
+  talks:
+    - "Predicting in Latent Space with Wasserstein Dependence-Maximizing Autoencoders"
+    - "Priors for Efficient Three-Dimensional Imaging"
+    - "A Data-Driven Statistical-Stochastic Model for Multiscale Turbulent Systems"
+    - |-
+      Large Deviation-Informed Sampling for Rare Events in High Dimensions and Connection
+      to Bayesian Inversion
+  title: |-
+    Non-intrusive Computational Methods to Incorporate Prior Knowledge for Improved
+    Statistical Accuracy
+80430:
+  class codes:
+    - 5104
+    - 806
+    - 600
+  emails:
+    - "a6d6bd202bc8deab"
+    - "767712cda733544"
+    - "ceb8ebccc24a416c"
+    - "9645dfd5ab792353"
+    - "5f51e78242189388"
+    - "81ca83d5042e9a6b"
+    - "a1deed6efd984638"
+  organizers:
+    - "Ben Adcock"
+    - "Cameron Musco"
+    - "Christopher Musco"
+  speakers:
+    - "Akil Narayan"
+    - "Willie Neiswanger"
+    - "Eric Price"
+    - "Philipp Trunschke"
+  talks:
+    - |-
+      Bandit Learning-Based Exploration and Exploitation for Multi-Level and Multi-Fidelity
+      Scientific Computing under Budget Constraints
+    - "Generalizing Bayesian Optimization to Accelerate Scientific Discovery"
+    - "A Competitive Algorithm for Agnostic Active Learning"
+    - "Optimal Sampling for Least Squares Approximation with General Dictionaries"
+  title: "Scientific Machine Learning with Scarce Data"
+80433:
+  class codes:
+    - 700
+    - 5200
+    - 0
+  emails:
+    - "c852127b3b45ea34"
+    - "a4b5076456bc0cd7"
+    - "b695becd9cbc8230"
+    - "a463510cc395e880"
+    - "99621135a2a0049d"
+  organizers:
+    - "Ying Liang"
+    - "Min Wang"
+  speakers:
+    - "Siu Wun Cheung"
+    - "Juntao Huang"
+    - "Ying Liang"
+    - "Zhu Wang"
+  talks:
+    - "Reduced Order Approximation of Kohn-Sham Density Functional Theory"
+    - "Structure-Preserving Moment Closure for Kinetic Equations"
+    - "Data-Driven Methods for the Allen-Cahn Equation"
+    - "Data-Assisted Algorithms for Inverse Random Source Problems"
+  title: "The Interplay Between Deep Learning and Model Reduction"
+80436:
+  class codes:
+    - 5104
+    - 5102
+    - 5103
+  emails:
+    - "f3cd46ecaccf531b"
+    - "42329f741cb3b288"
+    - "1e28c8ac00edd684"
+    - "63c97c9dbd0ebe26"
+    - "d3cc872b5ff89c2"
+  organizers:
+    - "Lianghao Cao"
+    - "Dingcheng Luo"
+  speakers:
+    - "Lianghao Cao"
+    - "Dibyajyoti Chakraborty"
+    - "Xun Huan"
+    - "Deepanshu Verma"
+  talks:
+    - "Neural Network Approaches for high dimensional Parameteric Optimal Control"
+    - "Fokker--Planck-Based Inverse Reinforcement Learning"
+    - "Divide and Conquer"
+    - |-
+      Derivative-informed neural operator acceleration of geometric MCMC for infinite-dimensional
+      Bayesian inverse problems
+  title: |-
+    Scientific Machine Learning for Inference and Control of High-dimensional
+    Systems
+80439:
+  class codes:
+    - 900
+    - 5200
+    - 5109
+  emails:
+    - "fa6c2a115fd05a41"
+    - "b73265b6767b2126"
+    - "6923b657734ef955"
+    - "38b0a0e636f5934"
+    - "4b1f3c2477ed913b"
+    - "6e8cfeb302fdaebc"
+    - "4324f1dc26893787"
+  organizers:
+    - "David Clancy"
+    - "Linh Huynh"
+    - "Hanbaek Lyu"
+  speakers:
+    - "Souvik Dhara"
+    - "Reza Gheissari"
+    - "Ethan Levien"
+    - "Konstantinos Spiliopoulos"
+  talks:
+    - |-
+      Normalization Effects and Scaling Limits for Deep Neural Networks: Towards Statistically
+      Robust Models
+    - "Community Detection with Missing Data"
+    - "Emergent Low-Dimensional Subspaces in High-Dimensional Stochastic Gradient Descent"
+    - "Data-Driven Prediction of Single-Cell Fate: Large Deviations and Extremal Events"
+  title: "Probabilistic Methods in Machine Learning and Complex Systems"
+80440:
+  class codes:
+    - 400
+    - 3000
+    - 5100
+  emails:
+    - "d5a57485389d5dbb"
+    - "b626e151d883a006"
+    - "eede46d2e41fa44e"
+    - "466bb426ce91d39"
+    - "4dc93993913a67f7"
+    - "7c7d233e6f2dfbac"
+    - "9e8cd255273c62ed"
+  organizers:
+    - "Tan Bui-Thanh"
+    - "C.G. Krishnanunni"
+    - "Hai Nguyen"
+  speakers:
+    - "Ashesh Chattopadhyay"
+    - "Xiantao Fan"
+    - "Andreas Mang"
+    - "Chung Matthias"
+  talks:
+    - |-
+      Principled Structures in Deep Learning-Based Autoregressive Models of Dynamical
+      Systems
+    - |-
+      SciML for Bayesian Inference in Optimization Problems Governed by Nonlinear Dynamical
+      Systems
+    - |-
+      Neural Differentiable Modeling with Diffusion-Based Super-Resolution for Predicting
+      Two-Dimensional Turbulence
+    - "Paired Autoencoder for Inverse Problems and Regularization"
+  title: "Recent Advances in Scientific Deep Learning"
+80441:
+  class codes:
+    - 600
+    - 807
+    - 900
+  emails:
+    - "cf2d215d9601595f"
+    - "f31e4e7689c01759"
+    - "dbe33a443377e9af"
+  organizers:
+    - "Theresa Wagner"
+    - "Tianshi Xu"
+  speakers:
+    - "Yifan Chen"
+    - "Theresa Wagner"
+    - "Tianshi Xu"
+  talks:
+    - "Randomized and Sparse Cholesky for Kernel Methods in High-Dim Scientific Computing"
+    - "Efficient Preconditioned Unbiased Estimators in Gaussian Processes"
+    - "Preconditioned NFFT-Accelerated Additive Gaussian Processes"
+  title: "Preconditioning for Kernel Matrices"
+80442:
+  class codes:
+    - 5102
+    - 700
+    - 0
+  emails:
+    - "51ca70707946d071"
+    - "4cf6ebda0540d383"
+    - "194d6062d47b9369"
+    - "e7d16246d8683cea"
+    - "3bead878a4688c6"
+    - "f1607e5d876c692a"
+  organizers:
+    - "Feng Bao"
+    - "Hristo Chipilski"
+    - "Guannan Zhang"
+  speakers:
+    - "Elizabeth Carlson"
+    - "Hristo Chipilski"
+    - "Mathieu Le Provost"
+    - "Zezhong Zhang"
+  talks:
+    - |-
+      Nonlinear Control Algorithms and Large-Time Behavior of Dissipative Differential
+      Equations
+    - |-
+      Improving the Likelihood Score in Ensemble Score Filter for Nonlinear Data Assimilation
+      with Partial Observations
+    - "Preserving linear invariants in ensemble filtering method"
+    - "Recent progress in using generative AI methods for ensemble data assimilation"
+  title: "Recent Advances in Data Assimilation"
+80445:
+  class codes:
+    - 5200
+    - 700
+    - 5100
+  emails:
+    - "23ab6f0908539d65"
+    - "e50f4e65e7bbf72f"
+    - "8458684e34b30814"
+    - "e81a9e015faa4551"
+    - "7acf01cfe9113218"
+  organizers:
+    - "Peng Chen"
+    - "Raphaël Pestourie"
+  speakers:
+    - "Omar Ghattas"
+    - "Raphaël Pestourie"
+    - "Elizabeth Qian"
+    - "Lorenzo Van Muñoz"
+  talks:
+    - |-
+      Enabling Simulation and Optimization of Complex Systems Via Scientific Machine
+      Learning
+    - |-
+      Structure-exploiting neural operators for Bayesian inverse problems and optimal
+      control/design under uncertainty
+    - "Multifidelity Linear Regression for Scientific Machine Learning from Scarce Data"
+    - |-
+      Fast Maxwell Solvers on Approximate Geometries for Interpretable Scientific Machine
+      Learning and Nanophotonic Optimization
+  title: "Data-Driven Scientific Machine Learning for the Optimization of Complex Systems"
+80452:
+  class codes:
+    - 5104
+    - 5201
+    - 1000
+  emails:
+    - "31620e31683a9652"
+    - "ab41bfb683200972"
+    - "eabc7f32f936de66"
+    - "7a2115fab87c94f3"
+  organizers:
+    - "Kevin Miller"
+  speakers:
+    - "Nick Dexter"
+    - "Kevin Miller"
+    - "Ryan Murray"
+    - "Robert Webber"
+  talks:
+    - |-
+      Leveraging Randomness for Efficient Active Learning and Adaptive Sampling: An
+      Overview
+    - "Sample-Efficient Active Learning Strategies for Deep Learning in Scientific Computing"
+    - "Novelty Sampling for Fast, Effective Data Reduction"
+    - "Dirichlet Active Learning"
+  title: "Active and Adaptive Sampling for Data-efficient Machine Learning"
+80453:
+  class codes:
+    - 600
+    - 4300
+    - 5100
+  emails:
+    - "4f7ae96ff51b4291"
+    - "38e61833448fad20"
+    - "1d6ba3553bb9f173"
+    - "4b0a7654364bc18d"
+    - "5f8906d0e6b698e2"
+    - "b82dde8b7a386bfb"
+    - "84c5a259a0b6b9d5"
+  organizers:
+    - "Nicolas Garcia Trillos"
+    - "Sixu Li"
+    - "Konstantin Riedl"
+  speakers:
+    - "Giacomo Borghi"
+    - "Edoardo Calvello"
+    - "Nikita Karagodin"
+    - "Aimee Maurais"
+  talks:
+    - "Ensemble Kalman Methods for Non-Linear Filtering: A Mean-Field Perspective"
+    - "Optimization in Bures-Wasserstein Space Via Interacting Particle Systems"
+    - "Clustering Within Causal Transformer Attention Dynamics"
+    - "Sampling in Unit Time with Kernel Fisher-Rao Flow"
+  title: "Interacting Particle Systems in Data Science: From Theory to Applications"
+80492:
+  class codes:
+    - 5100
+    - 100
+    - 5200
+  emails:
+    - "f715a6ce8d96e202"
+    - "c3a752bde3c733e7"
+    - "9d35a6c5753333ba"
+    - "8535954f514f5798"
+    - "4e1094ac1ad7c397"
+  organizers:
+    - "Keaton Hamm"
+  speakers:
+    - "Shuchin Aeron"
+    - "Christian Kümmerle"
+    - "Elizaveta Rebrova"
+    - "Rishi Sonthalia"
+  talks:
+    - |-
+      Revisiting Hard Negative Sampling for Contrastive Learning: Optimal Representation
+      Geometry and Neural Vs Dimensional Collapse
+    - |-
+      Recovering Simultaneously Structured Data Via Non-Convex Iteratively Reweighted
+      Least Squares
+    - |-
+      Benign and Tempered Overfitting for Least Squares Error in Variables Regression
+      with Low Rank Data
+    - "Randomized Iterative Solvers for Linear Systems with Fast Spectral Decay"
+  title: "Structure in Data: Theory, Learning, and Algorithms"
+80509:
+  class codes:
+    - 5103
+    - 5200
+    - 1200
+  emails:
+    - "b163a59036be40c4"
+    - "41ff063d03607679"
+    - "2572234eb3ec00ff"
+    - "b6b8ccdfeda0b360"
+    - "94bff02640599cc0"
+  organizers:
+    - "Clayton Webster"
+  speakers:
+    - "Hossein Mobahi"
+    - "Andrew Starnes"
+    - "Hoang Tran"
+    - "Bao Wang"
+  talks:
+    - "Distributional Smoothing for Optimization"
+    - "Coarse vs Fine Grained Gradient Descent for Training Deep Neural Networks"
+    - "High-Dimensional Optimization with a Novel Nonlocal Gradient"
+    - "Implicit Methods for Deep Learning on Graphs"
+  title: "Smoothing-Based Optimization in Data Science and Machine Learning"
+80510:
+  class codes:
+    - 4300
+    - 5104
+    - 700
+  emails:
+    - "9e7f808d58e76464"
+    - "d5a57485389d5dbb"
+    - "8017096b54a9b107"
+    - "931fc1cc81be58ed"
+    - "a4bebac2b2cb4f3f"
+  organizers:
+    - "Carlos Sing-Long"
+    - "Qian Yang"
+  speakers:
+    - "William Anderson"
+    - "Tan Bui-Thanh"
+    - "Niall Mangan"
+    - "Carlos Sing-Long"
+  talks:
+    - |-
+      Learn2Solve: Real-Time Uncertainty Quantification for Solutions of Dynamical
+      Systems
+    - "Sparse model selection for oscillatory data-sets with hidden states"
+    - "Solver-in-the-Loop with Zeroth Order Training"
+    - |-
+      Interpretable Regularization-Based Nonparametric Uncertainty Quantification and
+      Model Reduction for Dynamical Systems
+  title: "Challenges in Data-Driven Learning for Dynamical Systems"
+80513:
+  class codes:
+    - 5103
+    - 5100
+    - 1400
+  emails:
+    - "98742c34fa177512"
+    - "dc0ce7ac7f4ecc0f"
+    - "74282a84c26bf38f"
+    - "b15e4327c71fdc19"
+    - "92ab68870441595f"
+    - "67323b39ec73bfa8"
+  organizers:
+    - "James Fairbanks"
+    - "Matthew Hale"
+  speakers:
+    - "Henry Adams"
+    - "Tyler Hanks"
+    - "Matthew Klawonn"
+    - "Evan Patterson"
+  talks:
+    - "Session Overview and The Synthetic Theory of Probability and Statistics"
+    - "A Compositional Framework for First-Order Optimization"
+    - "Mining Sheaf Theoretic Narratives"
+    - "Evasion Paths in Mobile Sensor Networks"
+  title: "Compositional Foundations for Optimization and Data Science"
+80514:
+  class codes:
+    - 5101
+    - 5102
+    - 5103
+  emails:
+    - "1ca764e4232b5fa3"
+    - "5b47128563db61a1"
+    - "1e8bac74f7add2e8"
+    - "fc25e1838186e882"
+    - "7e8bf30e758ad1ec"
+    - "957e2dedd64b0d91"
+  organizers:
+    - "Yongxin Chen"
+    - "Jiaming Liang"
+  speakers:
+    - "Krishnakumar Balasubramanian"
+    - "Siddharth Mitra"
+    - "Bo Yuan"
+    - "Matthew Zhang"
+  talks:
+    - "On Independent Samples Along the Langevin Diffusion and Algorithm"
+    - "Improved Dimension Dependence of a Proximal Algorithm for Sampling"
+    - "Towards Understanding the Dynamics of Gaussian-Stein Variational Gradient Descent"
+    - "Sampling from Interactive Energy Minimizers"
+  title: "Sampling Algorithms from An Optimization Perspective"
+80515:
+  class codes:
+    - 806
+    - 805
+    - 0
+  emails:
+    - "1aea0f2c4ae94760"
+    - "75c0f3ac2de038aa"
+    - "11cbb1e97f66173"
+    - "9c12187c80069680"
+    - "a83c33566c25f8be"
+  organizers:
+    - "Qing Qu"
+    - "Peng Wang"
+  speakers:
+    - "Minshuo Chen"
+    - "Yuxin Chen"
+    - "Qing Qu"
+    - "Mahdi Soltanolkotabi"
+  talks:
+    - "The Emergence of Reproducibility and Generalizability in Diffusion Models"
+    - "Accelerating Convergence of Score-Based Diffusion Models, Provably"
+    - |-
+      Score Approximation, Estimation and Distribution Recovery of Diffusion Models
+      on Low-Dimensional Data
+    - "Adapt and Diffuse: Sample-Adaptive Reconstruction Via Latent Diffusion Models"
+  title: "Mathematical Principles in Diffusion Models"
+80516:
+  class codes:
+    - 5103
+    - 400
+    - 806
+  emails:
+    - "9e0dc37f2f2918bd"
+    - "a9b44a3a6a883e9e"
+    - "7adcaf905bacb6bd"
+    - "b532ab917086236e"
+    - "5d02616afb49f0f4"
+    - "ca47bddb230b22d2"
+  organizers:
+    - "Yat Tin Chow"
+    - "Siting Liu"
+  speakers:
+    - "James Alcala"
+    - "Samy Wu Fung"
+    - "Xianjin Yang"
+    - "Benjamin Zhang"
+  talks:
+    - |-
+      Decoding Mean Field Games from Population and Environment Observations by Gaussian
+      Processes
+    - "Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control"
+    - |-
+      Deterministic and Stochastic Moving Anchor Extragradient Algorithms for Structured
+      Saddlepoint Problems
+    - "A Mean-Field Games Laboratory for Generative Modeling"
+  title: "Optimization Algorithms for Mean-field Games and Applications in Data Science"
+80517:
+  class codes:
+    - 5205
+    - 5000
+    - 806
+  emails:
+    - "7b0a6ae4f1f02648"
+    - "c90caf765b003be"
+    - "674a67991fc53d00"
+    - "b6b8ccdfeda0b360"
+    - "194d6062d47b9369"
+    - "3bead878a4688c6"
+    - "40a5b5ad3654b50b"
+  organizers:
+    - "Hoang Tran"
+    - "Guannan Zhang"
+    - "Zezhong Zhang"
+  speakers:
+    - "Yuan Chen"
+    - "Yulong Lu"
+    - "Cosmin Safta"
+    - "Zixiang Xiong"
+  talks:
+    - "Generalization Aspects of Diffusion Models"
+    - "Data Driven Modeling for Stochastic Systems"
+    - "Deep Learning Models for Accelerating Phase-Field Simulations"
+    - |-
+      Nonlinear Ensemble Filtering with Diffusion Models: Application to the Surface
+      Quasi-Geostrophic Dynamics
+  title: "Generative Machine Learning Models for Uncertainty Quantification"
+80518:
+  class codes:
+    - 1200
+    - 5200
+    - 600
+  emails:
+    - "7149b09caa64f860"
+    - "45d57bdae1597d7b"
+    - "54c2818da2627ae8"
+    - "9aa29ef8afe1dd27"
+    - "1e28c8ac00edd684"
+    - "d3cc872b5ff89c2"
+  organizers:
+    - "Elizabeth Newman"
+    - "Deepanshu Verma"
+  speakers:
+    - "Frank Curtis"
+    - "Ray Deep"
+    - "Dingcheng Luo"
+    - "Yeonjong Shin"
+  talks:
+    - |-
+      Stochastic-Gradient-Based Algorithms for Solving Nonlinearly Constrained Optimization
+      Problems
+    - "Data-Driven Discovery of a Constrained Weno Reconstruction"
+    - |-
+      $\sigma$-Anls: An Effective Training Method for Neural Networks with Sigmoidal
+      Activation
+    - |-
+      Enabling Efficient Pde Constrained Optimization under Uncertainty Using Derivative-Informed
+      Neural Operators
+  title: "Tackling Intractable Optimization"
+80521:
+  class codes:
+    - 5202
+    - 400
+    - 700
+  emails:
+    - "85cbdffe8a0ac0ae"
+    - "2d04e3e9471b5c7e"
+    - "b1d88ebae51833b2"
+    - "a1ab75fb56eeb20b"
+    - "ee28048454fa06ee"
+    - "c42045d61583c4ff"
+  organizers:
+    - "Ke Chen"
+    - "Lizuo Liu"
+  speakers:
+    - "Philip Charles"
+    - "Qing He"
+    - "Sanghyun Lee"
+    - "Zecheng Zhang"
+  talks:
+    - "On the Training and Generalization of Deep Operator Networks"
+    - "DeepMartNet"
+    - |-
+      Distributed Learning and Foundation Models for Multi-Operator Learning: Extrapolation
+      and Generalization
+    - "Operator Learning for the Petrov Galerkin Variational Form"
+  title: "Advances in PDE Operator Learning"
+80523:
+  class codes:
+    - 4300
+    - 5104
+    - 5203
+  emails:
+    - "a05b5e7172ed422f"
+    - "cc2c4f60061d902"
+    - "e82ce4fc613797dc"
+    - "fb26c7a482e9b8a9"
+    - "8a0d22406bd0cb34"
+    - "a44e78c40f67bb90"
+  organizers:
+    - "Matthew Levine"
+    - "George Stepaniants"
+    - "Iñigo Urteaga"
+  speakers:
+    - "Mars Gao"
+    - "Manu Jayadharan"
+    - "Scott Linderman"
+    - "Iñigo Urteaga"
+  talks:
+    - "Hierarchical learning of partially observed interrelated dynamical systems"
+    - |-
+      Estimating the Parameters of Multicompartment Hodgkin-Huxley Models from Extracellular
+      Voltage Recordings
+    - "Numerical Strategies for Model Selection of Differential Algebraic Equations"
+    - |-
+      Bayesian Autoencoders for Data-Driven Discovery of Coordinates, Governing Equations
+      and Fundamental Constants
+  title: "Data-Driven Learning of Dynamical Systems from Partial Observations"
+80524:
+  class codes:
+    - 1200
+    - 806
+    - 5207
+  emails:
+    - "c7558e5d0571e4ed"
+    - "96fa239f149073cb"
+    - "c53938d51f29d8f4"
+    - "b83b8622194d6115"
+  organizers:
+    - "HanQin Cai"
+    - "Jialin Liu"
+  speakers:
+    - "Tianlong Chen"
+    - "Jialin Liu"
+    - "Chengrun Yang"
+  talks:
+    - |-
+      Revisiting Zeroth-Order Optimization for Memory-Efficient Llm Fine-Tuning: A
+      Benchmark
+    - "Large Language Models As Optimizers"
+    - "Towards Constituting Mathematical Structures for Learning to Optimize"
+  title: "Blackbox Optimization Meets Machine Learning"
+80530:
+  class codes:
+    - 1000
+    - 5000
+    - 0
+  emails:
+    - "d388a31385b4dc46"
+    - "1dbb22c9a8d10bc5"
+    - "41b5002670f54009"
+    - "f75f3c23c136fb96"
+    - "7efdde5388be69d6"
+  organizers:
+    - "Pau Batlle"
+    - "Matthieu Darcy"
+  speakers:
+    - "Pau Batlle"
+    - "Luca Masserano"
+    - "Pratik Patil"
+    - "Jason Xu"
+  talks:
+    - "Optimal Ridge Regularization for Out-of-Distribution Prediction"
+    - "Bayesian Constraint Relaxation: Distance and Divergence Penalization"
+    - "Frequentist Confidence Intervals Via Optimization: Resolving the Burrus Conjecture"
+    - "Trustworthy Scientific Inference from Generative Models"
+  title: "Statistical Methods and Uncertainty Quantification"
+80534:
+  class codes:
+    - 5102
+    - 600
+    - 5000
+  emails:
+    - "b0fb7c3f00fde56e"
+    - "86e4c8811415917b"
+    - "40d8e8d715083a45"
+    - "a34e351b47f6aef"
+    - "53790e03392e708"
+    - "7c982c7aeac66fcf"
+  organizers:
+    - "Daniel Sanz-Alonso"
+    - "Ruiyi Yang"
+  speakers:
+    - "Jian Cao"
+    - "Hwanwoo Kim"
+    - "Alexander Terenin"
+    - "Rui Tuo"
+  talks:
+    - "Scalable Gaussian Process Regression for Censored Multivariate Spatial Processes"
+    - "Sampling from Gaussian Process Posteriors Using Stochastic Gradient Descent"
+    - "Asymptotic Theory for Linear Functionals of Kernel Ridge Regression"
+    - "Enhanced Gaussian Process Surrogates for Optimization and Sampling by Pure Exploration"
+  title: "Recent Advances in Gaussian Process and Kernel Methods"
+80541:
+  class codes:
+    - 5104
+    - 5107
+    - 900
+  emails:
+    - "8fa658f3ead12ca4"
+    - "e659463fe7f1639a"
+    - "53386f0c2057eeb7"
+    - "52da5e3ed418cd83"
+    - "d53be202a0c4ef72"
+  organizers:
+    - "Ye He"
+    - "Molei Tao"
+  speakers:
+    - "Sitan Chen"
+    - "Ye He"
+    - "Holden Lee"
+    - "Andre Wibisono"
+  talks:
+    - |-
+      Zeroth-Order Sampling Methods for Non-Log-Concave Distributions: Alleviating
+      Metastability by Denoising Diffusion
+    - "Optimal Score Estimation Via Empirical Bayes Smoothing"
+    - "Diffusions for Learning Gaussian Mixtures"
+    - |-
+      Provable Sampling from Multimodal Distributions: From Markov Chains to Diffusion
+      Models
+  title: "Sampling and Inferences with Multimodal Distributions"
+80543:
+  class codes:
+    - 806
+    - 5205
+    - 5207
+  emails:
+    - "ea98b812b30561e0"
+    - "cc9f56387a163d53"
+    - "815cffdb9e688fbe"
+    - "58f9abbc53c3e5a7"
+    - "e77746e908c79cb5"
+    - "d6b0c8b10680ea83"
+  organizers:
+    - "Sam Buchanan"
+    - "Zhihui Zhu"
+  speakers:
+    - "Kangwook Lee"
+    - "Yingbin Liang"
+    - "Weijie Su"
+    - "Yiqiao Zhong"
+  talks:
+    - "Theory on Training Dynamics of Transformers"
+    - "Uncovering Hidden Geometry in Transformers Via Disentangling Position and Context"
+    - |-
+      On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference
+      Collapse, Matching Policy, Regularization
+    - "Dual Operating Modes of In-Context Learning"
+  title: "Mathematical Principles in Foundation Models"
+80544:
+  class codes:
+    - 5104
+    - 2200
+    - 5109
+  emails:
+    - "984d34b62201d8f3"
+    - "7109507fbe019620"
+    - "a183d5e1d6ee05d3"
+    - "8266e59f609cc3e"
+    - "218e4ba536c5beb"
+    - "48d062c4ee77616a"
+  organizers:
+    - "Rodica Curtu"
+    - "Pake Melland"
+    - "Peter Thomas"
+  speakers:
+    - "Zachary Kilpatrick"
+    - "Mark Kramer"
+    - "Lyle Muller"
+    - "Peter Thomas"
+  talks:
+    - "Data Science Meets Neuroscience: An Overview"
+    - |-
+      Spatiotemporal Dynamics in Neural Systems: from Data to Mathematical Models and
+      Computation
+    - |-
+      Data Augmented Machine Learning to Improve Detection of Epilepsy Biomarkers in
+      Brain Voltage Recordings
+    - "Learning efficient representations of environmental priors in working memory"
+  title: "Data Science Meets Neuroscience"
+80547:
+  class codes:
+    - 805
+    - 3000
+    - 5202
+  emails:
+    - "d0edd606d0b6e36a"
+    - "a287fb0bb09fbc61"
+    - "7ae10571cde9f710"
+    - "3c297c5153661e5a"
+  organizers:
+    - "Lu Lu"
+    - "Jian-Xun Wang"
+  speakers:
+    - "Youzou Lin"
+    - "Lu Lu"
+    - "Romit Maulik"
+    - "Jian-Xun Wang"
+  talks:
+    - |-
+      Conditional Neural Field Latent Diffusion-Based Predictive Modeling of Stochastic
+      Spatiotemporal Physics.
+    - "One-Shot Learning for Solution Operators of Partial Differential Equations."
+    - "Simplifying Full Waveform Inversion Via Domain-Independent Self-Supervised Learning"
+    - "Scientific Discovery for Spatiotemporal Physics Using Graph Neural Networks"
+  title: "Scientific Machine Learning for Predictive Modeling of Spatiotemporal Physics"
+80549:
+  class codes:
+    - 5104
+    - 5107
+    - 5103
+  emails:
+    - "4ba2d11d3c574c0b"
+    - "84690459448a286b"
+    - "4847720937eee4e7"
+    - "36409e789fd11cec"
+    - "a171bbb059892d8a"
+    - "ac3903ac92d7866e"
+  organizers:
+    - "Qi Feng"
+    - "Lingjiong Zhu"
+  speakers:
+    - "Samuel Chun Hei Lam"
+    - "Wuchen Li"
+    - "Sotirios Sabanis"
+    - "Mo Zhou"
+  talks:
+    - "Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences"
+    - "Information Gamma Calculus: Convexity Analysis for Stochastic Differential Equations"
+    - "From Langevin Based Optimizers to Diffusion Based Generative Models"
+    - "High Order Normalizing Flow and Neural Ode for Mean Field Control Problems"
+  title: "Advances of SDEs in Machine Learning"
+80551:
+  class codes:
+    - 5203
+    - 5205
+    - 5000
+  emails:
+    - "7149b09caa64f860"
+    - "32e48dd0f5900fd2"
+    - "445830d019de701a"
+    - "674a67991fc53d00"
+    - "8dc66e44890f2de7"
+  organizers:
+    - "Assad Oberai"
+    - "Deep Ray"
+  speakers:
+    - "Julius Berner"
+    - "Qiuyi Chen"
+    - "Yuan Chen"
+    - "Assad Oberai"
+  talks:
+    - |-
+      Generative Models for Inverse Design of Multi-Physics Devices: Challenges and
+      Opportunities
+    - "Diffusion Models for Solving Probabilistic Inverse Problems"
+    - "Combining Diffusion Models and SMC for (posterior) Sampling"
+    - "Discovering Unknown Nonautonomous Stochastic Dynamics from Noisy Data."
+  title: "Recent Trends in Generative Models for Solving Probabilistic Inverse Problems"
+80554:
+  class codes:
+    - 806
+    - 5201
+    - 5210
+  emails:
+    - "307dc3e804d31789"
+    - "4fc2506f15737b06"
+    - "f0f404e71cd21c7d"
+    - "78b41733a7a40825"
+    - "cf2d215d9601595f"
+    - "6e9b110fa0f59fe8"
+  organizers:
+    - "Yifan Chen"
+    - "Yijun Dong"
+    - "Qi Lei"
+  speakers:
+    - "Alice Cortinovis"
+    - "Michal Derezinski"
+    - "Zachary Izzo"
+    - "Qi Lei"
+  talks:
+    - "Randomization and Strong Rank-Revealing Qr for Column Subset Selection"
+    - "Data-Driven Subgroup Identification for Linear Regression"
+    - "Solving Linear Systems Faster with Random Sampling and Sketching"
+    - |-
+      Randomized Mask Generation and Selection: From Unstructured to Structured Model
+      Pruning
+  title: "Efficient Computation and Learning with Randomized Sampling and Pruning"
+80557:
+  class codes:
+    - 4300
+    - 700
+    - 5101
+  emails:
+    - "f22d86d57407e44b"
+    - "c1d08f541d86c055"
+    - "a943c357e1e557bc"
+    - "d03c1528b1cbf9ab"
+  organizers:
+    - "Nisha Chandramoorthy"
+  speakers:
+    - "Panagiota Birmpa"
+    - "Nisha Chandramoorthy"
+    - "Dimitrios Giannakis"
+    - "Levon Nurbekyan"
+  talks:
+    - "Learning Dynamical Systems with Optimal Transport"
+    - "Proximal Optimal Transport Divergences and Their Connections with Neural Operators"
+    - "Differentiable Programming for Spectral Approximation of Koopman Operators"
+    - "The dynamics of learning, sampling and dimension reduction"
+  title: "Operator Learning for Dynamical Systems"
+80558:
+  class codes:
+    - 5208
+    - 5200
+    - 0
+  emails:
+    - "39ca08e5844a92a"
+    - "68ff0a17b2b2adbf"
+    - "d2b009047c312857"
+    - "8ccf08cf2f3bf347"
+    - "4a0488a4c026968f"
+    - "57aad19d26b59118"
+  organizers:
+    - "Eli Chien"
+    - "Pan Li"
+  speakers:
+    - "Raman Arora"
+    - "Kamalika Chaudhuri"
+    - "Chuan Guo"
+    - "Wanrong Zhang"
+  talks:
+    - "Measuring Data Leakage in Machine-Learning Models with Fisher Information"
+    - "Privacy in Representation Learning: Measurement and Mitigation"
+    - "Machine UnLearning via Algorithmic Stability"
+    - "Attribute Privacy: Framework and Mechanisms"
+  title: "New Frontier of Privacy in Machine Learning"
+80559:
+  class codes:
+    - 5101
+    - 5200
+    - 600
+  emails:
+    - "95a094f3b0f95b7a"
+    - "3888f93f0a2b0bf4"
+    - "3caaeb15aa988804"
+    - "b4bfcda69b87e46f"
+    - "afeef824ba0c6b60"
+  organizers:
+    - "Benjamin Peherstorfer"
+    - "Lars Ruthotto"
+  speakers:
+    - "Moshe Eliasof"
+    - "Davide Murari"
+    - "Benjamin Peherstorfer"
+    - "Alex Townsend"
+  talks:
+    - |-
+      CoLoRA: Continuous Low-Rank Adaptation for Reduced Implicit Neural Modeling of
+      Parameterized Partial Differential Equations
+    - "Data-driven Computation of Spectral Properties of Koopman Operators"
+    - "Data-Driven Higher Order Differential Equations Inspired Graph Neural Networks"
+    - "Structure-Preserving Solutions of Hamiltonian Systems Based on Neural Networks"
+  title: "Continuous-in-time Learning for and with Deterministic and Stochastic Dynamics"
+80560:
+  class codes:
+    - 5114
+    - 2200
+    - 4300
+  emails:
+    - "f8d209f1d301c955"
+    - "bfe7bee178c1b2e"
+    - "7bad13b9ed4580ab"
+    - "43552a77254a6318"
+    - "efeac9586581d021"
+  organizers:
+    - "Weiqi Chu"
+    - "Yao Li"
+  speakers:
+    - "Wai-Tong (louis) Fan"
+    - "Yao Li"
+    - "Padmanabhan Seshaiyer"
+    - "Lihong Zhao"
+  talks:
+    - |-
+      Computational Modeling, Analysis and Simulation for Data-Driven Challenges in
+      Mathematical Biology with Applications to Epidemiology
+    - "Recurrent Mutation in the Ancestry of a Rare Variant"
+    - |-
+      Mobility in Classical Epidemiological Models: Final Pandemic Size and Data-Driven
+      Inference
+    - "Modeling the Menstrual Cycle and Dosing Regimens of Oral Hormonal Contraceptives"
+  title: "Data-driven Methods in Mathematical Biology"
+80561:
+  class codes:
+    - 5204
+    - 5200
+    - 0
+  emails:
+    - "4c321203d16e9f3f"
+    - "73dd696146082eb1"
+    - "e4396554de910fee"
+    - "d2b009047c312857"
+    - "2814877647640f92"
+    - "57aad19d26b59118"
+  organizers:
+    - "Eli Chien"
+    - "Pan Li"
+  speakers:
+    - "Ziang Chen"
+    - "Santiago Segarra"
+    - "Jiliang Tang"
+    - "Hanghang Tong"
+  talks:
+    - "Regularizing inverse problems on graphs with score-based priors"
+    - "On Representing (Mixed-Integer) Linear Programs by Graph Neural Networks"
+    - "Optimal Deep Graph Learning: Towards a New Frontier"
+    - "Learning on Graphs: What is Next?"
+  title: "New Frontier of Graph Machine Learning"
+80562:
+  class codes:
+    - 806
+    - 4300
+    - 1200
+  emails:
+    - "14a159f4493038ea"
+    - "682066f6137d0ea2"
+    - "dfc97da172fb38cf"
+    - "a2509f303789a7f6"
+    - "d53be202a0c4ef72"
+  organizers:
+    - "Molei Tao"
+    - "Yuqing Wang"
+  speakers:
+    - "Mikhail Belkin"
+    - "Andrej Risteski"
+    - "Yuqing Wang"
+    - "Tong Zhang"
+  available-slots:
+    - 7
+    - 8
+    - 9
+    - 10
+  talks:
+    - "Catapult Dynamics and Feature Learning in Neural Networks"
+    - |-
+      The Mechanism Behind the Implicit Biases of Large Learning Rates: Edge of Stability,
+      Balancing, and Catapult
+    - |-
+      From Mixing Time to Sample Complexity: Elucidating the Design Space of Score-Based
+      Losses
+    - "tbd"
+  title: "The Dynamical View of Machine Learning"
+80565:
+  class codes:
+    - 5200
+    - 807
+    - 4809
+  emails:
+    - "c8315e27a01fe7de"
+    - "fd011a58b48fa9c6"
+    - "5baf577f64208adf"
+    - "4f3f0b8f28241725"
+    - "255788e4935bd760"
+  organizers:
+    - "Yuta Hozumi"
+  speakers:
+    - "Jiahui Chen"
+    - "Hongsong Feng"
+    - "Nicole Hayes"
+    - "Rui Wang"
+  talks:
+    - |-
+      Math Meets AI: Leveraging Computational Topology and Ai Models to Advance Covid-19
+      Research
+    - |-
+      Transformer-Assisted Spectral Graph Algorithms for Predicting Scarcely Labeled
+      and Imbalanced Molecular Data
+    - "Knot Data Analysis Using Multiscale Gauss Link Integral"
+    - "Geometric and Topological Data Analysis in Biology Applications"
+  title: "Integrating Topological Data Analysis and Data Science with Biological Applications"
+80571:
+  class codes:
+    - 4300
+    - 5201
+    - 5104
+  emails:
+    - "975bdc0fad67d97c"
+    - "796e82e8a479f83"
+    - "f00d82d688d91ba1"
+    - "efeac9586581d021"
+    - "dab37365ce7fe2de"
+    - "1f9427718447b392"
+  organizers:
+    - "Xiong Wang"
+    - "Ming Zhong"
+  speakers:
+    - "Weiqi Chu"
+    - "Demetrio Labate"
+    - "Daniel Messenger"
+    - "Haizhao Yang"
+  talks:
+    - "Learning the Interaction Kernel from a Mean-Field Opinion Model"
+    - |-
+      Provable Approximations of Multivariate Functions on Smooth Manifolds Using Deep
+      Relu Neural Networks
+    - |-
+      Advantages of Weak-Form Equation Learning in Multiscale Model Inference and Reduced-Order
+      Models for Parametric Pdes
+    - "Finite Expression Method: A Symbolic Approach for Scientific Machine Learning"
+  title: "Recent Advances in Learning from High-Dimensional Data"
+80572:
+  class codes:
+    - 5101
+    - 1400
+    - 5104
+  emails:
+    - "69ffab1596f02770"
+    - "38a38e5038680d9"
+    - "904ee9dd5e0ea25d"
+    - "dcc2caef6c9f7f13"
+    - "b79013511a8d0a35"
+  organizers:
+    - "Rongjie Lai"
+  speakers:
+    - "Xiuyuan Cheng"
+    - "Hao Liu"
+    - "Guido Montufar"
+    - "Wei Zhu"
+  talks:
+    - "Statistical Guarantees of Learning under Invariance"
+    - "Learning Curves for Gaussian Process Regression with Power-Law Priors and Targets"
+    - |-
+      Exploring Low-Dimensional Data Structures by Neural Networks with Applications
+      on Learning Operators
+    - |-
+      Kernel Regression on Data with Low Intrinsic Dimensionality: the Optimal Adaptive
+      Posterior Contraction Rate
+  title: "Incorporating Geometry in Machine Learning: Theory and Applications"
+80578:
+  class codes:
+    - 1400
+    - 5106
+    - 4812
+  emails:
+    - "5094acea3b03356"
+    - "dc5fc500856eae9"
+    - "b74d8473d2624c6f"
+    - "7e946a1a5441d730"
+    - "27d979e8c8b30c22"
+  organizers:
+    - "Shiying Li"
+    - "Caroline Moosmueller"
+  speakers:
+    - "Zixuan Cang"
+    - "Kun Meng"
+    - "Caroline Moosmueller"
+    - "Guy Wolf"
+  talks:
+    - "Trajectory Inference in Wasserstein Space"
+    - "Statistical Inference on Shapes and Grayscale Images Via Euler Characteristic"
+    - "Modeling single-cell and spatial transcriptomics data using optimal transport"
+    - "Guided Data Exploration with (semi-)supervised Manifold Learning"
+  title: "Manifold Learning, Trajectory Inference, and Applications in Biology"
+80580:
+  class codes:
+    - 5101
+    - 1400
+    - 5104
+  emails:
+    - "55506f421a19f949"
+    - "51b59913f7a0adad"
+    - "f4b1a4f6661e0b1b"
+    - "2a67779de454131d"
+    - "909bb69a281dd597"
+  organizers:
+    - "Wenjing Liao"
+  speakers:
+    - "Mauro Maggioni"
+    - "Elisa Negrini"
+    - "Chris Vavaliaris"
+    - "Jiajia Yu"
+  talks:
+    - "Learning Interaction Kernels for Particle Systems on Networks"
+    - "Energy Conservative Quadrature Based Hyperreduction of Lagrangian Fluid Dynamics"
+    - "A Bilevel Optimization Approach for Inverse Mean-Field Games"
+    - "Multimodal Multioperator Transformers for Forward and Inverse Problems"
+  title: "Incorporating Scientific Computation in Machine Learning: Theory and Applications"
+80582:
+  class codes:
+    - 5205
+    - 5102
+    - 5000
+  emails:
+    - "10510be9ba84bf17"
+    - "8f4135a89118baf"
+    - "e419fbd4abf27f12"
+    - "7868f4d8ea1535bf"
+    - "8970791d7675f5e2"
+  organizers:
+    - "Andreas Robertson"
+    - "Florian Schaefer"
+  speakers:
+    - "Joseph Anderson"
+    - "Stephen Huan"
+    - "Matthias Katzfuss"
+    - "Andreas Robertson"
+  talks:
+    - "Möbius Inversion Meets Tensors: Sampling by Edgeworth Series"
+    - |-
+      Generative modeling of conditional spatial distributions via autoregressive Gaussian
+      processes
+    - |-
+      Local-Global Decompositions: Data-Scarce and Stable Deep Generative Models for
+      Turning Sparse Experiments into Big Datasets in Materials Science
+    - |-
+      Open Problems in the Microscopic Deformation of Solids and Their Relation to Random
+      Fields
+  title: |-
+    From Miles to Microns: Combining Machine Learning and Higher-order Spatial
+    Statistics for Scientific Problems in the Data-scarce Regime
+80587:
+  class codes:
+    - 1400
+    - 5204
+    - 5100
+  emails:
+    - "70fea93d485c5aca"
+    - "bcf43a3c66e2f67c"
+    - "51c8ed2d6bd5ddc0"
+    - "f5ca61822954b95d"
+    - "a6c6b10686b1ed13"
+    - "9fb8cf377f48e992"
+  organizers:
+    - "Andrew Blumberg"
+    - "Abigail Hickok"
+  speakers:
+    - "Smita Krishnaswamy"
+    - "Bastian Rieck"
+    - "Luis Scoccola"
+    - "Melanie Weber"
+  talks:
+    - "The Changing Topology of Task-Oriented Brain State Activations"
+    - "Discrete Curvature and Applications in Graph Machine Learning"
+    - "No Metric to Rule Them All: Gauging the Graphicality of Graph Data"
+    - |-
+      Structure, Stability, Computation, and Applications of Multi-Parameter Persistence
+      Barcodes
+  title: "Geometric and Topological Methods in Data Science and Machine Learning"
+80588:
+  class codes:
+    - 1100
+    - 5100
+    - 806
+  emails:
+    - "4921dadff47f9cf1"
+    - "a6077edede8bcae"
+    - "aff80a1be391414b"
+    - "1123a2eb18cc709a"
+    - "61df31c6dee3b187"
+  organizers:
+    - "Vignesh Narayanan"
+    - "Krishnan Raghavan"
+  speakers:
+    - "Saima Alam"
+    - "Krishnan Raghavan"
+    - "Vishwas Rao"
+    - "Wei Zhang"
+  talks:
+    - "Uncertainty-Adjusted Machine Learning Via Optimal Control"
+    - |-
+      Randomized algorithms for Bayesian inversion and data acquisition in predictive
+      digital twins
+    - |-
+      Continual Learning in Lithium-Ion Battery Management Systems for Electric Vehicle
+      Safety
+    - |-
+      Dynamic Pattern Formation through Distribution Control of Moment Kernelized Population
+      Systems
+  title: |-
+    Systems-Theoretic Approaches to Learning: Applications to Estimation and
+    Control
+80594:
+  class codes:
+    - 5101
+    - 1400
+    - 5104
+  emails:
+    - "5094acea3b03356"
+    - "b8801a6bc51c85c8"
+    - "c7c830971e3fdeec"
+    - "4e1094ac1ad7c397"
+    - "909bb69a281dd597"
+    - "e1dadcc360f48e0"
+  organizers:
+    - "Alexander Cloninger"
+    - "Jiajia Yu"
+  speakers:
+    - "Rocío Diaz Martin"
+    - "Keaton Hamm"
+    - "Shiying Li"
+    - "Gustavo Rhode"
+  talks:
+    - "Towards Predictive Modeling in Wasserstein Spaces: a Signal Transformation Approach"
+    - "Data Representation with Optimal Transport"
+    - "Approximation and Registration with Slice-Matching Transport"
+    - "Manifold Learning in Wasserstein Space"
+  title: "Incorporating Optimal Transport in Machine Learning: Theory and Applications"
+80596:
+  class codes:
+    - 4900
+    - 806
+    - 0
+  emails:
+    - "63c0b8e1dad7c2df"
+    - "5c9ed7c135465bdb"
+    - "942a1dfc204100b1"
+    - "22345ed614da5c6b"
+    - "6c1e47946fea5bd4"
+    - "904ee9dd5e0ea25d"
+    - "ad57b325a7bb303f"
+    - "d8108f454c0d7f02"
+  organizers:
+    - "Yaim Cooper"
+    - "Guido Montufar"
+    - "Jose Rodriguez"
+    - "Tingting Tang"
+  speakers:
+    - "Sergei Gukov"
+    - "Joe Kileel"
+    - "Sonja Petrovic"
+    - "Anna Seigal"
+  talks:
+    - "The Effect of Smooth Parametrizations on Nonconvex Optimization Landscapes"
+    - "Identifiability of Overcomplete Independent Component Analysis"
+    - "The Spark Randomizer: a Probabilistic and Supervised Learning Approach for Computing Gröbner Bases"
+    - "Searching for Unicorns"
+  title: "Algebraic Geometry and Machine Learning"
+80597:
+  class codes:
+    - 5200
+    - 4300
+    - 400
+  emails:
+    - "cf10eb74912a1942"
+    - "93f1a16c84ef2cba"
+    - "b83a0e8a09c56299"
+    - "a6dbfb7fb0d039a1"
+    - "525763ab60ac0853"
+  organizers:
+    - "Nicholas Fisher"
+    - "Bruno Jedynak"
+  speakers:
+    - "Nicholas Fisher"
+    - "Samuel Grauer"
+    - "Andrei Klishin"
+    - "Joel Rosenfeld"
+  talks:
+    - "The Occupation Kernel Method for Learning Vector Fields with Constraints"
+    - "Statistical Mechanics of Dynamical System Identification"
+    - |-
+      Solving Parameterized-PDE-Constrained Inverse Problems for Flow Reconstruction
+      and Particle Characterization
+    - "An Operator Theoretic Approach to Resolving Inverse Problems"
+  title: "Learning Nonlinear Differential Equations from Data"
+80598:
+  class codes:
+    - 5205
+    - 900
+    - 5201
+  emails:
+    - "adf1c5bdc6c00d26"
+    - "19bd83d6f046f21c"
+    - "97cb6add1328bb9"
+    - "18dc75e20e024dca"
+    - "6245905d1ff7a7c1"
+  organizers:
+    - "Nicole Yang"
+  speakers:
+    - "Ricardo Baptista"
+    - "Hyemin Gu"
+    - "Nikola Kovachki"
+    - "Yuchen Zhu"
+  talks:
+    - "Diffusion Models for Functions"
+    - "Solving Infinite-Dimensional Inverse Problems with Score-Based Diffusion Models"
+    - "Quantum State Generation with Structure-Preserving Diffusion Model"
+    - "Wasserstein proximals stabilize training of generative models and learn manifolds"
+  title: "Stochastic Transport in Finite and Infinite Dimensional Generative Models"
+80601:
+  class codes:
+    - 5200
+    - 5205
+    - 1000
+  emails:
+    - "9e0dc37f2f2918bd"
+    - "4ea3a5f627f7ce53"
+    - "b532ab917086236e"
+    - "667f929c2125b29a"
+    - "6245905d1ff7a7c1"
+  organizers:
+    - "Benjamin Zhang"
+  speakers:
+    - "Jeremiah Birrell"
+    - "Ziyu Chen"
+    - "Siting Liu"
+    - "Nicole Yang"
+  talks:
+    - "Multilevel Diffusion Models"
+    - |-
+      Wasserstein Proximal Operators Describe Score-Based Generative Models and Resolve
+      Memorization
+    - "Structure Preserving Generative Flows"
+    - |-
+      Lipschitz-Regularized Alpha Divergences for Heavy-Tailed Data with Applications
+      to Generative Modeling
+  title: "Foundations of Structure-exploiting Flow-based Generative Models"
+80603:
+  class codes:
+    - 5109
+    - 5204
+    - 806
+  emails:
+    - "7a290aa54c53e365"
+    - "a58af350bc3f9c40"
+    - "229a66249b5170b7"
+    - "24839fbb1cdf9762"
+  organizers:
+    - "Gyaneshwar Agrahari"
+    - "Bishal Lamichhane"
+  speakers:
+    - "Gyaneshwar Agrahari"
+    - "Ibrahem Aljabea"
+    - "Bishal Lamichhane"
+    - "Yogesh Sapkota"
+  talks:
+    - "Why Is Constructing An Insightful Network Challenging?"
+    - |-
+      A Network Science Approach to Understanding EV Charging Accessibility in the Texas
+      Triangle Region
+    - "Decoding Social Networks: Llm Agents and Information Flow Dynamics"
+    - "Topological Neural Networks"
+  title: "Graph Learning and Network Analytics: Framework, Information Flow and Applications"
+80604:
+  class codes:
+    - 5200
+    - 1200
+    - 5208
+  emails:
+    - "ab95ce1502db2ff9"
+    - "fc31cb6cb1be2c6e"
+    - "d4d77fc49ed7dded"
+    - "d77f76318e9b64db"
+    - "6c107a136e8dc4bc"
+  organizers:
+    - "Paul Laiu"
+  speakers:
+    - "Aditya Devarakonda"
+    - "Xue Feng"
+    - "John Gounley"
+    - "Steffen Schotthoefer"
+  talks:
+    - "Dynamical Low-Rank Training Strategies for Federated Learning"
+    - "Hybrid s-step SGD and federated SGD for large scale optimization"
+    - "Federated Learning from Heterogenous Private Data Silos"
+    - "FedOSAA: Accelerating Federated Learning with One-Step Anderson Acceleration"
+  title: "Communication-efficient and Privacy-preserving Federated Learning Algorithms"
+80605:
+  class codes:
+    - 806
+    - 803
+    - 805
+  emails:
+    - "37690e879ed038b0"
+    - "dca628e397f31a04"
+    - "bd9784ecbefbff6e"
+    - "9c7ff3aa2b0bf7fb"
+    - "f692ca7f17d30a42"
+  organizers:
+    - "Carlo Graziani"
+    - "Stefan Wild"
+  speakers:
+    - "Roger Ghanem"
+    - "Carlo Graziani"
+    - "Andrey Lokhov"
+    - "Vanessa Lopez-Marrero"
+  talks:
+    - "Towards a Notion of Model Correctness for Deep Learning"
+    - "Learning from Data Via Measure Transport"
+    - "Physics Extraction Pods: Navigating the Landscape Between Learning and Knowing"
+    - "Towards rigorous learning of energy-based models"
+  title: "Foundational Mathematics for AI Model Correctness"
+80606:
+  class codes:
+    - 5111
+    - 5100
+    - 5202
+  emails:
+    - "f160d5e807941040"
+    - "845b0f02ef2aa9ce"
+    - "e4e9840f326deecf"
+    - "f6ac02b7e0d44ac1"
+    - "1092214389dca24c"
+    - "ce7645976a64324d"
+  organizers:
+    - "Suman Devkota"
+    - "Uttam Dhakal"
+  speakers:
+    - "Alyssa Blount"
+    - "Suman Devkota"
+    - "Chandra Dhakal"
+    - "Russell Jeter"
+  talks:
+    - "Applications of AI and Machine Learning in Healthcare"
+    - |-
+      Predicting Alm, Bd, and Bf Using Supervised and P-Laplacian Based Semi-Supervised
+      Learning
+    - |-
+      Robotics-Assisted Stroke Rehabilitation with Machine Learning-Based Residual Severity
+      Classification
+    - |-
+      Association Between the Socio-Economic Status and Cardiovascular Diseases Using
+      Deep Learning
+  title: "High-Precision Prediction of Health Metrics Using Machine Learning"
+80607:
+  class codes:
+    - 5207
+    - 5205
+    - 5209
+  emails:
+    - "4d1eed279ab20760"
+    - "3ad5e4ca311f0b8a"
+    - "a58af350bc3f9c40"
+    - "e4e9840f326deecf"
+    - "9adf3b3548884cea"
+    - "bfbcc7ef3b39b256"
+  organizers:
+    - "Yogesh Sapkota"
+    - "Aniket Singh"
+  speakers:
+    - "Uttam Dhakal"
+    - "Gaurav Gupta"
+    - "Aniket Singh"
+    - "Umesh Yadav"
+  talks:
+    - "Evaluating the Efficacy of Large Language Models: Applications and Challenges"
+    - |-
+      Decoding Confidence and Accuracy: A Comparative Analysis of Llm Performance on
+      Leetcode Challenges
+    - "The Nuances of Large-Language-Model-Agent, Performance in Simple English Auctions"
+    - "Enhancing Ai Interactions: A Comprehensive Review on Prompt Engineering Techniques"
+  title: "Evaluation of Large Language Models: Challenges and Application"
+80608:
+  class codes:
+    - 5100
+    - 4800
+    - 5200
+  emails:
+    - "8535954f514f5798"
+    - "e7a4e3c6bc1c87d3"
+    - "96fa239f149073cb"
+    - "6e8cfeb302fdaebc"
+    - "22589ae1b5badd1f"
+    - "b2419fa4e3a59f99"
+  organizers:
+    - "Longxiu Huang"
+    - "Elizaveta Rebrova"
+  speakers:
+    - "Laura Balzano"
+    - "HanQin Cai"
+    - "Kiryung Lee"
+    - "Hanbaek Lyu"
+  talks:
+    - |-
+      Efficient Low-Dimensional Compression for Deep Overparameterized Learning and
+      Fine-Tuning
+    - "Zeroth-Order Regularized Optimization"
+    - "Least Absolute Deviation Approach to Robust Max-Affine Regression"
+    - "Exponentially Convergent Algorithms for Supervised Matrix Factorization"
+  title: "Efficient and Robust Optimization Techniques for Structured Data Learning"
+80609:
+  class codes:
+    - 5100
+    - 1400
+    - 0
+  emails:
+    - "83d72721e65f37f5"
+    - "b4a7b60218258054"
+    - "8070115b7e798a97"
+    - "63f9302d6e26ee2d"
+    - "841dcfd34d9c9caa"
+    - "863a6aeb89c6e3df"
+    - "bdd8c22f6c5f2279"
+  organizers:
+    - "Enrique Alvarado"
+    - "Robin Belton"
+    - "Sarah Percival"
+  speakers:
+    - "Fangfei Lan"
+    - "Paul Rosen"
+    - "Radmila Sazdanovic"
+    - "Nikolas Schonsheck"
+  talks:
+    - "Topology and InfoVis: Scatterplot, Line Charts, and Graphs"
+    - "Topological Characterization and Uncertainty Visualization of Atmospheric Rivers"
+    - "Topological Dimensionality Reduction Via Persistent Cohomology"
+    - "TBD"
+  title: "Topological Data Visualization"
+80610:
+  class codes:
+    - 5104
+    - 5201
+    - 5107
+  emails:
+    - "1342cbee8b921175"
+    - "4a50e9470a1bd623"
+    - "19e43b52fb735f84"
+    - "28aa60c37ab3bbac"
+    - "9fcf7a6480c320eb"
+  organizers:
+    - "Haoxuan Chen"
+    - "Sven Wang"
+  speakers:
+    - "Jing An"
+    - "Bamdad Hosseini"
+    - "Yinuo Ren"
+    - "Sven Wang"
+  talks:
+    - "Statistical Optimality of ODE-Based Generative Modelling"
+    - |-
+      Why Does the Two-Timescale Q-Learning Converge to Different Mean Field Solutions?
+      A Unified Convergence Analysis
+    - "Kernel Methods for Dynamic Generative Modeling: Theory and Algorithms"
+    - "Statistical Spatially Inhomogeneous Diffusion Inference"
+  title: "Modern Scientific Machine Learning from a Statistical Perspective"
+80614:
+  class codes:
+    - 806
+    - 600
+    - 700
+  emails:
+    - "7c4e18e3234c16b9"
+    - "9f4c236b727905ce"
+    - "876fa3f177149c66"
+    - "6e639a41208885a6"
+    - "feedfb9dc6dc2276"
+    - "185dced1bee00439"
+    - "e831dc937265cec1"
+  organizers:
+    - "Jonas Actor"
+    - "Anthony Gruber"
+    - "Adrienne Propp"
+  speakers:
+    - "Shivam Barwey"
+    - "Theo Bourdais"
+    - "Josef Hoppe"
+    - "Nicholas Moore"
+  talks:
+    - "Graph Neural Networks and Applied Linear Algebra"
+    - "Representing Edge Flows on Graphs Via Sparse Cell Complexes"
+    - |-
+      Computational Hypergraph Discovery: A Gaussian Process Framework to Connect the
+      Dots
+    - "Interpretable Fine-Tuning for Graph Neural Network Surrogate Models"
+  title: "Machine Learning on Graphs for Physical Sciences and Data Analysis"
+80615:
+  class codes:
+    - 5101
+    - 1200
+    - 5102
+  emails:
+    - "876542a9f46d7c16"
+    - "e2ce81c6de0daa4e"
+    - "70a73164d1906d55"
+    - "e5af83c10b033906"
+    - "ab7f72cd703807d3"
+    - "2b76debe04f44609"
+    - "5e1fa5a60487a722"
+  organizers:
+    - "Oscar Leong"
+    - "Eliza O'Reilly"
+    - "Yong Sheng Soh"
+  speakers:
+    - "Jeremy Budd"
+    - "Sara Fridovich-Keil"
+    - "Zahra Kadkhodaie"
+    - "Yann Traonmilin"
+  talks:
+    - "On Optimal Methods for Inverse Problems with Low-Dimensional Models"
+    - "Weak Convexity and Learned Regularization"
+    - "Thermal Radiance Fields: Regularization for Sensor Fusion"
+    - "Generalization in diffusion models arises from geometry-adaptive harmonic representation"
+  title: "Data-Driven Regularization: Theory and Applications"
+80618:
+  class codes:
+    - 5101
+    - 1400
+    - 1500
+  emails:
+    - "27d0e123a9abac5f"
+    - "e3396221103fb213"
+    - "ad57b325a7bb303f"
+    - "ee79d69dbc1f38ca"
+    - "7c982c7aeac66fcf"
+    - "4c50fd45050a8a71"
+  organizers:
+    - "Joe Kileel"
+    - "Amit Moscovich"
+  speakers:
+    - "Khanh Dao Duc"
+    - "Soheil Kolouri"
+    - "Gilles Mordant"
+    - "Ruiyi Yang"
+  talks:
+    - "Manifold Learning with Regularized Sparse Optimal Transport"
+    - "Stereographic Spherical Sliced Wasserstein Distances"
+    - "Alignment of Density Maps in Wasserstein Distance"
+    - |-
+      Partial Alignment and Enhancement of 3D Maps for Automated Atomic Building in
+      Cryo-Em
+  title: |-
+    Processing Data with Geometric Structure: Optimal Transport and Manifold
+    Learning
+80619:
+  class codes:
+    - 600
+    - 5106
+    - 0
+  emails:
+    - "b7bde9fc71af958f"
+    - "45d57bdae1597d7b"
+    - "922173577079fbb9"
+    - "74eca9c877360621"
+    - "c5a57b797fe2995f"
+    - "8809877899317146"
+    - "f5b492249fdbbb2b"
+  organizers:
+    - "Jamie Haddock"
+    - "Anna Ma"
+    - "Karamatou Yacoubou-Djima"
+  speakers:
+    - "Johannes Brust"
+    - "Paulina Hoyos"
+    - "Alona Kryshchenko"
+    - "Elizabeth Newman"
+  talks:
+    - "Compact Hessian Estimates for Data-Fitting"
+    - |-
+      An Extension of the Tensor Randomized Kaczmarz Algorithm to Problems with Factorized
+      Operator or Data
+    - "Randomized Gauss-Seidel and Column-Slice-Action Methods for Tensor Problems"
+    - "Optimal Matrix-Mimetic Tensor Algebras via Variable Projection"
+  title: "Randomized Iterative Algorithms for Large-scale Matrix and Tensor Data"
+80620:
+  class codes:
+    - 4300
+    - 600
+    - 700
+  emails:
+    - "f1e05da167760727"
+    - "dbac58c9302ad59a"
+    - "7c4e18e3234c16b9"
+    - "84c783ecd868ef94"
+    - "820235098d502c64"
+    - "d2c69693c5de5f7f"
+  organizers:
+    - "Ionut-Gabriel Farcas"
+    - "Serkan Gugercin"
+  speakers:
+    - "Anthony Gruber"
+    - "Tomoki Koike"
+    - "Paul Schwerdtner"
+    - "Steffen W. R. Werner"
+  talks:
+    - "Data-Driven Estimation of Stability Guarantees for Nonlinear Dynamical Systems"
+    - "Learning Mechanical Systems Via a Structured AAA Algorithm"
+    - |-
+      Greedy Construction of Quadratic Manifolds for Nonlinear Dimensionality Reduction
+      and Nonlinear Model Reduction.
+    - "Variationally Consistent Hamiltonian Model Reduction"
+  title: |-
+    Recent Advancements in Data-driven Model Reduction: Theory, Algorithms,
+    and Applications
+80624:
+  class codes:
+    - 5100
+    - 5209
+    - 5208
+  emails:
+    - "db619d8d3e8c57a6"
+    - "bb04b041e4aa8e3c"
+    - "d42602162e82710a"
+    - "23ab6f0908539d65"
+    - "f70f649c91b81d7d"
+    - "bb292790676c8d0b"
+  organizers:
+    - "Tamara Kolda"
+    - "Elizabeth Qian"
+  speakers:
+    - "Jiahao Chen"
+    - "Johann Gaebler"
+    - "Allison Koenecke"
+    - "Juan Carlos Martinez Mori"
+  available-slots:
+    - 7
+    - 8
+    - 9
+    - 10
+  talks:
+    - "A Simple, Statistically Robust Test of Discrimination"
+    - "Auditing the Algorithmic Pipeline for Disparate Impact"
+    - "A Tensor Approach to Group Fairness in Classification Models"
+    - "On the Mathematics of Transportation Equity: Concepts, Models, and a Couple Tenets"
+  title: |-
+    Mathematical and Statistical Methods for Promoting Fairness and Equity in
+    Algorithmic Decision-Making
+80625:
+  class codes:
+    - 5104
+    - 5102
+    - 5000
+  emails:
+    - "2482785ca2e68e56"
+    - "843147915b4bd94a"
+    - "652df136a75425c1"
+    - "293729d36fd0abb5"
+    - "f2caba22159cd60c"
+  organizers:
+    - "Jeremias Sulam"
+  speakers:
+    - "Anastasios Angelopoulos"
+    - "Stephen Bates"
+    - "Flavio du Pin Calmon"
+    - "Yaniv Romano"
+  talks:
+    - "Differential Privacy in the Large Composition Regime"
+    - "Leveraging Privileged Information for Reliable Predictions"
+    - "Prediction Powered Inference"
+    - "Reliable Statistics and Learning with Strategic Agents"
+  title: "Mathematics of Trustworthy Machine Learning"
+80632:
+  class codes:
+    - 1400
+    - 5200
+    - 4809
+  emails:
+    - "89bea5442949403d"
+    - "99151c7554d9aee4"
+    - "3cd80164c6ceac85"
+    - "51c3060f7ce987f3"
+    - "d1f0a89a38c9a214"
+  organizers:
+    - "Rui Wang"
+  speakers:
+    - "Moo Chung"
+    - "Benjamin Jones"
+    - "Duc Nguyen"
+    - "Faisal Suwayyid"
+  talks:
+    - "Topological Embedding of Brain Networks"
+    - "Emerging Mathematics and Geometric Deep Learning for Drug Design"
+    - "Persistent Dirac of Paths on Digraphs and Hypergraphs"
+    - "Persistent Directed Flag Laplacian"
+  title: |-
+    Exploring the Intersection of Topological and Geometric Data Analysis with
+    Biological Applications
+80634:
+  class codes:
+    - 5000
+    - 900
+    - 5205
+  emails:
+    - "3888f93f0a2b0bf4"
+    - "97cb6add1328bb9"
+    - "bfd6f6cdd28229e6"
+    - "cf2cb4ad8d346f61"
+    - "584fe338d9518cc9"
+    - "9fcf7a6480c320eb"
+    - "d53be202a0c4ef72"
+  organizers:
+    - "Ricardo Baptista"
+    - "Bamdad Hosseini"
+    - "Molei Tao"
+  speakers:
+    - "Ricky Chen"
+    - "Lars Ruthotto"
+    - "Christian Wald"
+    - "Felix Ye"
+  talks:
+    - "Flow Matching-Type Algorithms for General Measure Transport"
+    - "Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching"
+    - |-
+      Neural Odes/sde Approaches for High-Dimensional Optimal Transport and Generative
+      Modeling
+    - "Robust and Fast Differentiation for Sinkhorn Optimal Transport"
+  title: "Computational Methods for Measure Transport and Generative Modeling"
+80635:
+  class codes:
+    - 1000
+    - 5101
+    - 4800
+  emails:
+    - "472d0df6a2f96e41"
+    - "2b8d54343905be8c"
+    - "c3a752bde3c733e7"
+    - "243471321560d33e"
+    - "13fb1b99b635c433"
+    - "53594945e8af0a1d"
+  organizers:
+    - "Christian Kümmerle"
+    - "Zachary Lubberts"
+    - "Abiy Tasissa"
+  speakers:
+    - "Sebastian Damrich"
+    - "Zachary Lubberts"
+    - "Rong Ma"
+    - "Ada Wang"
+  talks:
+    - |-
+      Learning Low-Dimensional Nonlinear Structures from High-Dimensional Noisy Data:
+      An Integral Operator Approach
+    - "Euclidean Mirrors and Dynamics in Network Time Series"
+    - "Identifiability of Overcomplete Independent Component Analysis"
+    - "Neighbor Embeddings with Contrastive Learning and Pykeops"
+  title: "Computational and Statistical Aspects of Distance-Based Dimension Reduction"
+80688:
+  class codes:
+    - 5200
+    - 5201
+    - 5111
+  emails:
+    - "97719bfb5e09f74b"
+    - "ae88b91405735aa9"
+    - "206eed93aaf9ed87"
+    - "1de803289794d828"
+    - "5da396634b3630b2"
+  organizers:
+    - "Vasileios Maroulas"
+    - "Farzana Nasrin"
+  speakers:
+    - "Chul Moon"
+    - "Farzana Nasrin"
+    - "Ioannis Schizas"
+    - "Adam Spannaus"
+  talks:
+    - |-
+      Statistical Modeling of Topological Features in Medical Imaging: Enhancing Prognostic
+      Precision and Interpretation
+    - "Usage of Topological Clustering Provides New Insights into Genomic Data Analysis"
+    - |-
+      Utilizing Mutual Information for Place Cell Learning Via Self-Supervised Neural
+      Nets
+    - "Social and Environmental Drivers of Opioid Risk: A Topological Study"
+  title: "Topological Learning in Health Sciences"
+80697:
+  class codes:
+    - 5100
+    - 5111
+    - 0
+  emails:
+    - "80544b4aac10d998"
+    - "1bd3c53f8d3279b9"
+    - "c4a18fd7546a139"
+    - "c30d9950d5010bb0"
+  organizers:
+    - "Thomas Bury"
+  speakers:
+    - "Thomas Bury"
+    - "Xiao Hu"
+    - "Andre Longtin"
+    - "Xun Shen"
+  talks:
+    - "Deep Learning for Early Warning Signals in Cardiac Systems"
+    - "DNB-Based Gene Intervention Design for Early Medical Treatment"
+    - "Early Dynamical Signs of Multiple Sclerosis and Temperature Dysregulation."
+    - "Foundation Models for Physiological Data"
+  title: "Early Warning Signals in Medicine"
+80725:
+  class codes:
+    - 5201
+    - 4802
+    - 5109
+  emails:
+    - "5c10d558f6ec8b42"
+    - "de824d405a93db80"
+    - "b672cabb028af825"
+    - "fbb5c673263d49e1"
+    - "6bf155e5686665bc"
+  organizers:
+    - "Tianxi Li"
+  speakers:
+    - "Meimei Liu"
+    - "Joshua Loyal"
+    - "Fangzheng Xie"
+    - "Yubai Yuan"
+  talks:
+    - "Active learning on network via sequential biased sampling"
+    - |-
+      Bias-Corrected Joint Spectral Embedding for Multilayer Networks with Invariant
+      Subspace: Entrywise Eigenvector Perturbation and Inference
+    - |-
+      Disentangled Adversarial Flow (daf) for Multi-Source Network Learning with Applications
+      in Brain Connectomes
+    - |-
+      Fast Variational Inference of Latent Space Models for Dynamic Networks Using Bayesian
+      P-Splines
+  title: "Advanced Methods in Network Analysis: Learning, Inference, and Dynamic Modeling"
+80726:
+  class codes:
+    - 5104
+    - 2200
+    - 5102
+  emails:
+    - "4480b4e49fd9b2b8"
+    - "a4cbc83c3b0c33e5"
+    - "5b6f1623cabfdd26"
+    - "c66d22279ab4bd63"
+    - "660f149477abc197"
+  organizers:
+    - "Xiangqi Bai"
+    - "Lin Wan"
+    - "Li Xia"
+  speakers:
+    - "Xiangqi Bai"
+    - "Jie Ren"
+    - "Lin Wan"
+    - "Xiuwei Zhang"
+  talks:
+    - "Uncertainty Estimation and Selective Generation in Language Models"
+    - |-
+      Improving cell type deconvolution for spatial transcriptomics by leveraging temporal
+      information
+    - "Learning Complex Cellular Dynamics from Time-Series Single-Cell Data"
+    - |-
+      A Large-Scale Cohort Study Leverages a Machine Learning Model of Cell-Free Dna
+      for Early Breast Cancer Detection
+  title: |-
+    Statistical Learning Methods for Emerging Large-Scale Complex Biological
+    Data
+80742:
+  class codes:
+    - 500
+    - 600
+    - 0
+  emails:
+    - "b8801a6bc51c85c8"
+    - "c7cf2d11c57cbf9d"
+    - "2906130bd5a95458"
+    - "94de40cb775ecbf6"
+    - "304f201b6192205f"
+  organizers:
+    - "Ke Chen"
+    - "Jisui Huang"
+    - "Emil Saucan"
+  speakers:
+    - "Alexander Cloninger"
+    - "Jisui Huang"
+    - "Mohammad Latifi"
+    - "Emil Saucan"
+  talks:
+    - "Geometric invariants for textures classification"
+    - "Ricci Curvature Tensor Based Volumetric Segmentation"
+    - "Function approximation with kernel operators on vector bundles"
+    - "Linearized Optimal Transport: Theory and Applications"
+  title: "Geometric Methods in Data Science and Imaging"
+80750:
+  class codes:
+    - 700
+    - 5100
+    - 600
+  emails:
+    - "2359672ef6e98dcb"
+    - "9572a312a31cc894"
+    - "c5ac584a56694a1c"
+    - "dcc2caef6c9f7f13"
+    - "6f9c83318d88bc97"
+    - "57ad905969dfa5a1"
+  organizers:
+    - "Yuehaw Khoo"
+    - "Nir Sharon"
+  speakers:
+    - "Xiuyuan Cheng"
+    - "Sounak Paul"
+    - "Vahid Shahverdi"
+    - "Yoel Shkolnisky"
+  talks:
+    - "Object Detection under the Linear Subspace Model"
+    - "Improved Convergence Rate of Knn Graph Laplacians"
+    - "Learning Cryo-Em Structures Via the Method of Moments"
+    - "Phase Recovery with Moment Constraints for Multireference Alignment"
+  title: "Recent Advances in Cryo-EM Recovery and Related Problems"
+80756:
+  class codes:
+    - 5208
+    - 5209
+    - 0
+  emails:
+    - "686bb57e7e686bee"
+    - "60a4cfae504236bc"
+    - "323f7fa558298838"
+    - "2356c9c910021f42"
+    - "149d50312d60eb34"
+    - "b07d56b82ed81f1f"
+    - "f99f967cd79a9da3"
+  organizers:
+    - "Olivera Kotevska"
+    - "Viktor Reshniak"
+    - "Yichuan Shi"
+    - "Abhishek Singh"
+  speakers:
+    - "Rui Hu"
+    - "Sumit Jha"
+    - "Olivera Kotevska"
+    - "Praneeth Vepakomma"
+  talks:
+    - "Federated Learning with the Differential Privacy and More"
+    - "Privacy for the Activation Release in Collaborative Training and Inference"
+    - "Gradient-Based Methods for Explanation and Confidence Metrics in Distributed Learning"
+    - "Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning"
+  title: |-
+    Trustworthiness and Privacy in Distributed Learning: Theoretical and Applied
+    Perspectives
+80764:
+  class codes:
+    - 5202
+    - 5104
+    - 806
+  emails:
+    - "bcf1b3025c5f9dbd"
+    - "a03278f90d416eba"
+    - "c98eff4203b3e59"
+    - "dd658c3d5b388088"
+    - "78e28301f84ce003"
+    - "69764b4c8a4d9086"
+  organizers:
+    - "Greg Ongie"
+    - "Suzanna Parkinson"
+    - "Rebecca Willett"
+  speakers:
+    - "Arthur Jacot"
+    - "Rahul Parhi"
+    - "Suzanna Parkinson"
+    - "Adityanarayanan Radhakrishnan"
+  talks:
+    - "Linear Layers in ReLu Networks Promote Learning Single-/Multiple-Index Models"
+    - "How Do Neural Networks Learn Features from Data?"
+    - "The Role of Sparsity in Learning With Neural Networks"
+    - |-
+      Emergent Bottleneck Structure in Deep Neural Nets: a Theory of Feature and Symmetry
+      Learning
+  title: "Learning Functions with Low-Dimensional Structure using Neural Networks"
+80803:
+  class codes:
+    - 5100
+  emails:
+    - "8723e7d51e4cd6e3"
+    - "833320604ba96375"
+    - "effb12dae7e7196c"
+    - "b3c3dcef0fd52f44"
+    - "446b3e799c3f3f13"
+  organizers:
+    - "Lucas Onisk"
+    - "Mirjeta Pasha"
+  speakers:
+    - "Julianne Chung"
+    - "Jan Glaubitz"
+    - "Tongtong Li"
+    - "Mirjeta Pasha"
+  talks:
+    - "Matrix and Tensor Dictionary Reconstruction for Static and Dynamic Inverse Problems"
+  title: "Modern Techniques for Big Data Inverse Problems in Data Science"

@@ -1,0 +1,2546 @@
+80265:
+  missing-posters: []
+  poster-emails:
+    - "e837be0704f4f4bb"
+    - "a38b4346ff3a3398"
+    - "9da4549bcedbf587"
+    - "14d460e1f6909a88"
+    - "3bc29867c0ed3e9b"
+    - "a4d43ffd147731be"
+    - "1cad251a0c2fa618"
+  poster-ids:
+    - 139013
+    - 139012
+    - 139002
+    - 139011
+    - 139003
+    - 139010
+    - 139027
+  poster-presenters:
+    - "Jingtong Zhao"
+    - "Bernardo Subercaseaux"
+    - "Ryan Franks"
+    - "Shay Deutsch"
+    - "Ashkan Golgoon"
+    - "Konstandinos Kotsiopoulos"
+    - "Adam Pickarski"
+  posters:
+    - |-
+      Neural Ordinary Differential Equation Enables Radiogenomic Explainable Ai for
+      Identifying Post-Radiosurgery Brain Metastasis Radionecrosis
+    - |-
+      The Easiest Case Is Already Hard: the Complexity of Understanding Decision Trees
+      As Ml Models
+    - "Wasserstein-Based Explainability for Fairness of ML Models"
+    - "Ms-Umap - Multi-Scale Manifold Learning Through Probabilistic Sampling"
+    - "Mechanistic Interpretability of Financial Large Language Models"
+    - "Approximation of Group Explainers with Coalition Structure Using Monte Carlo Sampling"
+    - "Continuum Limits for Dimension Reduction"
+80287:
+  missing-posters: []
+  poster-emails:
+    - "9c1386f867e1eacf"
+    - "9e8cd255273c62ed"
+    - "ce082cc43ab85dbe"
+    - "3da7392950277218"
+    - "824cbce4a41e1ac8"
+  poster-ids:
+    - 139795
+    - 139890
+    - 139766
+    - 139883
+    - 140278
+  poster-presenters:
+    - "Zheyu Wen"
+    - "Hai Nguyen"
+    - "Jack Solomon"
+    - "Ji Shi"
+    - "Emmanuel Hartman"
+  posters:
+    - |-
+      Biophysics-Based Data Assimilation of Longitudinal Tau and Amyloid-$\beta$ Pet
+      Scans
+    - "Model-Constrained AutoEncoder Approach for Solving Forward and Inverse Problems"
+    - "Sparsity Promoting Eeg Source Localization with Time and Spatial Regularization"
+    - "Efficient Clustering on Riemannian Manifolds Using Fr\\'echet Embeddings"
+    - "Geometric Deep Learning for Unregistered Shape Data"
+80312:
+  missing-posters: []
+  poster-emails:
+    - "dc00ad0d655c559e"
+    - "5ac2da87e39c8bc5"
+    - "9e81f48f6435cc5c"
+    - "4f4dd471d8e50a48"
+    - "ab41bfb683200972"
+  poster-ids:
+    - 140535
+    - 139702
+    - 139959
+    - 140037
+    - 139548
+  poster-presenters:
+    - "Ethan Epperly"
+    - "Daniel LeJeune"
+    - "Max Melnichenko"
+    - "Raphael Meyer"
+    - "Robert Webber"
+  posters:
+    - |-
+      Embrace Rejection! Faster Low-Rank Approximation by Rejection Sampling-Accelerated
+      Randomly Pivoted Cholesky
+    - "Asymptotically Free Sketching and Ridge Regression Applications"
+    - |-
+      Novel Randomized Algorithms for Low and Full-Rank Factorizations and Their Implementations
+      in Randlapack
+    - "The Girard-Hutchinson Estimator Is Bad at Kronecker Trace Estimation"
+    - "Robust Randomized Preconditioning for Kernel Ridge Regression"
+80316:
+  missing-posters: []
+  poster-emails:
+    - "fbd92cadfd720d81"
+    - "ab6e22b0782463d9"
+    - "a956f1fd597b7c19"
+    - "684147700547ade0"
+  poster-ids:
+    - 139569
+    - 140236
+    - 140034
+    - 139789
+  poster-presenters:
+    - "Lucas Boettcher"
+    - "Dhananjay Bhaskar"
+    - "Rahul Singh"
+    - "Joshua Lewis"
+  posters:
+    - "Complex Networks with Complex Weights"
+    - "Learning Graph Geometry and Topology Via Continuous-Time Message Passing"
+    - "Slepians on Directed Signed Graphs"
+    - |-
+      Fractional Schrodinger Equation: Eigenfunctions with Physical Potentials, and
+      Fractionally-Enhanced Quantum Tunneling
+80336:
+  missing-posters: []
+  poster-emails:
+    - "e1a620adbe5b009e"
+    - "9f3e811700d3d6ea"
+    - "a5b64cd69c2d592a"
+    - "71c9b41b23179147"
+  poster-ids:
+    - 139639
+    - 139747
+    - 139763
+    - 139804
+  poster-presenters:
+    - "Lili Ju"
+    - "Francesco Brarda"
+    - "Shifan Zhao"
+    - "Hanyang Jiang"
+  posters:
+    - |-
+      A Deep Learning Method for the Dynamics of Classic and Conservative Allen-Cahn
+      Equations Based on Fully-Discrete Operators
+    - "Efficient Hybrid Learning of Spatial-Temporal Operator Networks"
+    - |-
+      Efficient Two-stage Gaussian Process Regression Via Subsampling and Automatic
+      Kernel Searching
+    - "Conformal Prediction for Multi-Dimensional Time Series by Ellipsoidal Sets"
+80338:
+  missing-posters: []
+  poster-emails:
+    - "c4de7f80f36b094b"
+    - "f1049f9f31787695"
+    - "3eddef598a126aa8"
+    - "1dbb22c9a8d10bc5"
+  poster-ids:
+    - 139688
+    - 139943
+    - 139925
+    - 139919
+  poster-presenters:
+    - "Eitan Levin"
+    - "Luana Ruiz"
+    - "Samuel Lanthaler"
+    - "Matthieu Darcy"
+  posters:
+    - "Any-Dimensional Equivariant Neural Networks"
+    - "A Spectral Analysis of Graph Neural Networks on Dense and Sparse Graphs"
+    - "Complexity Bounds for Operator Learning"
+    - "Kernel Methods for Operator Learning"
+80339:
+  missing-posters: []
+  poster-emails:
+    - "f715a6ce8d96e202"
+    - "472d0df6a2f96e41"
+    - "df58cb1d7507cfb1"
+    - "d781ff57bc1f5e03"
+    - "97b8022843fd09a4"
+  poster-ids:
+    - 139784
+    - 139700
+    - 139845
+    - 140115
+    - 140084
+  poster-presenters:
+    - "Shuchin Aeron"
+    - "Abiy Tasissa"
+    - "Ye Tian"
+    - "Jackson Hamel"
+    - "Haoyu Chen"
+  posters:
+    - "Entropy-Regularized Wasserstein Barycenter Functionals: Theory and Applications"
+    - "Modified Nystrom Approximation Via Low-Rank Matrix Sensing"
+    - |-
+      Graph Clustering Techniques with Sparse Solution Methods and Application to Medical
+      Image Classification
+    - |-
+      Medical Image Classification by Graph Clustering Methods Applied to a Neural Network
+      Approach
+    - "Largest Angle Path Distance for Multi-Manifold Clustering"
+80340:
+  missing-posters: []
+  poster-emails:
+    - "81aa59a72e6601f4"
+    - "23ab6f0908539d65"
+    - "76e3d6fe76cc854a"
+    - "7315af958a127876"
+    - "ea9554791a585d11"
+  poster-ids:
+    - 140315
+    - 139725
+    - 140536
+    - 140017
+    - 140038
+  poster-presenters:
+    - "Rafael Orozco"
+    - "Elizabeth Qian"
+    - "Yitong Yang"
+    - "Cristina Sgattoni"
+    - "Phillip Si"
+  posters:
+    - |-
+      Unsupervised Simulation Based Inference for Amortized Bayesian Inverse Problems
+      Without Prior Samples
+    - "The Fundamental Subspaces of Ensemble Kalman Inversion"
+    - |-
+      Improved Reconstruction Speed for 5D Free Running Motion Resolved Using a Variable
+      Projection Augmented Lagrangian (vpal) Method
+    - |-
+      An Innovative and Rapid Physics-Informed Data-Driven Method for Atmospheric Radiative
+      Transfer Inversion
+    - "Scalable Data Assimilation in Latent Space Using Variational Autoencoder"
+80341:
+  missing-posters: []
+  poster-emails:
+    - "c393749e59011ee0"
+    - "709d61db0afe9789"
+    - "f8529aac0bd49600"
+    - "5b91bb00afd43b5"
+  poster-ids:
+    - 140023
+    - 140024
+    - 140025
+    - 140029
+  poster-presenters:
+    - "Yahong Yang"
+    - "Frank Cole"
+    - "Riley O’Neill"
+    - "Tianhao Zhang"
+  posters:
+    - |-
+      Homotopy Relaxation Training Algorithms for Infinite-Width Two-Layer Relu Neural
+      Networks
+    - "Analysis of Score-Based Generative Models in Learning Distributions with Low Complexity"
+    - |-
+      Learnable Weighting For Dijkstra’s Algorithm Via Graph Neural Networks for Gps
+      Trajectory Registration
+    - "Provable In-Context Learning of Pdes with Transformers: The Linear Elliptic Case"
+80343:
+  missing-posters: []
+  poster-emails:
+    - "1bcbf15e730b6a43"
+    - "45806e9eebf16b53"
+    - "46ab909eab158e36"
+  poster-ids:
+    - 139617
+    - 139920
+    - 139897
+  poster-presenters:
+    - "Difeng Cai"
+    - "Xiaohang Ma"
+    - "Baris Coskunuzer"
+  posters:
+    - "Autm Flow: Atomic Unrestricted Time Machine for Monotonic Normalizing Flows"
+    - "Deep Optimal Control Approach to Path Estimation of Nonlinear Filtering"
+    - "Topological Methods for Drug Discovery"
+80346:
+  missing-posters: []
+  poster-emails:
+    - "5b5e5aa0afab10bb"
+    - "7e68397168b04951"
+    - "3caaeb15aa988804"
+    - "3374f161a47a52ad"
+  poster-ids:
+    - 139082
+    - 139083
+    - 140554
+    - 140530
+  poster-presenters:
+    - "Eran Treister"
+    - "Ido Ben-Yair"
+    - "Moshe Eliasof"
+    - "Matan Goren"
+  posters:
+    - |-
+      Multigrid-Augmented Deep Learning Preconditioners for the Helmholtz Equation Using
+      Compact Implicit Layers
+    - "Optimizing Non-Galerkin Algebraic Multigrid for Asymmetric Finite Element Problems"
+    - "Feature Transportation Improves Graph Neural Networks"
+    - |-
+      Physics-Guided Full Waveform Inversion Using Encoder-Solver Convolutional Neural
+      Networks (Poster)
+80347:
+  missing-posters: []
+  poster-emails:
+    - "98ae52e299b33846"
+    - "a171bbb059892d8a"
+    - "6a9003c712eac1c"
+    - "89fcc5aee199f28e"
+  poster-ids:
+    - 139361
+    - 139362
+    - 139582
+    - 140531
+  poster-presenters:
+    - "Yuhua Zhu"
+    - "Mo Zhou"
+    - "Qihao Ye"
+    - "Gaozhan Wang"
+  posters:
+    - "Phibe: Physics-Informed Bellman Equation for Continuous-Time Reinforcement Learning"
+    - |-
+      Solving Time-Continuous Stochastic Optimal Control Problems: Algorithm Design
+      and Convergence Analysis of Actor-Critic Flow
+    - |-
+      A Model-Based Approach for Continuous-Time Policy Evaluation with Unknown Lévy
+      Process Dynamics
+    - |-
+      Rate of Convergence of Policy Improvement Algorithm for Exploratory Stochastic
+      Control Problems
+80397:
+  missing-posters: []
+  poster-emails:
+    - "d1cb1f9c773bf0ca"
+    - "c9d71bc10c7fcf0d"
+    - "657156a9cc1d4b5b"
+    - "6b29de2d334ff42a"
+    - "d9ab19a10a969d59"
+    - "f8fdb8d0731f9275"
+  poster-ids:
+    - 139687
+    - 139618
+    - 140257
+    - 139746
+    - 140562
+    - 140229
+  poster-presenters:
+    - "Yuan Qiu"
+    - "Yuxuan Liu"
+    - "Yue Yu"
+    - "Jingmin Sun"
+    - "Yuntian Chen"
+    - "Xiaoyi Lu"
+  posters:
+    - "Derivative-enhanced Deep Operator Network"
+    - |-
+      PROSE: Predicting Multiple Operators and Symbolic Expressions Using Multimodal
+      Transformers
+    - "Toward Foundation Material Model with Nonlocal Attention Operator"
+    - |-
+      A Foundation Model for Partial Differential Equations: Multi-Operator Generalization
+      and Extrapolation
+    - "Equation Discovery Via Symbolic Mathematics"
+    - "Accelerating Radiation Calculations for Fire Safety Applications Using DeepONet"
+80398:
+  missing-posters: []
+  poster-emails:
+    - "6245905d1ff7a7c1"
+    - "2d04e3e9471b5c7e"
+    - "d4472570475984c1"
+    - "b96996cbbf207ad"
+  poster-ids:
+    - 139662
+    - 139668
+    - 139694
+    - 139867
+  poster-presenters:
+    - "Nicole Yang"
+    - "Sanghyun Lee"
+    - "Jiahui Cheng"
+    - "Yijie Jin"
+  posters:
+    - "Nonlinear Filtering in Stochastic Dynamical Systems"
+    - "On the Training of Deep Operator Networks"
+    - "Identification of Differential Equations Via Weighted Weak Form with Voting"
+    - "Parameterized Equations for Nongradient System on Wasserstein Manifold"
+80400:
+  missing-posters: []
+  poster-emails:
+    - "b93197baa1af913a"
+    - "bb70349b357a8c37"
+    - "9d1d96053d4eeec"
+    - "18d0e4905ed37d6c"
+  poster-ids:
+    - 139879
+    - 139880
+    - 139881
+    - 140302
+  poster-presenters:
+    - "Pedro Izquierdo Lehmann"
+    - "Alan Luner"
+    - "Mengqi Lou"
+    - "Daniel Lopez-Castaño"
+  posters:
+    - "Primal-Dual Hybrid Gradient for Degenerate Partially Smooth Problems"
+    - "On Averaging and Extrapolation for Gradient Descent"
+    - |-
+      Hyperparameter tuning via trajectory predictions: Stochastic prox-linear methods
+      in matrix sensing
+    - "Wasserstein Factor Analysis"
+80424:
+  missing-posters: []
+  poster-emails:
+    - "354d85515028b9ee"
+    - "13615b860808b52a"
+    - "2cc92281b95ad4ca"
+    - "56e86ce58475f5f5"
+  poster-ids:
+    - 139815
+    - 139884
+    - 139707
+    - 139988
+  poster-presenters:
+    - "Maximilian Wuerschmidt"
+    - "Xili Wang"
+    - "Johannes Haubner"
+    - "Long Chen"
+  posters:
+    - "A Probabilistic Approach to Shape Derivatives"
+    - "Aonn-2: A Deep Learning Based Shape Optimization Method"
+    - "Learning Mesh Motion Techniques with Application to Fluid-Structure Interaction"
+    - "Data-Driven Aerodynamic Shape Design with Distributionally Robust Optimization"
+80425:
+  missing-posters: []
+  poster-emails:
+    - "c5ac584a56694a1c"
+    - "5fe03a0869e90804"
+    - "595fdd36f452e53d"
+    - "869ed7912d4da64f"
+  poster-ids:
+    - 139737
+    - 139735
+    - 139768
+    - 139638
+  poster-presenters:
+    - "Nir Sharon"
+    - "Ido Hadi"
+    - "Mikhail Sweeney"
+    - "Joshua Katz"
+  posters:
+    - "Refining Particle Picking in Cryo-Em"
+    - "SE(3) Synchronization by Dual Quaternions"
+    - "Moment Invariant Distribution Learning"
+    - "Generic Orbit Recovery from Invariants of Very Low Degree."
+80426:
+  missing-posters: []
+  poster-emails:
+    - "263984634b22e2f8"
+    - "b6fa38d25904ff25"
+    - "1f199c27067a705c"
+    - "5c608d88e3d6a270"
+  poster-ids:
+    - 140526
+    - 140527
+    - 140528
+    - 140529
+  poster-presenters:
+    - "YoungJoon Hong"
+    - "Wuzhe Xu"
+    - "Lav Varshney"
+    - "Peihao Wang"
+  posters:
+    - |-
+      Simple Arithmetic Operation in Latent Space Can Generate a Novel Three Dimensional
+      Graph Metamaterials
+    - "Generative Downscaling of Pde Solvers with Physics-Guided Diffusion Models (Poster)"
+    - "Autoequivariant Network Search Via Group Decomposition (Poster)"
+    - |-
+      Signal Processing with Implicit Neural Fields: Editing, Manipulation, and Understanding
+      (Poster)
+80427:
+  missing-posters: []
+  poster-emails:
+    - "cecbb424b9616211"
+    - "7793fbd62ee401ee"
+    - "b9c408ef27af81df"
+    - "9c0d2d09a0f52dc7"
+    - "f93058727279d627"
+  poster-ids:
+    - 140305
+    - 140316
+    - 140307
+    - 140295
+    - 140317
+  poster-presenters:
+    - "Keenan Eikenberry"
+    - "Victor Churchill"
+    - "Di Qi"
+    - "Shanyin Tong"
+    - "Bosu Choi"
+  posters:
+    - "Maximizing Wasserstein Dependence in Autoencoders"
+    - "Details On: Priors for Efficient Three-Dimensional Imaging"
+    - "A Statistical-Stochastic Reduced-Order Model for Multiscale Turbulent Systems"
+    - "Large Deviation-Informed Sampling for Rare Events in High Dimensions"
+    - "Sampling Error Mitigation Through Spectrum Smoothing in Ensemble Data Assimilation"
+80430:
+  missing-posters: []
+  poster-emails:
+    - "8ff00c12461c1f77"
+    - "767712cda733544"
+    - "ba93b78caea7c1db"
+    - "e4c96308890d533f"
+  poster-ids:
+    - 139519
+    - 139601
+    - 139527
+    - 139560
+  poster-presenters:
+    - "Yiming Xu"
+    - "Ben Adcock"
+    - "Xiaoou Cheng"
+    - "Aarshvi Gajjar"
+  posters:
+    - "Hybrid Least Squares"
+    - |-
+      CS4ML: A General Framework for Active Learning with Arbitrary Data Based on Christoffel
+      Functions
+    - "Improved Active Learning Via Dependent Leverage Score Sampling"
+    - "Agnostic Active Learning of Single Index Models with Linear Sample Complexity"
+80433:
+  missing-posters: []
+  poster-emails:
+    - "a463510cc395e880"
+    - "b695becd9cbc8230"
+    - "2d184145a99d3919"
+    - "a4b5076456bc0cd7"
+  poster-ids:
+    - 139926
+    - 139830
+    - 139891
+    - 139792
+  poster-presenters:
+    - "Siu Wun Cheung"
+    - "Juntao Huang"
+    - "Yuwei Geng"
+    - "Ying Liang"
+  posters:
+    - |-
+      libROM: a Free, Lightweight, Scalable C++ Library for Data-Driven Physical Simulation
+      Methods
+    - |-
+      On the Rotational Invariance and Hyperbolicity of Shallow Water Moment Equations
+      for Free Surface Flows
+    - "Data-Driven Approaches for Solving the Allen-Cahn Equation"
+    - "Data-Assisted Algorithms for Inverse Random Source Problems"
+80436:
+  missing-posters: []
+  poster-emails:
+    - "9c1dce2aa98df05e"
+    - "85d02fd288b4baf3"
+    - "d3cc872b5ff89c2"
+    - "9ce4da630caf0fd3"
+  poster-ids:
+    - 140186
+    - 140185
+    - 140187
+    - 140189
+  poster-presenters:
+    - "Xindi Gong"
+    - "Ziheng Zhang"
+    - "Dingcheng Luo"
+    - "Joshua Chen"
+  posters:
+    - "Derivative-Informed Neural Operators for Optimization under Uncertainty"
+    - |-
+      Geometric Mcmc for Inference of Coseismic Model for 2011 Tohoku-Oki Earthquake
+      Using Derivative-Informed Neural Operators
+    - "Dimension Reduction for Derivative Informed Operator Learning"
+    - "Scalable and efficient lazy maps enabled by derivative-informed neural operators"
+80439:
+  missing-posters: []
+  poster-emails:
+    - "dd7ad9589dce7d52"
+    - "b576e332cd8906d4"
+    - "3e13a7004f98b9b1"
+    - "e6e0ccd048abc395"
+    - "61fe8929dd409130"
+    - "aed6a47121cec12b"
+    - "80386ea02f801c8e"
+    - "84c14c8bf826ebe0"
+  poster-ids:
+    - 139958
+    - 140520
+    - 140219
+    - 139562
+    - 139637
+    - 139561
+    - 139169
+    - 139968
+  poster-presenters:
+    - "Hardeep Bassi"
+    - "Yudong Chen"
+    - "Ruoxi Jiang"
+    - "Yuchen Li"
+    - "Elena Orlova"
+    - "William Powell"
+    - "Moyi Tian"
+    - "Agam Goyal"
+  posters:
+    - "Machine Learning Applications to Quantum Many-Body Systems"
+    - "Stochastic Algorithms As Markov Chains in Min-Max and Variational Inequality Problems"
+    - "Training Neural Operators to Preserve Invariant Measures of Chaotic Attractors"
+    - "Stochastic Block Majorization-Minimization Methods on Riemannian Manifolds"
+    - "Deep Stochastic Mechanics"
+    - "Stochastic Optimization with Arbitrary Recurrent Data Sampling"
+    - "Efficient Learning of Models for Dynamic Networks"
+    - "A Latent Linear Model for Nonlinear Coupled Oscillators on Graphs"
+80440:
+  missing-posters: []
+  poster-emails:
+    - "cb8b502ea58dd219"
+    - "7c7d233e6f2dfbac"
+    - "e9647bdf0282dc2b"
+    - "b626e151d883a006"
+  poster-ids:
+    - 139922
+    - 139888
+    - 139912
+    - 139578
+  poster-presenters:
+    - "Jan Williams"
+    - "Xiantao Fan"
+    - "German Villalobos"
+    - "Krishnanunni C G"
+  posters:
+    - |-
+      Reservoir Computing for System Identification and Predictive Control with Limited
+      Data
+    - |-
+      Neural Differentiable Modeling with Diffusion-Based Superresolution for 2D Spatiotemporal
+      Turbulence
+    - |-
+      Neural Networks for Inference in Optimal Control Governed by the FitzHugh-Nagumo
+      Model
+    - "Approaches for Deep Neural Network Architecture Adaptation"
+80441:
+  missing-posters: []
+  poster-emails:
+    - "f31e4e7689c01759"
+    - "fe13ec4432bb1d5f"
+    - "51e8558ce9947eb0"
+    - "8fdb2a224e60017b"
+  poster-ids:
+    - 140162
+    - 140158
+    - 140267
+    - 139754
+  poster-presenters:
+    - "Tianshi Xu"
+    - "Mitchell Scott"
+    - "Huan He"
+    - "Josie König"
+  posters:
+    - "Hpytorch: Data-Driven Hierarchical Matrix-Based Gaussian Process"
+    - "Acceleration Methods for Scientific and Data Science Applications"
+    - "Tensor Kernel in Causal Inference"
+    - "Efficient Training of Gaussian Processes with Tensor Product Structure"
+80442:
+  missing-posters: []
+  poster-emails:
+    - "97cb6add1328bb9"
+    - "194d6062d47b9369"
+    - "5977f30bd160082b"
+    - "16039facb7aa97e9"
+    - "e7d16246d8683cea"
+  poster-ids:
+    - 139661
+    - 139712
+    - 139733
+    - 139812
+    - 140013
+  poster-presenters:
+    - "Ricardo Baptista"
+    - "Zezhong Zhang"
+    - "Siming Liang"
+    - "Sebastian Gutierrez Hernandez"
+    - "Mathieu Le Provost"
+  posters:
+    - "Toward Consistent Nonlinear Filtering and Smoothing Via Measure Transport"
+    - |-
+      Exact Likelihood Score Estimation for Bayesian Sampling with Diffusion SDE under
+      Gaussian Mixture Assumption
+    - |-
+      Ensemble Score Filter for Tracking Turbulent Atmosphere Dynamics - Generative
+      Ai in Data Assimilation
+    - "Control Problems in Wasserstein Space Via Conditional Flow Matching."
+    - "Preserving Linear Invariants in Ensemble Filtering Methods"
+80445:
+  missing-posters: []
+  poster-emails:
+    - "d0643caeebff833e"
+    - "f13e4986aadb7707"
+    - "16039facb7aa97e9"
+    - "4f828b9b413200b6"
+  poster-ids:
+    - 139188
+    - 139189
+    - 139187
+    - 139190
+  poster-presenters:
+    - "Dayoung Kang"
+    - "Xian Hadia"
+    - "Sebastian Gutierrez Hernandez"
+    - "Xiangming Huang"
+  posters:
+    - |-
+      Multifidelity Linear Regression for Scientific Machine Learning from Scarce Data
+      (Poster)
+    - |-
+      Harnessing Data Efficiency with a Fixed-Point Iteration Analogous to Adaptive
+      Mesh Refinement
+    - |-
+      Control-Deeponet: Deep Operator Networks for Pde-Constrained Optimal Control
+      under Uncertainty
+    - "Towards Optimization of Biological Systems Leveraging Pde Model Discovery"
+80452:
+  missing-posters:
+    - |-
+      Novel Batch Active Learning Approach and Applications to Synthetic Aperture Radar
+      and Hyperspectral Imagery ----- Bohan Chen, UCLA
+  poster-emails:
+    - "ba44aa8c3accfd57"
+    - "7a2115fab87c94f3"
+    - "ab41bfb683200972"
+  poster-ids:
+    - 140297
+    - 140522
+    - 140534
+  poster-presenters:
+    - "Rachel Morris"
+    - "Kevin Miller"
+    - "Robert Webber"
+  posters:
+    - "Performance Guarantees for Probabilistic Adversarial Learning"
+    - "Dirichlet Active Learning: Exploration and Exploitation Guarantees"
+    - "Fast, Effective Data Reduction Through Novelty Sampling"
+80453:
+  missing-posters: []
+  poster-emails:
+    - "1d6ba3553bb9f173"
+    - "edd7b30995e058c2"
+    - "6c1cb686a9942d95"
+    - "117e01ae5c91c790"
+  poster-ids:
+    - 139794
+    - 139709
+    - 139699
+    - 140045
+  poster-presenters:
+    - "Sixu Li"
+    - "Sara Veneruso"
+    - "Martin Guerra"
+    - "Dohyeon Kim"
+  posters:
+    - |-
+      Bilevel-Fedcbo: Robust Clustered Federated Learning Through Bilevel Consensus-Based
+      Optimization
+    - "Extensions of Consensus-Based Methods"
+    - "Swarm-Based Gradient Descent Meets Simulated Annealing"
+    - "Recent Developments in Consensus Based Optimization"
+80492:
+  missing-posters: []
+  poster-emails:
+    - "588c637d55880bed"
+    - "94cf187c9309d6ae"
+    - "7a90de421b1fdef4"
+    - "f715a6ce8d96e202"
+  poster-ids:
+    - 139585
+    - 140262
+    - 140163
+    - 140108
+  poster-presenters:
+    - "Jackie Lok"
+    - "Edem Boahen"
+    - "Shambhavi Suryanarayanan"
+    - "Shuchin Aeron"
+  posters:
+    - |-
+      A Subspace Constrained Randomized Kaczmarz Method for Structure or External Knowledge
+      Exploitation
+    - "An Efficient Streaming Algorithm for Sparse Eigenvector"
+    - "Kaczmarz Based Iterative Hard Thresholding Techniques for Low-Rank Tensor Recovery"
+    - |-
+      Hard Negative Sampling Via Regularized Optimal Transport for Contrastive Representation
+      Learning
+80509:
+  missing-posters: []
+  poster-emails:
+    - "b42bf55a72a58246"
+    - "2572234eb3ec00ff"
+    - "dce41ffef6bb01bd"
+    - "94bff02640599cc0"
+  poster-ids:
+    - 140214
+    - 140212
+    - 140213
+    - 139806
+  poster-presenters:
+    - "Anton Dereventsov"
+    - "Clayton Webster"
+    - "Tianyu Wang"
+    - "Andrew Starnes"
+  posters:
+    - "Exploring Policy Entropy in Reinforcement Learning for Personalization Environments"
+    - "Gaussian Smoothing (Stochastic) Gradient Descent"
+    - |-
+      The Anytime Convergence of Stochastic Gradient Descent with Momentum: From a
+      Continuous-Time Perspective
+    - "Distributional Smoothing for Machine Learning"
+80510:
+  missing-posters: []
+  poster-emails:
+    - "69281353839ae439"
+    - "dca800df226975b1"
+    - "74e420945df95aad"
+    - "931fc1cc81be58ed"
+    - "9e7f808d58e76464"
+  poster-ids:
+    - 140164
+    - 140098
+    - 140166
+    - 140169
+    - 140092
+  poster-presenters:
+    - "Christina Catlett"
+    - "William Nockolds"
+    - "Graham Roberts"
+    - "Qian Yang"
+    - "Carlos Sing Long"
+  posters:
+    - |-
+      Model-Guided Experiment Design to Characterize Spatial Organization of Bacterial
+      Metabolism
+    - |-
+      Machine Learning for Explicitly Solving Stiff, Parameterized Ordinary Differential
+      Equations
+    - "Implicit Symbolic Regression for Data-Driven Discovery of Conservation Laws"
+    - "Extrapolation in Data-Driven Learning of Complex Reactive Processes"
+    - |-
+      Characterizing Reducibility by Solving High-Dimensional Partial Differential Equations
+      with Neural Networks
+80513:
+  missing-posters: []
+  poster-emails:
+    - "67323b39ec73bfa8"
+    - "74282a84c26bf38f"
+    - "dc0ce7ac7f4ecc0f"
+    - "92ab68870441595f"
+  poster-ids:
+    - 140560
+    - 140561
+    - 140551
+    - 139917
+  poster-presenters:
+    - "Evan Patterson"
+    - "Tyler Hanks"
+    - "Matthew Klawonn"
+    - "Henry Adams"
+  posters:
+    - "The Synthetic Theory of Probability and Statistics"
+    - "A Compositional Framework for First-Order Optimization (Poster)"
+    - "Mining Sheaf Theoretic Narratives (Poster)"
+    - "Evasion Paths in Mobile Sensor Networks"
+80514:
+  missing-posters: []
+  poster-emails:
+    - "fc25e1838186e882"
+    - "7e8bf30e758ad1ec"
+    - "1e8bac74f7add2e8"
+    - "5b47128563db61a1"
+  poster-ids:
+    - 140299
+    - 140296
+    - 140301
+    - 140298
+  poster-presenters:
+    - "Siddharth Mitra"
+    - "Bo Yuan"
+    - "Krishnakumar Balasubramanian"
+    - "Matthew Zhang"
+  posters:
+    - "On Independent Samples Along the Langevin Diffusion and Algorithm"
+    - "Improved Dimension Dependence of a Proximal Algorithm for Sampling"
+    - "Understanding Gaussian-Stein Variational Gradient Descent"
+    - "Sampling from the Mean-Field Stationary Distribution"
+80515:
+  missing-posters: []
+  poster-emails:
+    - "458205601578246b"
+    - "ba30b112c8b6e57a"
+    - "75fc9548e5c226f"
+    - "75c0f3ac2de038aa"
+  poster-ids:
+    - 140053
+    - 140256
+    - 139902
+    - 139915
+  poster-presenters:
+    - "Ismail Alkhouri"
+    - "Xiang Li"
+    - "Jonghyeok Lee"
+    - "Peng Wang"
+  posters:
+    - "Diffusion-Based Robust Hybrid Deep Mri Reconstruction"
+    - "Decoupled Data Consistency with Diffusion Purification for Image Restoration"
+    - "Flow-Based Distributionally Robust Optimization"
+    - "Interpretable Diffusion Models Via Low-Dimensional Data"
+80516:
+  missing-posters: []
+  poster-emails:
+    - "b532ab917086236e"
+    - "f556c339045e0f82"
+    - "7adcaf905bacb6bd"
+    - "5d02616afb49f0f4"
+  poster-ids:
+    - 139931
+    - 140553
+    - 140181
+    - 140552
+  poster-presenters:
+    - "Benjamin Zhang"
+    - "James Alcala"
+    - "Xianjin Yang"
+    - "Samy Wu Fung"
+  posters:
+    - "A Mean-Field Games Laboratory for Generative Modeling"
+    - |-
+      Deterministic and Stochastic Moving Anchor Extragradient Algorithms for Structured
+      Saddlepoint Problems (Poster)
+    - |-
+      Forward-Backward Algorithm for Functions with Locally Lipschitz Gradient: Applications
+      to Mean Field Games.
+    - |-
+      Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control
+      (Poster)
+80517:
+  missing-posters: []
+  poster-emails:
+    - "45849ba2cf689db8"
+    - "1691695714ed2b8b"
+    - "194d6062d47b9369"
+    - "b6b8ccdfeda0b360"
+  poster-ids:
+    - 140011
+    - 139835
+    - 139887
+    - 140519
+  poster-presenters:
+    - "Yanfang Liu"
+    - "Pengjun Wang"
+    - "Zezhong Zhang"
+    - "Hoang Tran"
+  posters:
+    - "Supervised Learning of Flow Map for Modeling Stochastic Dynamical Systems"
+    - "A Pseudo-Reversible Normalizing Flow for Stochastic Differential Equation"
+    - |-
+      Improving the Ensemble Score Filter for Sparse and Nonlinear Data Assimilation
+      Problem by Compositing State Dynamics to Observation Function
+    - "Score Estimation for Supervised Generative Modeling"
+80518:
+  missing-posters: []
+  poster-emails:
+    - "91a8eaea87d4732c"
+    - "ff39f427a5775b15"
+    - "d757ab7422656e10"
+    - "4f89852285ac0a73"
+  poster-ids:
+    - 139979
+    - 140143
+    - 140114
+    - 140205
+  poster-presenters:
+    - "Eric Chi"
+    - "Gideon Simpson"
+    - "Malvern Madondo"
+    - "Yifan Zhang"
+  posters:
+    - "Mcmc Importance Sampling Via Moreau-Yosida Envelopes"
+    - "Optimal Allocation in Splitting Methods for Variance Reduction"
+    - "Amortized Control of Pathological Neuronal Dynamics under Parametric Variations"
+    - |-
+      Learning Conditionally Independent Nonparametric Mixture Models Through Implicit
+      Tensor Decomposition
+80521:
+  missing-posters: []
+  poster-emails:
+    - "864d911acd5e7877"
+    - "3c297c5153661e5a"
+    - "ee28048454fa06ee"
+    - "fd92686a8d7a1e46"
+    - "a3e5d585263c0b15"
+  poster-ids:
+    - 139893
+    - 139748
+    - 139834
+    - 140069
+    - 139970
+  poster-presenters:
+    - "Jasen Lai"
+    - "Lu Lu"
+    - "Lizuo Liu"
+    - "Chugang Yi"
+    - "Tingwei Meng"
+  posters:
+    - "Data-Regularized Operator Learning for Inverse Problems"
+    - "One-Shot Learning for Solution Operators of Partial Differential Equations"
+    - |-
+      DeepPropNet - A Recursive Deep Neural Network Propagator for Learning Evolutionary
+      Pde Operators
+    - "Discovery of Governing Equations Using Sparse and Low-Rank Tensor Regression"
+    - |-
+      Solving Optimal Execution Problems in Financial Mathematics Via in-Context Operator
+      Networks
+80523:
+  missing-posters: []
+  poster-emails:
+    - "c1971a786826be1d"
+    - "f7a40d98c47fec41"
+    - "a44e78c40f67bb90"
+    - "8a0d22406bd0cb34"
+    - "ffbb9069082d57c1"
+  poster-ids:
+    - 140027
+    - 139715
+    - 140192
+    - 140042
+    - 140234
+  poster-presenters:
+    - "Maria Warns"
+    - "Andrey Bryutkin"
+    - "George Stepaniants"
+    - "Matthew Levine"
+    - "Shijie Zhang"
+  posters:
+    - |-
+      Using Identifiability Analysis to Evaluate Wastewater Surveillance and Public
+      Health Data As Indirect Observables to Inform Predictive Disease Models
+    - "Techniques for Reducing Dimensions and Quantifying Uncertainty in Dynamical Systems"
+    - "Discovering Nonlinear Oscillatory and Chaotic Systems from Partial Observations"
+    - |-
+      A Jax Toolbox for Learning Stochastic Differential Equations with Uncertainties
+      from Real-World Data Streams
+    - |-
+      Bayesian Inference of Stochastic Dynamical Systems with Inhomogeneous Poisson
+      Noise
+80524:
+  missing-posters: []
+  poster-emails:
+    - "b83b8622194d6115"
+    - "c53938d51f29d8f4"
+    - "c7558e5d0571e4ed"
+    - "96fa239f149073cb"
+  poster-ids:
+    - 139610
+    - 139611
+    - 139608
+    - 139609
+  poster-presenters:
+    - "Tianlong Chen"
+    - "Chengrun Yang"
+    - "Jialin Liu"
+    - "HanQin Cai"
+  posters:
+    - |-
+      Associated Poster: Revisiting Zeroth-Order Optimization for Memory-Efficient
+      Llm Fine-Tuning: A Benchmark
+    - "Associated Poster: Large Language Models As Optimizers"
+    - |-
+      Associated Poster: Towards Constituting Mathematical Structures for Learning
+      to Optimize
+    - |-
+      Associated Poster: A Zeroth-Order Block Coordinate Descent Algorithm for Huge-Scale
+      Black-Box Optimization
+80530:
+  missing-posters: []
+  poster-emails:
+    - "7efdde5388be69d6"
+    - "f75f3c23c136fb96"
+    - "d388a31385b4dc46"
+    - "41b5002670f54009"
+  poster-ids:
+    - 140319
+    - 140320
+    - 140290
+    - 140321
+  poster-presenters:
+    - "Pratik Patil"
+    - "Jason Xu"
+    - "Pau Batlle"
+    - "Luca Masserano"
+  posters:
+    - "Optimal Ridge Regularization for Out-of-Distribution Prediction"
+    - "Bayesian Constraint Relaxation: Distance and Divergence Penalization"
+    - "Frequentist Confidence Intervals Via Optimization: Resolving the Burrus Conjecture"
+    - "Trustworthy Scientific Inference from Generative Models"
+80534:
+  missing-posters:
+    - "A Scalable Approach for Multi-kernel Gaussian Processes in Bayesian Inverse Problems"
+  poster-emails:
+    - "7c982c7aeac66fcf"
+    - "a34e351b47f6aef"
+    - "40d8e8d715083a45"
+  poster-ids:
+    - 139503
+    - 139786
+    - 139848
+  poster-presenters:
+    - "Ruiyi Yang"
+    - "Alexander Terenin"
+    - "Hwanwoo Kim"
+  posters:
+    - "Gaussian Process Regression under Computational and Epistemic Misspecification"
+    - "Lookahead-Free Bayesian Optimization Via Gittins Indices"
+    - |-
+      Bayesian Optimization with Noise-Free Observations: Improved Regret Bounds Via
+      Random Exploration
+80541:
+  missing-posters: []
+  poster-emails:
+    - "de1df972c03dce07"
+    - "1b43758c04257982"
+    - "20fac77eb61a1b9f"
+    - "1342cbee8b921175"
+    - "19e43b52fb735f84"
+    - "380857a14daa0abe"
+  poster-ids:
+    - 140167
+    - 139684
+    - 140563
+    - 139734
+    - 140094
+    - 140222
+  poster-presenters:
+    - "Yunbum Kook"
+    - "Kaylee Yang"
+    - "Lingkai Kong"
+    - "Haoxuan Chen"
+    - "Yinuo Ren"
+    - "Nic Fishman"
+  posters:
+    - "Uniform Sampling under Isoperimetric Assumptions"
+    - "Optimal Score Estimation Via Empirical Bayes"
+    - "Convergence of Kinetic Langevin Monte Carlo on Lie Groups"
+    - "Ensemble-Based Annealed Importance Sampling"
+    - "Confronting Singularities in Diffusion-Based Generative Modelling"
+    - "Diffusion Models and Flow Matching on General Constrained Domains"
+80543:
+  missing-posters: []
+  poster-emails:
+    - "d6b0c8b10680ea83"
+    - "ea98b812b30561e0"
+    - "2dbe9fcb33de8a1f"
+    - "cc9f56387a163d53"
+    - "213dc7ade027521"
+  poster-ids:
+    - 140525
+    - 139927
+    - 140088
+    - 139945
+    - 140145
+  poster-presenters:
+    - "Sam Buchanan"
+    - "Zhihui Zhu"
+    - "Berfin Simsek"
+    - "Kangwook Lee"
+    - "Yuchen Li"
+  posters:
+    - "White-Box Transformers Via Sparse Rate Reduction"
+    - "Similarity of Layer-Wise Representations Within Transformers"
+    - "Learning Associative Memories with Gradient Descent"
+    - "The Expressive Power of Low-Rank Adaptation"
+    - |-
+      Transformers Are Uninterpretable with Myopic Methods: a Case Study with Bounded
+      Dyck Grammars
+80544:
+  missing-posters: []
+  poster-emails:
+    - "cf0274df5020e530"
+    - "e56baa9811370a98"
+    - "43552a77254a6318"
+    - "8266e59f609cc3e"
+    - "51e25484bcef9afa"
+  poster-ids:
+    - 140148
+    - 140430
+    - 139898
+    - 139793
+    - 140277
+  poster-presenters:
+    - "Max Kreider"
+    - "Sage Shaw"
+    - "Yao Li"
+    - "Rodica Curtu"
+    - "Roberto Budzinski"
+  posters:
+    - |-
+      An ML approach to inferring network connectivity for coupled stochastic oscillator
+      networks
+    - "Radial Basis Function Methods for Neural Field Models"
+    - "Deep Neural Network Solver for Fokker-Planck Eigenfunctions"
+    - |-
+      Extracting Koopman-Based Features from Eeg Recordings of Brain Activity During
+      Time-Based Decision Making
+    - |-
+      An Exact Mathematical Description of Computation with Transient Spatiotemporal
+      Dynamics in a Complex-Valued Neural Network
+80547:
+  missing-posters: []
+  poster-emails:
+    - "9aa29ef8afe1dd27"
+    - "fcecec2d10533d05"
+    - "d0edd606d0b6e36a"
+  poster-ids:
+    - 139576
+    - 139604
+    - 139736
+  poster-presenters:
+    - "Yeonjong Shin"
+    - "Minglang Yin"
+    - "Jian-Xun Wang"
+  posters:
+    - "Tlasdi: Thermodynamics-Informed Latent Space Dynamics Identification"
+    - "Learning the Geometry-Dependent Solution Operators of Partial Differential Equations"
+    - |-
+      CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal
+      Turbulence
+80549:
+  missing-posters: []
+  poster-emails:
+    - "59b96b0829261820"
+    - "fd8475e2414c3ac6"
+    - "fbf497fb3905c825"
+    - "3b11f55bed1a662f"
+    - "9b8ca9a716bdd1b5"
+  poster-ids:
+    - 140080
+    - 140072
+    - 140180
+    - 140101
+    - 140151
+  poster-presenters:
+    - "Haoyang Zheng"
+    - "Arjun Vijaywargiya"
+    - "Thanh Dang"
+    - "Hoang Nguyen"
+    - "Shu Liu"
+  posters:
+    - "Accelerating Approximate Thompson Sampling with Underdamped Langevin Monte Carlo"
+    - |-
+      Efficient Computation of Mean-Field Control Based Barycenters from Reaction-Diffusion
+      Systems
+    - |-
+      Euler-Maruyama Schemes for Stochastic Differential Equations Driven by Stable
+      Lévy Processes with I.I.D. Stable Components
+    - |-
+      Wasserstein Convergence Guarantees for a General Class of Score-Based Generative
+      Models
+    - "Parametrized Wasserstein Hamiltonian Flow"
+80551:
+  missing-posters: []
+  poster-emails:
+    - "7149b09caa64f860"
+    - "97cb6add1328bb9"
+    - "8dc66e44890f2de7"
+    - "445830d019de701a"
+  poster-ids:
+    - 139765
+    - 139514
+    - 139935
+    - 140314
+  poster-presenters:
+    - "Deep Ray"
+    - "Ricardo Baptista"
+    - "Assad Oberai"
+    - "Julius Berner"
+  posters:
+    - "Physics-Driven Conditional GAN to Solve Inverse Problems"
+    - "Scalable Estimation of Conditional Brenier Maps Via Entropic Optimal Transport"
+    - "Conditional Generative Models in Data Assimilation"
+    - "Sampling with Stochastic Bridges"
+80554:
+  missing-posters: []
+  poster-emails:
+    - "cf2d215d9601595f"
+    - "307dc3e804d31789"
+    - "2da86b9d1a41c646"
+    - "80684655ea06849b"
+  poster-ids:
+    - 140287
+    - 140288
+    - 140289
+    - 140575
+  poster-presenters:
+    - "Yifan Chen"
+    - "Yijun Dong"
+    - "Fuqun Han"
+    - "Qi Lei"
+  posters:
+    - "Conditional Sampling with Stochastic Interpolants and Follmer Processes"
+    - "Robust Blockwise Random Pivoting"
+    - |-
+      Tensor Train Based Sampling Algorithms for Approximating Regularized Wasserstein
+      Proximal Opera60tors
+    - "Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning"
+80557:
+  missing-posters: []
+  poster-emails:
+    - "a943c357e1e557bc"
+    - "3efec9cbce1ec883"
+    - "e78127f742ee0bd0"
+    - "8589d2bfc2773d45"
+  poster-ids:
+    - 140046
+    - 140171
+    - 140206
+    - 140201
+  poster-presenters:
+    - "Levon Nurbekyan"
+    - "Yanbing Gu"
+    - "Anant Gupta"
+    - "Jeongjin Park"
+  posters:
+    - "Regularity and Gradients of Optimal Transportation Based Loss Functions"
+    - "Learning Dynamical Systems with the Spectral Exterior Calculus"
+    - "A Reduced Operator Newton Method for Bayesian Filtering"
+    - "Learning Statistically Accurate Chaotic Models with Neural ODEs"
+80558:
+  missing-posters: []
+  poster-emails:
+    - "12dfe95b6975af6f"
+    - "a165cd28bb46a9a7"
+    - "3edbe59b5aed299a"
+    - "a7b44206d630e92b"
+    - "2028b1b33c1cc818"
+  poster-ids:
+    - 139598
+    - 139674
+    - 139711
+    - 139716
+    - 139913
+  poster-presenters:
+    - "Yaodong Yu"
+    - "Ruihan Wu"
+    - "Shuaiqi Wang"
+    - "Rongzhe Wei"
+    - "Nico Manzonelli"
+  posters:
+    - "Differentially Private Representation Learning Via Image Captioning"
+    - "Better Membership Inference Privacy Measurement Through Discrepancy"
+    - "Statistic Maximal Leakage"
+    - "On the Inherent Privacy Properties of Discrete Denoising Diffusion Models"
+    - "Membership Inference Attacks and Privacy in Topic Modeling"
+80559:
+  missing-posters: []
+  poster-emails:
+    - "4cb95baaa0b87ab3"
+    - "ffda9f14e877d29"
+    - "9b7a725a6f35f5e6"
+    - "fdda456c587de4e5"
+    - "7f8b1acb08ae5e75"
+    - "3888f93f0a2b0bf4"
+    - "9a2219989ec059cc"
+  poster-ids:
+    - 139630
+    - 139631
+    - 139633
+    - 139626
+    - 139632
+    - 139625
+    - 139627
+  poster-presenters:
+    - "Marta Ghirardelli"
+    - "Martine Dyring Hansen"
+    - "Annan Yu"
+    - "Jules Berman"
+    - "Christopher Wang"
+    - "Lars Ruthotto"
+    - "Haley Rosso"
+  posters:
+    - "Optimisation Algorithms on Riemannian Manifolds with Application to Neural Networks"
+    - "Variational Structure-Preserving Neural Networks for Forced Lagrangian Systems"
+    - "Robustifying State-Space Models for Long Sequences Via Approximate Diagonalization"
+    - |-
+      Continuous Low-Rank Adaptation (CoLoRa) for Reduced Implicit Neural Modeling of
+      Parameterized Partial Differential Equations
+    - "Operator Learning for Hyperbolic Partial Differential Equations"
+    - "Neural ODE/SDE Training in Mixed and Low-Precision"
+    - "Comparison of Weight-Parameterization Methods in Neural ODEs for Surrogate Modeling"
+80560:
+  missing-posters: []
+  poster-emails:
+    - "de58d8347da859eb"
+    - "426075aeb7733c6c"
+    - "23a30dc4b8005cb2"
+  poster-ids:
+    - 139829
+    - 139903
+    - 140142
+  poster-presenters:
+    - "Alonso Ogueda"
+    - "Yicheng Liu"
+    - "Ning Jiang"
+  posters:
+    - "Applications of Disease Informed Neural Networks That Includes Human Behavior"
+    - "Deep Neural Network Solver for the Wkb Approach to the Fokker-Planck Equation"
+    - "Neural Network Prediction of Covid-19 Daily Infection Count"
+80561:
+  missing-posters: []
+  poster-emails:
+    - "f877dd0256dbea5f"
+    - "4daf1abd97d58e40"
+    - "8d0e224efacc4f47"
+    - "31eb1a96ff209a53"
+    - "678ac671c9f18fa4"
+  poster-ids:
+    - 139669
+    - 139681
+    - 139816
+    - 139918
+    - 139955
+  poster-presenters:
+    - "Haitao Mao"
+    - "Shikun Liu"
+    - "Madeline Navarro"
+    - "Zheng Zhang"
+    - "Vinam Arora"
+  posters:
+    - "Principle-Guided Graph Foundation Model Design"
+    - "Pairwise Alignment Improves Graph Domain Adaptation"
+    - "Graphmad: Graph Mixup for Data Augmentation Using Data-Driven Convex Clustering"
+    - "Self Supervised Representation Learning of Text-Attributed Graphs"
+    - "Leveraging Perceiver Io and Relative Position Encodings for Enhanced Node Classification"
+80562:
+  missing-posters: []
+  poster-emails:
+    - "b4677afeb74e2c75"
+    - "7ac216dbcbb2122b"
+    - "e0df963d17a33725"
+    - "1f5bd97903ebb274"
+    - "139528c47833ff3d"
+    - "d5ec1d7142f83678"
+    - "213dc7ade027521"
+  poster-ids:
+    - 139591
+    - 139782
+    - 139972
+    - 139621
+    - 140087
+    - 140246
+    - 140247
+  poster-presenters:
+    - "Jingfeng Wu"
+    - "Chaoyue Liu"
+    - "Dayal Singh Kalra"
+    - "Weihang Xu"
+    - "Zhenghao Xu"
+    - "Yao Ji"
+    - "Yuchen Li"
+  posters:
+    - |-
+      Large Stepsize Gradient Descent for Logistic Loss: Non-Monotonicity of the Loss
+      Improves Optimization Efficiency
+    - |-
+      Non-Linear Activation Soothes Ntk Conditioning for Wide Neural Networks: a Study
+      in the Relu Case
+    - |-
+      Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis,
+      Edge of Stability, and Route to Chaos
+    - |-
+      Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a
+      Single Neuron
+    - |-
+      Provable Acceleration of Nesterov's Accelerated Gradient for Asymmetric Matrix
+      Factorization and Linear Neural Networks
+    - "Distributed Stochastic Optimization and Sparse Statistical Recovery"
+    - "How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding"
+80565:
+  missing-posters: []
+  poster-emails:
+    - "c8315e27a01fe7de"
+    - "4f3f0b8f28241725"
+    - "255788e4935bd760"
+    - "5baf577f64208adf"
+  poster-ids:
+    - 139726
+    - 140175
+    - 139787
+    - 140124
+  poster-presenters:
+    - "Hongsong Feng"
+    - "Nicole Hayes"
+    - "Jiahui Chen"
+    - "Yuta Hozumi"
+  posters:
+    - |-
+      Multiscale Differential Geometry Learning of Networks with Applications to Single-Cell
+      Rna Sequencing Data
+    - |-
+      Integrating Transformer, Autoencoder, and Circular Fingerprint Techniques with
+      Spectral Graph Methods to Predict Scarcely Labeled Molecular Data
+    - "Clustering Phylogenetic Analysis of Influenza Mutation Data"
+    - "Analyzing Single Cell Rna Sequencing with Topological Nonnegative Matrix Factorization"
+80571:
+  missing-posters: []
+  poster-emails:
+    - "b0a3b91495df233f"
+    - "5a078ee8dc7e1e0a"
+    - "7ecf026eed7a3e60"
+    - "8d547b0e9dacdeb9"
+    - "c7524ff460865f8e"
+  poster-ids:
+    - 140537
+    - 140539
+    - 140540
+    - 140541
+    - 140538
+  poster-presenters:
+    - "Ziheng Guo"
+    - "Yantao Wu"
+    - "Sichen Yang"
+    - "Sichong Zhang"
+    - "Michela Marini"
+  posters:
+    - "Learning from High-Dimensional Stochastic Dynamics"
+    - "Conditional Regression on a Nonlinear Variable Model"
+    - |-
+      Nonlinear Model Reduction for Slow-Fast Stochastic Systems Near Unknown Invariant
+      Manifolds
+    - "Minimax Rates for Learning Kernels in Ill-Posed Inverse Problems"
+    - |-
+      Predictive Analysis of Opioid-Addiction Behavior Using Morphological Analysis
+      of Astrocytes
+80572:
+  missing-posters: []
+  poster-emails:
+    - "38a38e5038680d9"
+    - "fde32c9d3b4b1f41"
+    - "6007ab64b3fb4a13"
+    - "51b59913f7a0adad"
+  poster-ids:
+    - 139869
+    - 139871
+    - 139873
+    - 139874
+  poster-presenters:
+    - "Hao Liu"
+    - "Shaoxuan Chen"
+    - "Wonjun Lee"
+    - "Wenjing Liao"
+  posters:
+    - |-
+      Exploring Low-Dimensional Data Structures by Neural Networks with Application
+      on Operator Learning
+    - "Neural Deflation for Data-Driven Discovery of Conservation Laws from Trajectories"
+    - "Monotone Generative Modeling Via a Geometry-Preserving Mapping (Poster)"
+    - "A Manifold Two-Sample Test Study: Integral Probability Metric with Neural Networks"
+80578:
+  missing-posters: []
+  poster-emails:
+    - "7dd524ee74ef2ab7"
+    - "d2fdc3114a988ae1"
+    - "55506f421a19f949"
+    - "54db87f3bb561063"
+    - "dce3562e21146a39"
+    - "a81bc989222bf4f6"
+  poster-ids:
+    - 139724
+    - 140083
+    - 139722
+    - 140241
+    - 140116
+    - 139866
+  poster-presenters:
+    - "Amartya Banerjee"
+    - "Jonah Botvinick-Greenhouse"
+    - "Elisa Negrini"
+    - "Nicholas Karris"
+    - "Dhruv Kohli"
+    - "Andrew Warren"
+  posters:
+    - "Efficient Wasserstein Splines Through Consecutive Averaging"
+    - "Comparing Dynamical Systems Using Time-Delayed Invariant Measures"
+    - "Applications of No-Collision Transportation Maps in Manifold Learning"
+    - |-
+      Using Linearized Optimal Transport to Predict the Movement of Stochastic Particle
+      Systems
+    - "Tear and Repulsion Enabled Registration of Point Clouds for Manifold Learning"
+    - "Principal Curves in Wasserstein Space"
+80580:
+  missing-posters: []
+  poster-emails:
+    - "909bb69a281dd597"
+    - "9236117efc0e8e6"
+    - "136ef9b8c587a33b"
+    - "51b59913f7a0adad"
+  poster-ids:
+    - 139862
+    - 139863
+    - 139864
+    - 139865
+  poster-presenters:
+    - "Jiajia Yu"
+    - "Yinan Huang"
+    - "Nathan Gaby"
+    - "Wenjing Liao"
+  posters:
+    - "Solving High-Dimensional Mean-Field Games with Fictitious Play"
+    - "On the Stability of Expressive Positional Encodings for Graphs"
+    - "Approximation of Solution Operators for High-Dimensional Pdes"
+    - "Exploiting Low-Dimensional Data Structures in Deep Learning"
+80582:
+  missing-posters: []
+  poster-emails:
+    - "677fb6ab107b5d7f"
+    - "b4a5e2f56bcf725"
+    - "fb733ea6cf4bae05"
+    - "69bbf689750c2bd6"
+    - "e91f01a70de1438c"
+    - "6072df02ec3f6a6b"
+    - "8f4135a89118baf"
+    - "91b078eb54565dda"
+  poster-ids:
+    - 140044
+    - 140039
+    - 139776
+    - 139861
+    - 140238
+    - 140040
+    - 140078
+    - 140036
+  poster-presenters:
+    - "Michael Buzzy"
+    - "Conlain Kelly"
+    - "Hiroki Imura"
+    - "Grayson Harrington"
+    - "Shreya Jha"
+    - "Christian Engman"
+    - "Stephen Huan"
+    - "Alejandro Calle-Saldarriaga"
+  posters:
+    - |-
+      Active Learning for the Design of Polycrystalline Materials Using Conditional
+      Normalizing Flows
+    - "Hybrid Data-Driven Solvers for Statistical Continuum Mechanics"
+    - |-
+      Virtual X-Ray Diffraction Signals in Simulations of Dislocated Crystals: a Data
+      Generation Pipeline
+    - |-
+      Dataset Design to Accelerate Training Process-Structure Surrogate Models of Microstructure
+      Evolution
+    - "Higher Order Cumulant Truncation for Improved Moment Closure"
+    - "Sparse Recovery of Poincare-Steklov Operators from Matrix-Vector Products"
+    - "Möbius Inversion Meets Tensors: Inference by Edgeworth Series"
+    - |-
+      Generative Multi-Fidelity Modeling and Downscaling Via Spatial Autoregressive
+      Gaussian Processes
+80587:
+  missing-posters: []
+  poster-emails:
+    - "84a263af28194baf"
+    - "74e0b1ca73757e45"
+    - "324444fc7ef18e11"
+    - "f5ca61822954b95d"
+  poster-ids:
+    - 140549
+    - 139691
+    - 140550
+    - 140249
+  poster-presenters:
+    - "Ziyad Ouljah"
+    - "Sarah Tymochko"
+    - "Matt Piekenbrock"
+    - "Abigail Hickok"
+  posters:
+    - "Differentiable Mapper for Topological Data Representation"
+    - "Using Persistent Homology to Analyze Access to Resources with Heterogenous Quality"
+    - "Spectral Families of Persistent Rank Invariants"
+    - "Curvature Estimation for Point Clouds, Graphs, and Finite Metric Spaces"
+80588:
+  missing-posters: []
+  poster-emails:
+    - "4921dadff47f9cf1"
+    - "a66c199af9647974"
+    - "21662b1d420b9a03"
+    - "500cb47a3d90aeaa"
+    - "aff80a1be391414b"
+  poster-ids:
+    - 140232
+    - 140170
+    - 140178
+    - 140271
+    - 140182
+  poster-presenters:
+    - "Wei Zhang"
+    - "Erik Connerty"
+    - "Protik Nag"
+    - "Tiffany Lodge"
+    - "Krishnan Raghavan"
+  posters:
+    - |-
+      Dynamic Pattern Formation Via Distribution Control of Moment Kernelized Population
+      Systems
+    - |-
+      Inferring Network Connectivity Using Reservoir Networks: A Comparative Analysis
+      of Brain Connectivity Metrics for Eeg
+    - |-
+      Expressive and Flexible Simulation of Information Spread Strategies in Social
+      Networks Using Planning
+    - |-
+      Interpretable Inference of Drift and Control Vector Fields of Stochastic Dynamical
+      Systems
+    - "The Effect of Uncertainty on Machine Learning Through Optimal Control"
+80594:
+  missing-posters: []
+  poster-emails:
+    - "b09b333b502d35a7"
+    - "d7e5804cee6d6df0"
+    - "b96996cbbf207ad"
+    - "ee9c23e1df62dc37"
+  poster-ids:
+    - 139840
+    - 139841
+    - 139842
+    - 139843
+  poster-presenters:
+    - "Biraj Dahal"
+    - "Ivan Medri"
+    - "Yijie Jin"
+    - "Bill Huang"
+  posters:
+    - |-
+      On Deep Generative Models for Approximation and Estimation of Distributions on
+      Manifolds
+    - |-
+      Direct Methods for Classification of Time Signals with Separation Guarantees Using
+      Linear Optimal Transport Embeddings
+    - "Parametrized Wasserstein Gradient Flow with Application in Porous-Medium Equation"
+    - |-
+      Unsupervised Solution Operator Learning for Mean-Field Games Via Sampling-Invariant
+      Parametrizations
+80596:
+  missing-posters: []
+  poster-emails:
+    - "d8108f454c0d7f02"
+    - "84845112cde93b23"
+    - "d632b288e0a73e1d"
+    - "9220b8baf2d0eb30"
+  poster-ids:
+    - 139729
+    - 139718
+    - 139719
+    - 139720
+  poster-presenters:
+    - "Jose Rodriguez"
+    - "Jiayi Li"
+    - "Julia Lindberg"
+    - "El Mehdi Achour"
+  posters:
+    - |-
+      Applications of singularity theory in applied algebraic geometry and algebraic
+      statistics
+    - "Geometry of Polynomial Neural Networks"
+    - "Real Circles Tangent to Three Conics."
+    - "The Loss Landscape of Deep Linear Neural Networks: a Second-Order Analysis"
+80597:
+  missing-posters: []
+  poster-emails:
+    - "cf10eb74912a1942"
+    - "9990089206b9baf1"
+    - "a6dbfb7fb0d039a1"
+    - "b83a0e8a09c56299"
+  poster-ids:
+    - 139885
+    - 140021
+    - 140063
+    - 140524
+  poster-presenters:
+    - "Samuel Grauer"
+    - "Haowei(alice) Chen"
+    - "Nicholas Fisher"
+    - "Bruno Jedynak"
+  posters:
+    - |-
+      Flow Reconstruction from Parameterized Lagrangian Tracks with Hard Data-Based
+      Constraints
+    - "Occupation Kernel Regression for Fractional Order System Identification"
+    - "Learning Divergence-Free Vector Fields from Data Via the Occupation Kernel Method"
+    - |-
+      Learning Differential Equations from Data: Evaluating the Occupation Kernel Algorithm
+      Using the Common Task Framework of the Ai Institute for Dynamical Systems
+80598:
+  missing-posters: []
+  poster-emails:
+    - "1f59a7ffd94d451d"
+    - "a3e5d585263c0b15"
+    - "e4548bad2bf5374c"
+    - "3fe61c1230110599"
+  poster-ids:
+    - 140047
+    - 139969
+    - 139721
+    - 139767
+  poster-presenters:
+    - "Kelvin Kan"
+    - "Tingwei Meng"
+    - "Rentian Yao"
+    - "Hongyu Ke"
+  posters:
+    - "Multivariate Quantile Function Forecaster"
+    - |-
+      HJ-Sampler: a Bayesian Sampler for Inverse Problems of a Stochastic Process by
+      Leveraging Hamilton-Jacobi PDEs and Score-Based Generative Models
+    - "Mean-Field Variational Inference Via Wasserstein Gradient Flow"
+    - "Mambev: Vision State Space Models for Bird’s-Eye-View Generation"
+80601:
+  missing-posters: []
+  poster-emails:
+    - "879a7fa19bbe09e9"
+    - "9e0dc37f2f2918bd"
+    - "19bd83d6f046f21c"
+    - "4ea3a5f627f7ce53"
+  poster-ids:
+    - 139679
+    - 140074
+    - 140242
+    - 139946
+  poster-presenters:
+    - "Benjamin Burns"
+    - "Siting Liu"
+    - "Hyemin Gu"
+    - "Ziyu Chen"
+  posters:
+    - "A Mean-Field Games Approach to Score-Based Generative Modeling"
+    - |-
+      Wasserstein Proximal Operators Describe Score-Based Generative Models and Resolve
+      Memorization
+    - "Lipschitz Regularized Gradient Flows and Latent Generative Particles"
+    - "Sample Complexity of Probability Divergences under Group Symmetry"
+80603:
+  missing-posters: []
+  poster-emails:
+    - "2dfceafdc6db3a27"
+    - "a58af350bc3f9c40"
+    - "7a290aa54c53e365"
+    - "229a66249b5170b7"
+  poster-ids:
+    - 139769
+    - 140001
+    - 139950
+    - 139607
+  poster-presenters:
+    - "Subham Singh"
+    - "Yogesh Sapkota"
+    - "Bishal Lamichhane"
+    - "Ibrahem Aljabea"
+  posters:
+    - |-
+      Understanding the Influence of Genre-Specific Music Using Network Analysis and
+      Machine Learning Algorithms
+    - |-
+      A Network Science Approach to Understanding Ev Charging Accessibility in the Texas
+      Triangle
+    - "Llm Agents in Social Network Dynamics: A Study on Information Flow"
+    - "Topological Neural Network and Deep Learning"
+80604:
+  missing-posters: []
+  poster-emails:
+    - "ab95ce1502db2ff9"
+    - "d77f76318e9b64db"
+    - "fc31cb6cb1be2c6e"
+    - "d4d77fc49ed7dded"
+  poster-ids:
+    - 139849
+    - 139860
+    - 139847
+    - 139846
+  poster-presenters:
+    - "Steffen Schotthoefer"
+    - "Aditya Devarakonda"
+    - "Xue Feng"
+    - "John Gounley"
+  posters:
+    - "Distributed Machine Learning Strategies Using Dynamical Low-Rank Approximation"
+    - "S-Step SGD and Federated SGD for Large Scale Optimization"
+    - "Anderson Acceleration in Federated Learning"
+    - "Federated Learning with Heterogenous Private Data Silos"
+80605:
+  missing-posters: []
+  poster-emails:
+    - "38b0f1507a690513"
+    - "542b4a322e951b29"
+    - "f692ca7f17d30a42"
+    - "9c7ff3aa2b0bf7fb"
+  poster-ids:
+    - 140090
+    - 140008
+    - 140071
+    - 140313
+  poster-presenters:
+    - "Abhijith Jayakumar"
+    - "Karen Medlin"
+    - "Carlo Graziani"
+    - "Stefan Wild"
+  posters:
+    - "Learning While Stuck: Reconstructing Energy-Based Models from Metastable States."
+    - "Classifying Imbalanced Data"
+    - "A Gaussian Process Language Model"
+    - |-
+      Performance Analysis of Sequential Experimental Design for Calibration in Parallel
+      Computing Environments
+80606:
+  missing-posters: []
+  poster-emails:
+    - "522aa9c5fe53c014"
+    - "845b0f02ef2aa9ce"
+    - "f6ac02b7e0d44ac1"
+    - "ce7645976a64324d"
+  poster-ids:
+    - 139647
+    - 139602
+    - 139671
+    - 139949
+  poster-presenters:
+    - "Ruoxi Zhao"
+    - "Alyssa Blount"
+    - "Russell Jeter"
+    - "Chandra Dhakal"
+  posters:
+    - "Ai Foundation Models for Surgical Tool Localization"
+    - |-
+      Predicting Appendicular Lean Mass, Bone Density and Body Fat Using P-Laplacian
+      Based Semi-Supervised Learning
+    - "Stroke Rehabilitation with Machine Learning-Based Residual Severity Classification"
+    - |-
+      Association Between Socioeconomic Status and Cardiovascular Disease in the U.S.:
+      A Deep Learning Approach
+80607:
+  missing-posters:
+    - "MS Evaluation of Large Language Models: Challenges and Application"
+  poster-emails:
+    - "e4e9840f326deecf"
+    - "32e062f9ce801338"
+    - "bfbcc7ef3b39b256"
+    - "4d1eed279ab20760"
+  poster-ids:
+    - 139947
+    - 139615
+    - 139614
+    - 139948
+  poster-presenters:
+    - "Uttam Dhakal"
+    - "Gaurav Gupta"
+    - "Aniket Singh"
+    - "Umesh Yadav"
+  posters:
+    - "Evaluating the Efficacy of LLMs: Applications and Challenges"
+    - "Enhancing Ai Interactions: Comprehensive Review on Prompt Engineering Techniques"
+    - "The Nuances of Large-Language-Model-Agent Performance in Simple English Auction"
+    - |-
+      Decoding Confidence and Accuracy: An Analysis of Llm Performance on Leetcode
+      Challenges
+80608:
+  missing-posters: []
+  poster-emails:
+    - "e6e0ccd048abc395"
+    - "f4cec83511dcd08d"
+    - "dc6a6ccb76565752"
+    - "a17c769b26dacb96"
+    - "a15953b11b895813"
+    - "f0239ca19ce53d21"
+  poster-ids:
+    - 139594
+    - 139714
+    - 140220
+    - 140556
+    - 139838
+    - 140035
+  poster-presenters:
+    - "Yuchen Li"
+    - "Abraar Chaudhry"
+    - "Sofiia Shvaiko"
+    - "Soo Min Kwon"
+    - "Rachel Newton"
+    - "Mengqi Hu"
+  posters:
+    - |-
+      Convergence and Complexity Guarantee for Inexact First-Order Riemannian Optimization
+      Algorithms
+    - "Learning Nonnegative Matrix Factorization from Compressed Data"
+    - "Noise-Tolerant Randomized Kaczmarz Variant"
+    - |-
+      The Simplicity Biases in Deep Linear Networks: Flatness, Invariance, and Edge
+      of Stability
+    - "Manifold Optimization for Data Driven Reduced-Order Modeling"
+    - |-
+      Analyzing Bold Signals with Neural Networks and the Koopman Operator for Neurodegenerative
+      Disease Study
+80609:
+  missing-posters: []
+  poster-emails:
+    - "3101ff01437987bf"
+    - "55fdd8b131f4bda4"
+    - "c54f74f2e243a980"
+    - "8070115b7e798a97"
+  poster-ids:
+    - 140282
+    - 140291
+    - 139741
+    - 139822
+  poster-presenters:
+    - "Greg Depaul"
+    - "Li Zhang"
+    - "Ishika Ghosh"
+    - "Robin Belton"
+  posters:
+    - |-
+      Leveraging Derived Statistics from Differential Geometry for Understanding High-Dimensional
+      Tda
+    - |-
+      Topological Analysis Reveals Organizational Routines Recurrence in Outpatient
+      Medical Clinics During Covid-19
+    - "Computing a Loss Function to Bound the Interleaving Distance for Mapper Graphs"
+    - "Learning Parameters for Mapper Graphs"
+80610:
+  missing-posters: []
+  poster-emails:
+    - "1342cbee8b921175"
+    - "1b48a41f8c204af6"
+    - "5eecdd2c135d68ea"
+    - "4a50e9470a1bd623"
+  poster-ids:
+    - 139474
+    - 139660
+    - 139777
+    - 139967
+  poster-presenters:
+    - "Haoxuan Chen"
+    - "Mohammad Al-Jarrah"
+    - "Yuchen Zhu"
+    - "Jing An"
+  posters:
+    - |-
+      When Can Regression-Adjusted Control Variate Help? Rare Events, Sobolev Embedding
+      and Minimax Optimality
+    - |-
+      Data-Driven Approximation of Stationary Nonlinear Filters with Optimal Transport
+      Maps
+    - |-
+      A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to Functional
+      Conditional Moment Equations
+    - |-
+      Critical Points and Convergence Analysis of Generative Deep Linear Networks Trained
+      with Bures-Wasserstein Loss
+80614:
+  missing-posters: []
+  poster-emails:
+    - "7c4e18e3234c16b9"
+    - "876fa3f177149c66"
+    - "9f4c236b727905ce"
+    - "ba261cc6eb8c3d06"
+  poster-ids:
+    - 139828
+    - 139831
+    - 139781
+    - 140555
+  poster-presenters:
+    - "Anthony Gruber"
+    - "Jonas Actor"
+    - "Adrienne Propp"
+    - "Ravi Patel"
+  posters:
+    - "Reversible and Irreversible Bracket-based Dynamics for Deep Graph Neural Networks"
+    - "Operator Learning for Exterior Calculus Surrogate Models"
+    - "Learning Dirichlet-to-Neumann Maps for Graphs with Gaussian Processes"
+    - "A Novel Ensemble Approach to Uncertainty Quantification in Graph Neural Operators"
+80615:
+  missing-posters: []
+  poster-emails:
+    - "2b76debe04f44609"
+    - "4de67371b33627ab"
+    - "3c20cf5c21d7c270"
+    - "28d66be28253e7b6"
+  poster-ids:
+    - 140523
+    - 140269
+    - 140342
+    - 140172
+  poster-presenters:
+    - "Sara Fridovich-Keil"
+    - "Quanjun Lang"
+    - "Zhenghan Fang"
+    - "Yasi Zhang"
+  posters:
+    - "Thermal Radiance Fields: Regularization for Sensor Fusion (Poster)"
+    - "Data Adaptive RKHS Tikhonov Regularization for Learning Kernels in Operators"
+    - "What's in a Prior? Learned Proximal Networks for Inverse Problems"
+    - "Solving Linear Inverse Problems with Flows by Adaptive Corrupted Trajectory Matching"
+80618:
+  missing-posters: []
+  poster-emails:
+    - "b4d903916da8676c"
+    - "c5a57b797fe2995f"
+    - "a943c357e1e557bc"
+    - "6b07d1a46aec995d"
+    - "7301c7b58232362a"
+    - "1868c9e6ca4c655c"
+  poster-ids:
+    - 139896
+    - 139952
+    - 139914
+    - 140073
+    - 140202
+    - 139911
+  poster-presenters:
+    - "Yikun Bai"
+    - "Paulina Hoyos"
+    - "Levon Nurbekyan"
+    - "Sawyer Robertson"
+    - "Yunpeng Shi"
+    - "Yeari Vigder"
+  posters:
+    - "Stereographic Spherical Sliced Wasserstein Distance"
+    - "Manifold Learning in the Presence of Symmetries: the G-Invariant Graph Laplacian"
+    - "No-Collision Transportation Maps"
+    - |-
+      All You Need Is Resistance: On the Equivalence of Effective Resistance and Certain
+      Optimal Transport Problems on Graphs
+    - "Fast Alignment of Images in Sliced 2-Wasserstein Distance"
+    - "Spectral Embedding with Group Invariance: Theory and Applications"
+80619:
+  missing-posters:
+    - "MS Randomized Iterative Algorithms for Large-scale Matrix and Tensor Data"
+    - "Title TBD ----- Pritchard"
+    - "Title TBD ----- Suranayan"
+    - "Title TBD ----- Tian"
+    - "Title TBD ----- Tokcan"
+  poster-emails:
+    - "bbd2d989394dd6b4"
+    - "80e943e0eb32b6ff"
+    - "acc664101ea61889"
+    - "8dca51bddd4b829b"
+    - "922173577079fbb9"
+  poster-ids:
+    - 139649
+    - 139650
+    - 139651
+    - 139652
+    - 139653
+  poster-presenters:
+    - "Fan Tian"
+    - "Neriman Tokcan"
+    - "Shambhavi Suryanarayanan"
+    - "Nathaniel Pritchard"
+    - "Anna Ma"
+  posters:
+    - "Tensor Completion with BMD Factor Nuclear Norm Minimization"
+    - "Zero-Inflated Poisson Tensor Factorization for Multimodal Genomics Data"
+    - "Block Gauss-Siedel Methods for Solving Tensor Regression under the t-Product:"
+    - "Scalable sketching through shared preconditioning"
+    - "Iterative Approaches for Tensor Linear Systems"
+80620:
+  missing-posters: []
+  poster-emails:
+    - "d2c69693c5de5f7f"
+    - "510155492e465a45"
+    - "84c783ecd868ef94"
+    - "c79e55b87e07b3e9"
+  poster-ids:
+    - 140521
+    - 139823
+    - 140191
+    - 140165
+  poster-presenters:
+    - "Tomoki Koike"
+    - "Michael Ackermann"
+    - "Paul Schwerdtner"
+    - "Christopher Eldred"
+  posters:
+    - |-
+      Data-Driven Estimation of Stability Guarantees for Nonlinear Dynamical Systems
+      (Poster)
+    - "Learning Mechanical Systems From Data Via Structured Barycentric Forms"
+    - |-
+      Greedy Construction of Quadratic Manifolds for Nonlinear Dimensionality Reduction
+      and Nonlinear Model Reduction
+    - "HdR Roms: Hodge-DeRham Reduced Order Models"
+80624:
+  missing-posters: []
+  poster-emails:
+    - "f70f649c91b81d7d"
+    - "7ce5c1a4e1e8819a"
+  poster-ids:
+    - 139689
+    - 140259
+  poster-presenters:
+    - "Johann Gaebler"
+    - "Yatong Chen"
+  posters:
+    - "The Robust Outcome Test: A Simple, Statistically Robust Test of Discrimination"
+    - "Metric-Fair Classifier Derandomization"
+80625:
+  missing-posters: []
+  poster-emails:
+    - "d7e6b8463eb1933a"
+    - "13d80b5ba4722a71"
+    - "5994061819463f4a"
+    - "3c20cf5c21d7c270"
+  poster-ids:
+    - 140545
+    - 140546
+    - 140548
+    - 140577
+  poster-presenters:
+    - "Jacopo Teneggi"
+    - "Beepul Bharti"
+    - "Drew Prinster"
+    - "Sajani Vithana"
+  posters:
+    - "Formal Tests for Semantic Interpretability"
+    - "Certifying Fairness with Incomplete Sensitive Information"
+    - |-
+      Conformal Validity Guarantees Exist for Any Data Distribution (and How to
+      Find Them)
+    - "Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation"
+80632:
+  missing-posters: []
+  poster-emails:
+    - "5baf577f64208adf"
+    - "89bea5442949403d"
+    - "99151c7554d9aee4"
+    - "51c3060f7ce987f3"
+  poster-ids:
+    - 139770
+    - 139814
+    - 140068
+    - 139906
+  poster-presenters:
+    - "Yuta Hozumi"
+    - "Faisal Suwayyid"
+    - "Benjamin Jones"
+    - "Rui Wang"
+  posters:
+    - "K-Mer Topology for Whole Genome Analysis"
+    - "Persistent Path Dirac"
+    - "A Persistent Directed Flag Laplacian"
+    - "Exploring the Power of Persistent Spectral Graphs in Covid-19 Research"
+80634:
+  missing-posters: []
+  poster-emails:
+    - "3438cabfe56ac07"
+    - "95bb81295a61f9b2"
+    - "5094acea3b03356"
+    - "2a0cf79427173069"
+    - "d690177754149e7a"
+    - "cf5f3ff3803fc2e9"
+    - "bceda223ecc97498"
+  poster-ids:
+    - 139936
+    - 140543
+    - 139600
+    - 140542
+    - 140544
+    - 140009
+    - 139900
+  poster-presenters:
+    - "Wei Guo"
+    - "Alexander Win Hsu"
+    - "Shiying Li"
+    - "Xingjie Helen Li"
+    - "Biraj Pandey"
+    - "Zheyu Oliver Wang"
+    - "Yating Wang"
+  posters:
+    - "Discrete Stochastic Interpolant"
+    - "Approximating Measures on Function Spaces: Transport and Truncation"
+    - "Measure Transfer Via Stochastic Slicing and Matching"
+    - "Robust and Efficient Differentiation for Regularized Optimal Transport"
+    - "Approximation Rates for Minimum Integral Probability Metric Generative Models"
+    - |-
+      Efficient Neural Network Approaches for Conditional Optimal Transport with Applications
+      in Bayesian Inference
+    - "Optimal Transport with Cost-Free Transformations"
+80635:
+  missing-posters: []
+  poster-emails:
+    - "91b750ce38c60db8"
+    - "7f8377ece60878e7"
+    - "d1477785a637c77a"
+    - "36258ba132116cf0"
+  poster-ids:
+    - 140043
+    - 140558
+    - 140281
+    - 140557
+  poster-presenters:
+    - "Chandler Smith"
+    - "Tianyi Chen"
+    - "Ipsita Ghosh"
+    - "Zhexuan Liu"
+  posters:
+    - "A Riemannian Distance Geometry Algorithm with Adaptive Sampling"
+    - "Euclidean Mirrors and First-Order Changepoints in Network Time Series"
+    - |-
+      Solving Euclidean Distance Geometry Problems from Few Samples Via Iteratively
+      Reweighted Least Squares
+    - |-
+      Assessing and Improving Accountability of Stochastic Neighbor Embedding Methods:
+      A Map-Continuity Perspective
+80688:
+  missing-posters: []
+  poster-emails:
+    - "f48fbccf7e871c62"
+    - "f43f12ae758832e9"
+    - "b4a7b60218258054"
+    - "453f2c6ca149fe7"
+  poster-ids:
+    - 139818
+    - 139732
+    - 139836
+    - 139930
+  poster-presenters:
+    - "Erik Amezquita"
+    - "Jeremy Watts"
+    - "Nikolas Schonsheck"
+    - "Jared Deighton"
+  posters:
+    - |-
+      Characterizing Single-Cell Transcriptomic Signatures with Persistent Homology
+      and Molecular Cartography
+    - "Characterizing Lymphedema Risk Using MRI Topological Data Analysis"
+    - "Hebbian Learning of Cyclic Features of Neural Code"
+    - "Higher-Order Spatial Information for Self-Supervised Place Cell Learning"
+80697:
+  missing-posters: []
+  poster-emails:
+    - "c218c72c815998f9"
+    - "f2cf410d9d71f10d"
+    - "84f738eff9c58559"
+    - "df514f42cc6bef73"
+  poster-ids:
+    - 140030
+    - 140121
+    - 139894
+    - 140188
+  poster-presenters:
+    - "Altansuren Tumurbaatar"
+    - "Khady Diagne"
+    - "Mehrshad Sadria"
+    - "Runze Yan"
+  posters:
+    - |-
+      Identifying Influential Events for Pressure Injury Development: Applying Graph
+      Analysis on Electronic Health Records
+    - |-
+      Using Mathematical Models to Identify the Mechanism of Premature Ventricular Complexes
+      in Cardiac Arrhythmias
+    - |-
+      FateNet: An Integration of Dynamical Systems and Deep Learning for Cell Fate
+      Prediction
+    - |-
+      Enabling Pre-Shock State Detection Using Electrogram Signals from Implantable
+      Cardioverter-Defibrillators
+80725:
+  missing-posters: []
+  poster-emails:
+    - "c9bc18d7b6525e6c"
+    - "78be8890f9563c5d"
+    - "53d4b39992e18ca1"
+    - "bc4e557f702e0cc0"
+    - "5edd66c1a132e4ee"
+  poster-ids:
+    - 140066
+    - 140160
+    - 140168
+    - 140091
+    - 140120
+  poster-presenters:
+    - "Jeonghwan Lee"
+    - "Ga-Ming (Angus) Chan"
+    - "Chang Li"
+    - "Maoyu Zhang"
+    - "Xiangyu Wu"
+  posters:
+    - "Modeling Time-Varying Networks"
+    - "Inference on Interaction Hypergraphs"
+    - "Improved Curvature Gaps for Stochastic Block Model Graphs"
+    - "Preferential Latent Space Models for Networks with Textual Edges"
+    - |-
+      A Latent Space Approach to Inferring Heterogeneous Reciprocity in Directed Network
+      Data
+80726:
+  missing-posters: []
+  poster-emails:
+    - "671fa9d52d0412a6"
+    - "660f149477abc197"
+    - "4480b4e49fd9b2b8"
+    - "a4cbc83c3b0c33e5"
+  poster-ids:
+    - 140308
+    - 140284
+    - 140285
+    - 140309
+  poster-presenters:
+    - "Taiyu Ye"
+    - "Xiangqi Bai"
+    - "Lin Wan"
+    - "Li Xia"
+  posters:
+    - "False Discovery Rate Control in Multiple Regression Models with Unobserved Confounders"
+    - |-
+      Joint Inference of Clonal Structure Using Single-Cell Genome and Transcriptome
+      Sequencing Data
+    - "Optimal Transport for Single-Cell Heterogeneous Data Analysis"
+    - |-
+      CTRhythm: accurate atrial fibrillation detection from single-lead rhythm by convolutional
+      neural network and transformer integration
+80742:
+  missing-posters: []
+  poster-emails:
+    - "2d5c0eadb6c4babb"
+    - "c7cf2d11c57cbf9d"
+    - "d4afe73195a7a380"
+    - "304f201b6192205f"
+  poster-ids:
+    - 140065
+    - 140210
+    - 140099
+    - 139951
+  poster-presenters:
+    - "Na Lei"
+    - "Ke Chen"
+    - "Ming Ma"
+    - "Jisui Huang"
+  posters:
+    - "Discrete Ricci Curvature Based Level Set Model"
+    - |-
+      Variational Framework for Super-Resolution 3D Surface Reconstruction from Limited
+      Inputs in Multimodal Imaging
+    - "Medical Image Segmentation Using the Equivariance under Diffeomorphisms Framework"
+    - "3D Manifold Topology Based Medical Image Data Augmentation"
+80750:
+  missing-posters: []
+  poster-emails:
+    - "e56a8baeb7747be"
+    - "c788db5c322b497c"
+    - "2359672ef6e98dcb"
+  poster-ids:
+    - 139738
+    - 140140
+    - 140559
+  poster-presenters:
+    - "Asaf Abas"
+    - "Emanuel Ström"
+    - "Sounak Paul"
+  posters:
+    - "Bias-Variance Trade-off in Multiscale Interpolation"
+    - "Phase Recovery with Moment Constraints for Multireference Alignment"
+    - "Learning Cryo-Em Structures Via the Method of Moments (Poster)"
+80756:
+  missing-posters: []
+  poster-emails:
+    - "f99f967cd79a9da3"
+    - "323f7fa558298838"
+    - "686bb57e7e686bee"
+    - "60a4cfae504236bc"
+  poster-ids:
+    - 140041
+    - 140533
+    - 140136
+    - 140010
+  poster-presenters:
+    - "Rui Hu"
+    - "Praneeth Vepakomma"
+    - "Sumit Jha"
+    - "Yichuan Shi"
+  posters:
+    - "Federated Learning with Differential Privacy and More"
+    - "Privacy for Activation Release in Collaborative Training and Inference"
+    - |-
+      Gradient-Based Methods for Explanations and Confidence Metrics in Distributed
+      Learning
+    - |-
+      Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated
+      Learning
+80764:
+  missing-posters: []
+  poster-emails:
+    - "bcf1b3025c5f9dbd"
+    - "a03278f90d416eba"
+    - "2cedb34ed62c1bd2"
+    - "78507f1733b9d57d"
+  poster-ids:
+    - 140150
+    - 140265
+    - 140199
+    - 140157
+  poster-presenters:
+    - "Gregory Ongie"
+    - "Suzanna Parkinson"
+    - "Adityanarayanan Radhakrishnan"
+    - "Joseph Shenouda"
+  posters:
+    - |-
+      Performance Guarantees for Solving Linear Inverse Problems with Implicit Neural
+      Representations
+    - "Effect of Linear Layers in ReLu Networks: Learning Single-/Multiple-Index Models"
+    - |-
+      Mechanism for Feature Learning in Neural Networks and Backpropagation-Free Machine
+      Learning Models
+    - |-
+      Variation Spaces for Multi-Output Neural Networks: Insights on Multi-Task Learning
+      and DNN Compression
+80803:
+  missing-posters: []
+  poster-emails:
+    - "6b938e6b55a45fe"
+    - "2eb07dc55b31971b"
+    - "ebc833a65b9625a6"
+    - "e7d16246d8683cea"
+  poster-ids:
+    - 139115
+    - 139116
+    - 139117
+    - 139118
+  poster-presenters:
+    - "Emma Hart"
+    - "Nathan Waniorek"
+    - "Toluwani Okunola"
+    - "Mathieu Le Provost"
+  posters:
+    - "Paired Autoencoders for Inference and Regularization"
+    - "Hierarchical Bayesian Inverse Problems: a High-Dimensional Statistics Viewpoint"
+    - |-
+      Dynamic Inverse Problems: Efficient Methods for Dynamic Image Reconstruction
+      with Motion Estimation
+    - "Sparsity-Promoting Ensemble Methods for Bayesian Inverse Problems"

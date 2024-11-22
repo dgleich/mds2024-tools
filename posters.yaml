@@ -1,0 +1,3509 @@
+- email: "7627a2957b8a59a"
+  first_name: "Carlos"
+  id: 139760
+  last_name: "Llosa"
+  title: "A Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor Model"
+- email: "76139f7908b2c135"
+  first_name: "Michael"
+  id: 139728
+  last_name: "Stillman"
+  title: "Learning Selection Strategies in Buchberger's Algorithm"
+- email: "e56a8baeb7747be"
+  first_name: "Asaf"
+  id: 139738
+  last_name: "Abas"
+  title: "Bias-Variance Trade-off in Multiscale Interpolation"
+- email: "d10bc098253cfaf4"
+  first_name: "Abdullah"
+  id: 139878
+  last_name: "Abdullah"
+  title: |-
+    Novel Numerical Reconstruction and Isolation of Different Nonlinear Dynamics
+    in Video Via Latent Space Disentanglement of An Untrained Generator Network and
+    Applications to Dynamic Mri
+- email: "9220b8baf2d0eb30"
+  first_name: "El Mehdi"
+  id: 139720
+  last_name: "Achour"
+  title: "The Loss Landscape of Deep Linear Neural Networks: a Second-Order Analysis"
+- email: "510155492e465a45"
+  first_name: "Michael"
+  id: 139823
+  last_name: "Ackermann"
+  title: "Learning Mechanical Systems From Data Via Structured Barycentric Forms"
+- email: "fd7b923792511eeb"
+  first_name: "Theophilus"
+  id: 138453
+  last_name: "Acquah"
+  title: |-
+    Temporal Dynamics in Spatial Random Field Theory: A Methodological Advance
+    in Fmri Data Analysis
+- email: "876fa3f177149c66"
+  first_name: "Jonas"
+  id: 139831
+  last_name: "Actor"
+  title: "Operator Learning for Exterior Calculus Surrogate Models"
+- email: "92ab68870441595f"
+  first_name: "Henry"
+  id: 139917
+  last_name: "Adams"
+  title: "Evasion Paths in Mobile Sensor Networks"
+- email: "bcdefb3263cb2bfb"
+  first_name: "Emmanuel"
+  id: 140272
+  last_name: "Adara"
+  title: |-
+    Probability Reconstruction for Chemical Kinetics Using a Maximum Entropy
+    Method with Moments
+- email: "767712cda733544"
+  first_name: "Ben"
+  id: 139601
+  last_name: "Adcock"
+  title: |-
+    CS4ML: A General Framework for Active Learning with Arbitrary Data Based
+    on Christoffel Functions
+- email: "f715a6ce8d96e202"
+  first_name: "Shuchin"
+  id: 140108
+  last_name: "Aeron"
+  title: |-
+    Hard Negative Sampling Via Regularized Optimal Transport for Contrastive
+    Representation Learning
+- email: "f715a6ce8d96e202"
+  first_name: "Shuchin"
+  id: 139784
+  last_name: "Aeron"
+  title: "Entropy-Regularized Wasserstein Barycenter Functionals: Theory and Applications"
+- email: "6515169397cf60af"
+  first_name: "Medha"
+  id: 139851
+  last_name: "Agarwal"
+  title: "Transformer Learning As a Heat Flow"
+- email: "80d5d151779299ad"
+  first_name: "Rouzbeh"
+  id: 139942
+  last_name: "Aghaieebeiklavasani"
+  title: |-
+    A Data-Driven Analysis of Combat Curves in Dynamic Interactions of Rivals
+    in Conflicts
+- email: "f556c339045e0f82"
+  first_name: "James"
+  id: 140553
+  last_name: "Alcala"
+  title: |-
+    Deterministic and Stochastic Moving Anchor Extragradient Algorithms for Structured
+    Saddlepoint Problems (Poster)
+- email: "4c494dad1b3a0240"
+  first_name: "Albert"
+  id: 140096
+  last_name: "Alcalde"
+  title: "Clustering in Pure-Attention Hardmax Transformers"
+- email: "99c643e412bf6321"
+  first_name: "Ali"
+  id: 139785
+  last_name: "Alfatemi"
+  title: "A Deep Learning Framework for Ekg Diagnosis"
+- email: "229a66249b5170b7"
+  first_name: "Ibrahem"
+  id: 139607
+  last_name: "Aljabea"
+  title: "Topological Neural Network and Deep Learning"
+- email: "1b48a41f8c204af6"
+  first_name: "Mohammad"
+  id: 139660
+  last_name: "Al-Jarrah"
+  title: |-
+    Data-Driven Approximation of Stationary Nonlinear Filters with Optimal Transport
+    Maps
+- email: "458205601578246b"
+  first_name: "Ismail"
+  id: 140053
+  last_name: "Alkhouri"
+  title: "Diffusion-Based Robust Hybrid Deep Mri Reconstruction"
+- email: "78269a9f73b328a8"
+  first_name: "Thomas"
+  id: 139640
+  last_name: "Allard"
+  title: "Ellipsoids Methods for Metric Entropy Computations"
+- email: "2078abc66cbac456"
+  first_name: "Aisha"
+  id: 139563
+  last_name: "Alqahtani"
+  title: |-
+    Heat and Mass Transfer Through Mhd Darcy Forchheimer Casson Hybrid Nanofluid
+    Flow Across An Exponential Stretching Sheet
+- email: "f48fbccf7e871c62"
+  first_name: "Erik"
+  id: 139818
+  last_name: "Amezquita"
+  title: |-
+    Characterizing Single-Cell Transcriptomic Signatures with Persistent Homology
+    and Molecular Cartography
+- email: "9bcef55bfefa11b2"
+  first_name: "Elizabeth"
+  id: 139567
+  last_name: "Amona"
+  title: |-
+    Studying Disease Reinfection Rates, Vaccine Efficacy and the Timing of Vaccine
+    Rollout in the Context of Infectious Diseases
+- email: "4a50e9470a1bd623"
+  first_name: "Jing"
+  id: 139967
+  last_name: "An"
+  title: |-
+    Critical Points and Convergence Analysis of Generative Deep Linear Networks
+    Trained with Bures-Wasserstein Loss
+- email: "368683604593866c"
+  first_name: "Rajasekhar"
+  id: 139599
+  last_name: "Anguluri"
+  title: |-
+    Riccati Equations in Sparse Gaussian Graphical Models: Insights and Applications
+    in Equilibrium Networks
+- email: "346486e487a05355"
+  first_name: "Ricardo"
+  id: 140248
+  last_name: "Araujo Torres"
+  title: |-
+    Fundamental Solution-Based RBF Neural Networks for Solving Inverse Boundary
+    Value Problems
+- email: "678ac671c9f18fa4"
+  first_name: "Vinam"
+  id: 139955
+  last_name: "Arora"
+  title: |-
+    Leveraging Perceiver Io and Relative Position Encodings for Enhanced Node
+    Classification
+- email: "97eea5642fadf6d3"
+  first_name: "Temesgen"
+  id: 139071
+  last_name: "Awoke"
+  title: |-
+    Sex-Structured Disease Transmission Model and Control Mechanisms for Visceral
+    Leishmaniasis (vl)
+- email: "b4d903916da8676c"
+  first_name: "Yikun"
+  id: 139896
+  last_name: "Bai"
+  title: "Stereographic Spherical Sliced Wasserstein Distance"
+- email: "660f149477abc197"
+  first_name: "Xiangqi"
+  id: 140284
+  last_name: "Bai"
+  title: |-
+    Joint Inference of Clonal Structure Using Single-Cell Genome and Transcriptome
+    Sequencing Data
+- email: "1e8bac74f7add2e8"
+  first_name: "Krishnakumar"
+  id: 140301
+  last_name: "Balasubramanian"
+  title: "Understanding Gaussian-Stein Variational Gradient Descent"
+- email: "b1efd079e287282b"
+  first_name: "Matthew"
+  id: 139690
+  last_name: "Balcer"
+  title: |-
+    Surrogate-Assisted Parallel Global Optimization Using Sensitivity Analysis
+    Applied to Shaped Charges
+- email: "7dd524ee74ef2ab7"
+  first_name: "Amartya"
+  id: 139724
+  last_name: "Banerjee"
+  title: "Efficient Wasserstein Splines Through Consecutive Averaging"
+- email: "97cb6add1328bb9"
+  first_name: "Ricardo"
+  id: 139514
+  last_name: "Baptista"
+  title: "Scalable Estimation of Conditional Brenier Maps Via Entropic Optimal Transport"
+- email: "97cb6add1328bb9"
+  first_name: "Ricardo"
+  id: 139661
+  last_name: "Baptista"
+  title: "Toward Consistent Nonlinear Filtering and Smoothing Via Measure Transport"
+- email: "651db700fdfad825"
+  first_name: "Sajjadul"
+  id: 139791
+  last_name: "Bari"
+  title: |-
+    Advancements in Parametrization of Sub-Grid Fluxes Utilizing Homogenization
+    Techniques and Machine Learning Approaches
+- email: "dd7ad9589dce7d52"
+  first_name: "Hardeep"
+  id: 139958
+  last_name: "Bassi"
+  title: "Machine Learning Applications to Quantum Many-Body Systems"
+- email: "efffc905bb019111"
+  first_name: "Sabyasachi"
+  id: 139998
+  last_name: "Basu"
+  title: "Spectral Triadic Decompositions of Real-World Networks"
+- email: "d388a31385b4dc46"
+  first_name: "Pau"
+  id: 140290
+  last_name: "Batlle"
+  title: |-
+    Frequentist Confidence Intervals Via Optimization: Resolving the Burrus
+    Conjecture
+- email: "8070115b7e798a97"
+  first_name: "Robin"
+  id: 139822
+  last_name: "Belton"
+  title: "Learning Parameters for Mapper Graphs"
+- email: "7e68397168b04951"
+  first_name: "Ido"
+  id: 139083
+  last_name: "Ben-Yair"
+  title: |-
+    Optimizing Non-Galerkin Algebraic Multigrid for Asymmetric Finite Element
+    Problems
+- email: "fdda456c587de4e5"
+  first_name: "Jules"
+  id: 139626
+  last_name: "Berman"
+  title: |-
+    Continuous Low-Rank Adaptation (CoLoRa) for Reduced Implicit Neural Modeling
+    of Parameterized Partial Differential Equations
+- email: "445830d019de701a"
+  first_name: "Julius"
+  id: 140314
+  last_name: "Berner"
+  title: "Sampling with Stochastic Bridges"
+- email: "c20c9ea7ccbcd492"
+  first_name: "Dila Ram"
+  id: 140400
+  last_name: "Bhandari"
+  title: "Touching with Time Series Models to Predict Tourist Traffic"
+- email: "13d80b5ba4722a71"
+  first_name: "Beepul"
+  id: 140546
+  last_name: "Bharti"
+  title: "Certifying Fairness with Incomplete Sensitive Information"
+- email: "ab6e22b0782463d9"
+  first_name: "Dhananjay"
+  id: 140236
+  last_name: "Bhaskar"
+  title: "Learning Graph Geometry and Topology Via Continuous-Time Message Passing"
+- email: "82258482a0be2871"
+  first_name: "Jnanajyoti"
+  id: 139595
+  last_name: "Bhaumik"
+  title: "Bayesian Calibration of the Rosenthal Model"
+- email: "845b0f02ef2aa9ce"
+  first_name: "Alyssa"
+  id: 139602
+  last_name: "Blount"
+  title: |-
+    Predicting Appendicular Lean Mass, Bone Density and Body Fat Using P-Laplacian
+    Based Semi-Supervised Learning
+- email: "94cf187c9309d6ae"
+  first_name: "Edem"
+  id: 140262
+  last_name: "Boahen"
+  title: "An Efficient Streaming Algorithm for Sparse Eigenvector"
+- email: "fbd92cadfd720d81"
+  first_name: "Lucas"
+  id: 139569
+  last_name: "Boettcher"
+  title: "Complex Networks with Complex Weights"
+- email: "d2fdc3114a988ae1"
+  first_name: "Jonah"
+  id: 140083
+  last_name: "Botvinick-Greenhouse"
+  title: "Comparing Dynamical Systems Using Time-Delayed Invariant Measures"
+- email: "9f3e811700d3d6ea"
+  first_name: "Francesco"
+  id: 139747
+  last_name: "Brarda"
+  title: "Efficient Hybrid Learning of Spatial-Temporal Operator Networks"
+- email: "f7a40d98c47fec41"
+  first_name: "Andrey"
+  id: 139715
+  last_name: "Bryutkin"
+  title: |-
+    Techniques for Reducing Dimensions and Quantifying Uncertainty in Dynamical
+    Systems
+- email: "d6b0c8b10680ea83"
+  first_name: "Sam"
+  id: 140525
+  last_name: "Buchanan"
+  title: "White-Box Transformers Via Sparse Rate Reduction"
+- email: "51e25484bcef9afa"
+  first_name: "Roberto"
+  id: 140277
+  last_name: "Budzinski"
+  title: |-
+    An Exact Mathematical Description of Computation with Transient Spatiotemporal
+    Dynamics in a Complex-Valued Neural Network
+- email: "ae6e77326d89cf99"
+  first_name: "Sarita"
+  id: 139032
+  last_name: "Bugalia"
+  title: |-
+    A Mathematical Model at the Wildlife-Livestock-Human Interface to Predict
+    the Implications of Measures to Control Bovine Tuberculosis
+- email: "879a7fa19bbe09e9"
+  first_name: "Benjamin"
+  id: 139679
+  last_name: "Burns"
+  title: "A Mean-Field Games Approach to Score-Based Generative Modeling"
+- email: "677fb6ab107b5d7f"
+  first_name: "Michael"
+  id: 140044
+  last_name: "Buzzy"
+  title: |-
+    Active Learning for the Design of Polycrystalline Materials Using Conditional
+    Normalizing Flows
+- email: "b626e151d883a006"
+  first_name: "Krishnanunni"
+  id: 139578
+  last_name: "C G"
+  title: "Approaches for Deep Neural Network Architecture Adaptation"
+- email: "1bcbf15e730b6a43"
+  first_name: "Difeng"
+  id: 139617
+  last_name: "Cai"
+  title: "Autm Flow: Atomic Unrestricted Time Machine for Monotonic Normalizing Flows"
+- email: "96fa239f149073cb"
+  first_name: "HanQin"
+  id: 139609
+  last_name: "Cai"
+  title: |-
+    Associated Poster: A Zeroth-Order Block Coordinate Descent Algorithm for
+    Huge-Scale Black-Box Optimization
+- email: "948e3c22a7e0e81b"
+  first_name: "Darby"
+  id: 140064
+  last_name: "Cairns"
+  title: |-
+    Particle Swarm Optimization for Generating Virtual Populations of Cardiac
+    Patients
+- email: "91b078eb54565dda"
+  first_name: "Alejandro"
+  id: 140036
+  last_name: "Calle-Saldarriaga"
+  title: |-
+    Generative Multi-Fidelity Modeling and Downscaling Via Spatial Autoregressive
+    Gaussian Processes
+- email: "86f0cb99733c3803"
+  first_name: "Yiyi"
+  id: 140012
+  last_name: "Cao"
+  title: "User Analysis for Instagram Operational Improvement"
+- email: "4e44c114ea7210bb"
+  first_name: "Yan"
+  id: 140258
+  last_name: "Cao"
+  title: "Ordinal Pattern Preserving Surrogates for Non-Stationary Time Series"
+- email: "69281353839ae439"
+  first_name: "Christina"
+  id: 140164
+  last_name: "Catlett"
+  title: |-
+    Model-Guided Experiment Design to Characterize Spatial Organization of Bacterial
+    Metabolism
+- email: "e1b61014ae950ff7"
+  first_name: "Matthew"
+  id: 140221
+  last_name: "Chak"
+  title: "Finding Multiple Optimal Solutions"
+- email: "78be8890f9563c5d"
+  first_name: "Ga-Ming (Angus)"
+  id: 140160
+  last_name: "Chan"
+  title: "Inference on Interaction Hypergraphs"
+- email: "f4cec83511dcd08d"
+  first_name: "Abraar"
+  id: 139714
+  last_name: "Chaudhry"
+  title: "Learning Nonnegative Matrix Factorization from Compressed Data"
+- email: "b576e332cd8906d4"
+  first_name: "Yudong"
+  id: 140520
+  last_name: "Chen"
+  title: |-
+    Stochastic Algorithms As Markov Chains in Min-Max and Variational Inequality
+    Problems
+- email: "4ea3a5f627f7ce53"
+  first_name: "Ziyu"
+  id: 139946
+  last_name: "Chen"
+  title: "Sample Complexity of Probability Divergences under Group Symmetry"
+- email: "b83b8622194d6115"
+  first_name: "Tianlong"
+  id: 139610
+  last_name: "Chen"
+  title: |-
+    Associated Poster: Revisiting Zeroth-Order Optimization for Memory-Efficient
+    Llm Fine-Tuning: A Benchmark
+- email: "cf2d215d9601595f"
+  first_name: "Yifan"
+  id: 140287
+  last_name: "Chen"
+  title: "Conditional Sampling with Stochastic Interpolants and Follmer Processes"
+- email: "3f76db7b7dcef89c"
+  first_name: "Jessie"
+  id: 139723
+  last_name: "Chen"
+  title: "Optimal Sensor Placements in Gaussian Processes Using Column Subset Selection"
+- email: "9990089206b9baf1"
+  first_name: "Haowei(alice)"
+  id: 140021
+  last_name: "Chen"
+  title: "Occupation Kernel Regression for Fractional Order System Identification"
+- email: "fde32c9d3b4b1f41"
+  first_name: "Shaoxuan"
+  id: 139871
+  last_name: "Chen"
+  title: "Neural Deflation for Data-Driven Discovery of Conservation Laws from Trajectories"
+- email: "c7cf2d11c57cbf9d"
+  first_name: "Ke"
+  id: 140210
+  last_name: "Chen"
+  title: |-
+    Variational Framework for Super-Resolution 3D Surface Reconstruction from
+    Limited Inputs in Multimodal Imaging
+- email: "7f8377ece60878e7"
+  first_name: "Tianyi"
+  id: 140558
+  last_name: "Chen"
+  title: "Euclidean Mirrors and First-Order Changepoints in Network Time Series"
+- email: "f2fa6b26f9451924"
+  first_name: "Peiyi"
+  id: 139009
+  last_name: "Chen"
+  title: "Reconstruction of Phonon Relaxation Time Using Boltzmann Transport Equation"
+- email: "9ce4da630caf0fd3"
+  first_name: "Joshua"
+  id: 140189
+  last_name: "Chen"
+  title: "Scalable and efficient lazy maps enabled by derivative-informed neural operators"
+- email: "255788e4935bd760"
+  first_name: "Jiahui"
+  id: 139787
+  last_name: "Chen"
+  title: "Clustering Phylogenetic Analysis of Influenza Mutation Data"
+- email: "d9ab19a10a969d59"
+  first_name: "Yuntian"
+  id: 140562
+  last_name: "Chen"
+  title: "Equation Discovery Via Symbolic Mathematics"
+- email: "1342cbee8b921175"
+  first_name: "Haoxuan"
+  id: 140255
+  last_name: "Chen"
+  title: "An Improved Analysis of Parallel Diffusion Generative Model Sampling"
+- email: "1342cbee8b921175"
+  first_name: "Haoxuan"
+  id: 139474
+  last_name: "Chen"
+  title: |-
+    When Can Regression-Adjusted Control Variate Help? Rare Events, Sobolev Embedding
+    and Minimax Optimality
+- email: "1342cbee8b921175"
+  first_name: "Haoxuan"
+  id: 139734
+  last_name: "Chen"
+  title: "Ensemble-Based Annealed Importance Sampling"
+- email: "7ce5c1a4e1e8819a"
+  first_name: "Yatong"
+  id: 140259
+  last_name: "Chen"
+  title: "Metric-Fair Classifier Derandomization"
+- email: "97b8022843fd09a4"
+  first_name: "Haoyu"
+  id: 140084
+  last_name: "Chen"
+  title: "Largest Angle Path Distance for Multi-Manifold Clustering"
+- email: "56e86ce58475f5f5"
+  first_name: "Long"
+  id: 139988
+  last_name: "Chen"
+  title: "Data-Driven Aerodynamic Shape Design with Distributionally Robust Optimization"
+- email: "ba93b78caea7c1db"
+  first_name: "Xiaoou"
+  id: 139527
+  last_name: "Cheng"
+  title: "Improved Active Learning Via Dependent Leverage Score Sampling"
+- email: "d4472570475984c1"
+  first_name: "Jiahui"
+  id: 139694
+  last_name: "Cheng"
+  title: "Identification of Differential Equations Via Weighted Weak Form with Voting"
+- email: "a463510cc395e880"
+  first_name: "Siu Wun"
+  id: 139926
+  last_name: "Cheung"
+  title: |-
+    libROM: a Free, Lightweight, Scalable C++ Library for Data-Driven Physical
+    Simulation Methods
+- email: "91a8eaea87d4732c"
+  first_name: "Eric"
+  id: 139979
+  last_name: "Chi"
+  title: "Mcmc Importance Sampling Via Moreau-Yosida Envelopes"
+- email: "f93058727279d627"
+  first_name: "Bosu"
+  id: 140317
+  last_name: "Choi"
+  title: "Sampling Error Mitigation Through Spectrum Smoothing in Ensemble Data Assimilation"
+- email: "f3ca4dee9ccb58da"
+  first_name: "Abhijit"
+  id: 140209
+  last_name: "Chowdhary"
+  title: |-
+    Techniques for the Robust Experimental Design of Nonlinear Bayesian Inverse
+    Problems
+- email: "7793fbd62ee401ee"
+  first_name: "Victor"
+  id: 140316
+  last_name: "Churchill"
+  title: "Details On: Priors for Efficient Three-Dimensional Imaging"
+- email: "709d61db0afe9789"
+  first_name: "Frank"
+  id: 140024
+  last_name: "Cole"
+  title: |-
+    Analysis of Score-Based Generative Models in Learning Distributions with
+    Low Complexity
+- email: "d7f92efd819e6921"
+  first_name: "Maxfield"
+  id: 140085
+  last_name: "Comstock"
+  title: |-
+    Quantifying Chaos in Cardiac Action Potential Dynamics by Computing the Spatiotemporal
+    Lyapunov Exponent
+- email: "a66c199af9647974"
+  first_name: "Erik"
+  id: 140170
+  last_name: "Connerty"
+  title: |-
+    Inferring Network Connectivity Using Reservoir Networks: A Comparative Analysis
+    of Brain Connectivity Metrics for Eeg
+- email: "870bd275c28354da"
+  first_name: "Luis"
+  id: 139665
+  last_name: "Constante"
+  title: |-
+    Physics-Informed Machine Learning Algorithms As Pde Solvers in Fluid Flow
+    Through Porous Media
+- email: "46ab909eab158e36"
+  first_name: "Baris"
+  id: 139897
+  last_name: "Coskunuzer"
+  title: "Topological Methods for Drug Discovery"
+- email: "6c3bb82b70d9c969"
+  first_name: "Manuel"
+  id: 139041
+  last_name: "Cuerno"
+  title: "Reassessing Relationality for Bipolar Data"
+- email: "8a442eb6170cca0d"
+  first_name: "Imma Valentina"
+  id: 139564
+  last_name: "Curato"
+  title: "Mixed Moving Average Field Guided Learning for Spatio-Temporal Data"
+- email: "8266e59f609cc3e"
+  first_name: "Rodica"
+  id: 139793
+  last_name: "Curtu"
+  title: |-
+    Extracting Koopman-Based Features from Eeg Recordings of Brain Activity During
+    Time-Based Decision Making
+- email: "c748b14c03174573"
+  first_name: "Ebru"
+  id: 139646
+  last_name: "Dagdelen"
+  title: "Understanding Fluid Flux: Topological Data Analysis of Porous Media"
+- email: "b09b333b502d35a7"
+  first_name: "Biraj"
+  id: 139840
+  last_name: "Dahal"
+  title: |-
+    On Deep Generative Models for Approximation and Estimation of Distributions
+    on Manifolds
+- email: "f102f4f0ec21e823"
+  first_name: "Kevin"
+  id: 139780
+  last_name: "Daley"
+  title: "Mapping and Control of High-Dimensional Bistabilities from Noisy Data"
+- email: "1c04d500272bd2b2"
+  first_name: "Swaroop"
+  id: 140177
+  last_name: "Damodaran"
+  title: |-
+    Image-Based Goal Conditioned Reinforcement Learning with a Gflownet Planner
+    and Transformer Policy
+- email: "fbf497fb3905c825"
+  first_name: "Thanh"
+  id: 140180
+  last_name: "Dang"
+  title: "Euler-Maruyama Schemes for Stochastic Differential Equations Driven by Stable Lévy Processes with I.I.D. Stable Components"
+- email: "1dbb22c9a8d10bc5"
+  first_name: "Matthieu"
+  id: 139919
+  last_name: "Darcy"
+  title: "Kernel Methods for Operator Learning"
+- email: "325a2358719f9710"
+  first_name: "Sachith"
+  id: 139619
+  last_name: "Dassanayaka"
+  title: |-
+    A Text-Based Classification to Escalate the Predictability of Fake Tweet
+    Actors in Troll Networks
+- email: "545059a01afee98e"
+  first_name: "Darlington S."
+  id: 138998
+  last_name: "David"
+  title: |-
+    Predictive Modeling of Complex Dynamical Systems Using Machine Learning:
+    A Comparative Analysis
+- email: "453f2c6ca149fe7"
+  first_name: "Jared"
+  id: 139930
+  last_name: "Deighton"
+  title: "Higher-Order Spatial Information for Self-Supervised Place Cell Learning"
+- email: "f79c92d08dc08d8b"
+  first_name: "Afrouz"
+  id: 139839
+  last_name: "Delshad"
+  title: |-
+    Efficacy of Hybrid Echo State Networks in Forecasting Cardiac Electrophysiological
+    Signals
+- email: "78d452402ea45d3"
+  first_name: "Joshua"
+  id: 139977
+  last_name: "Deng"
+  title: |-
+    Neural Operator Simulation of Turbulent Multiphase Flow with Applications
+    in Ocean Wave Modeling
+- email: "3101ff01437987bf"
+  first_name: "Greg"
+  id: 140282
+  last_name: "Depaul"
+  title: |-
+    Leveraging Derived Statistics from Differential Geometry for Understanding
+    High-Dimensional Tda
+- email: "b42bf55a72a58246"
+  first_name: "Anton"
+  id: 140214
+  last_name: "Dereventsov"
+  title: "Exploring Policy Entropy in Reinforcement Learning for Personalization Environments"
+- email: "14d460e1f6909a88"
+  first_name: "Shay"
+  id: 139011
+  last_name: "Deutsch"
+  title: "Ms-Umap - Multi-Scale Manifold Learning Through Probabilistic Sampling"
+- email: "d77f76318e9b64db"
+  first_name: "Aditya"
+  id: 139860
+  last_name: "Devarakonda"
+  title: "S-Step SGD and Federated SGD for Large Scale Optimization"
+- email: "ce7645976a64324d"
+  first_name: "Chandra"
+  id: 139949
+  last_name: "Dhakal"
+  title: |-
+    Association Between Socioeconomic Status and Cardiovascular Disease in the
+    U.S.: A Deep Learning Approach
+- email: "e4e9840f326deecf"
+  first_name: "Uttam"
+  id: 139947
+  last_name: "Dhakal"
+  title: "Evaluating the Efficacy of LLMs: Applications and Challenges"
+- email: "56c737c0728dd8c5"
+  first_name: "Sibasish"
+  id: 139909
+  last_name: "Dhibar"
+  title: |-
+    D3censent: A New Cnn Ensemble Network for White Blood Cell Classification
+    with Lime Explainable
+- email: "f2cf410d9d71f10d"
+  first_name: "Khady"
+  id: 140121
+  last_name: "Diagne"
+  title: |-
+    Using Mathematical Models to Identify the Mechanism of Premature Ventricular
+    Complexes in Cardiac Arrhythmias
+- email: "d58fc9560eabe4f8"
+  first_name: "Hugo"
+  id: 140253
+  last_name: "Diaz"
+  title: "Bayesian D-Optimal Experimental Design for Weak-Constraint 4D-Var"
+- email: "1d25cebd4f8933c6"
+  first_name: "Martin"
+  id: 139575
+  last_name: "Diaz-Viera"
+  title: |-
+    Machine Learning Vs Copula-Based Quantile Regression Methods for Prediction
+    of Petrophysical Properties with Seismic Attributes: A Comparative Study
+- email: "b8d91f0d51f397df"
+  first_name: "Daniil"
+  id: 140057
+  last_name: "Dmitriev"
+  title: "Lower Bounds for Private Online Learning"
+- email: "d9637b638f206bd3"
+  first_name: "Ramesh"
+  id: 139035
+  last_name: "Doddaiah"
+  title: "Learning Salient Semantic Subsequences to Explain Deep Time Series Classifiers"
+- email: "df6b7437b15e7d21"
+  first_name: "Gunay"
+  id: 140207
+  last_name: "Dogan"
+  title: "Scikit-Shape: Python Toolbox for Shape Analysis and Segmentation"
+- email: "df6b7437b15e7d21"
+  first_name: "Gunay"
+  id: 140204
+  last_name: "Dogan"
+  title: "Vemos: A Gui for Evaluation of Similarity Metrics on Complex Data Sets"
+- email: "307dc3e804d31789"
+  first_name: "Yijun"
+  id: 140288
+  last_name: "Dong"
+  title: "Robust Blockwise Random Pivoting"
+- email: "d0b3eb09b7442468"
+  first_name: "Ariane"
+  id: 139978
+  last_name: "Ducellier"
+  title: "Domain-Specific Raking with Uncertainty Propagation and Quantification"
+- email: "4e0de1247137adfe"
+  first_name: "Danny"
+  id: 140141
+  last_name: "Dunlavy"
+  title: |-
+    Constrained Tensor Decompositions for Low-Rank Modeling of Multiphysics Simulation
+    Data
+- email: "7ca0c2973b49fe0a"
+  first_name: "Arian"
+  id: 140225
+  last_name: "Eamaz"
+  title: |-
+    Unrolled 1-Bit Foundation Inference Models: Training, Effectiveness, and
+    the Precision-Layer-Complexity Trade-Off
+- email: "7ca0c2973b49fe0a"
+  first_name: "Arian"
+  id: 140230
+  last_name: "Eamaz"
+  title: |-
+    Beyond the Shadow of a Doubt: Certifying Dnn Training Performance with Real-Time
+    Data-Aware Guarantees
+- email: "57197a310cea81c2"
+  first_name: "Behrang"
+  id: 139910
+  last_name: "Ebrahimi"
+  title: "A Graph-Based Feature Selection Algorithm"
+- email: "cecbb424b9616211"
+  first_name: "Keenan"
+  id: 140305
+  last_name: "Eikenberry"
+  title: "Maximizing Wasserstein Dependence in Autoencoders"
+- email: "c79e55b87e07b3e9"
+  first_name: "Christopher"
+  id: 140165
+  last_name: "Eldred"
+  title: "HdR Roms: Hodge-DeRham Reduced Order Models"
+- email: "3caaeb15aa988804"
+  first_name: "Moshe"
+  id: 139086
+  last_name: "Eliasof"
+  title: "Weather Forecast by Graph Neural Networks"
+- email: "3caaeb15aa988804"
+  first_name: "Moshe"
+  id: 140554
+  last_name: "Eliasof"
+  title: "Feature Transportation Improves Graph Neural Networks"
+- email: "6072df02ec3f6a6b"
+  first_name: "Christian"
+  id: 140040
+  last_name: "Engman"
+  title: "Sparse Recovery of Poincare-Steklov Operators from Matrix-Vector Products"
+- email: "dc00ad0d655c559e"
+  first_name: "Ethan"
+  id: 140535
+  last_name: "Epperly"
+  title: |-
+    Embrace Rejection! Faster Low-Rank Approximation by Rejection Sampling-Accelerated
+    Randomly Pivoted Cholesky
+- email: "7c7d233e6f2dfbac"
+  first_name: "Xiantao"
+  id: 139888
+  last_name: "Fan"
+  title: |-
+    Neural Differentiable Modeling with Diffusion-Based Superresolution for 2D
+    Spatiotemporal Turbulence
+- email: "edd8ed9034000407"
+  first_name: "Tiffany"
+  id: 140270
+  last_name: "Fan"
+  title: |-
+    Surrogate Modeling for Particle Accelerator Simulations Using Point Clouds
+    and Graph Networks
+- email: "3c20cf5c21d7c270"
+  first_name: "Zhenghan"
+  id: 140547
+  last_name: "Fang"
+  title: "Learned Proximal Networks for Inverse Problems"
+- email: "3c20cf5c21d7c270"
+  first_name: "Zhenghan"
+  id: 140342
+  last_name: "Fang"
+  title: "What's in a Prior? Learned Proximal Networks for Inverse Problems"
+- email: "f1e05da167760727"
+  first_name: "Ionut-Gabriel"
+  id: 139710
+  last_name: "Farcas"
+  title: "Distributed Computing for Physics-Based Data-Driven Reduced Modeling at Scale"
+- email: "c1abb42d91f7c7"
+  first_name: "Theodore"
+  id: 139837
+  last_name: "Faust"
+  title: "Community-Size Biases in Statistical Inference in Temporal Networks"
+- email: "fc31cb6cb1be2c6e"
+  first_name: "Xue"
+  id: 139847
+  last_name: "Feng"
+  title: "Anderson Acceleration in Federated Learning"
+- email: "c8315e27a01fe7de"
+  first_name: "Hongsong"
+  id: 139726
+  last_name: "Feng"
+  title: |-
+    Multiscale Differential Geometry Learning of Networks with Applications to
+    Single-Cell Rna Sequencing Data
+- email: "b70fba66f30fd22e"
+  first_name: "Paz"
+  id: 139956
+  last_name: "Fink Shustin"
+  title: "Pce-Net: High Dimensional Surrogate Modeling for Learning Uncertainty"
+- email: "a6dbfb7fb0d039a1"
+  first_name: "Nicholas"
+  id: 140063
+  last_name: "Fisher"
+  title: |-
+    Learning Divergence-Free Vector Fields from Data Via the Occupation Kernel
+    Method
+- email: "380857a14daa0abe"
+  first_name: "Nic"
+  id: 140222
+  last_name: "Fishman"
+  title: "Diffusion Models and Flow Matching on General Constrained Domains"
+- email: "9da4549bcedbf587"
+  first_name: "Ryan"
+  id: 139002
+  last_name: "Franks"
+  title: "Wasserstein-Based Explainability for Fairness of ML Models"
+- email: "2b76debe04f44609"
+  first_name: "Sara"
+  id: 140523
+  last_name: "Fridovich-Keil"
+  title: "Thermal Radiance Fields: Regularization for Sensor Fusion (Poster)"
+- email: "18536b0754e5f56d"
+  first_name: "Nickolas"
+  id: 139648
+  last_name: "Fularczyk"
+  title: "Convolutional Framelets Using a Tensor Representation"
+- email: "136ef9b8c587a33b"
+  first_name: "Nathan"
+  id: 139864
+  last_name: "Gaby"
+  title: "Approximation of Solution Operators for High-Dimensional Pdes"
+- email: "f70f649c91b81d7d"
+  first_name: "Johann"
+  id: 139689
+  last_name: "Gaebler"
+  title: "The Robust Outcome Test: A Simple, Statistically Robust Test of Discrimination"
+- email: "e4c96308890d533f"
+  first_name: "Aarshvi"
+  id: 139560
+  last_name: "Gajjar"
+  title: "Agnostic Active Learning of Single Index Models with Linear Sample Complexity"
+- email: "47be4f8de7b3443a"
+  first_name: "Jochen"
+  id: 140022
+  last_name: "Garcke"
+  title: "Using the Signature Transform for Analysing Reinforcement Learning Agents"
+- email: "2d184145a99d3919"
+  first_name: "Yuwei"
+  id: 139891
+  last_name: "Geng"
+  title: "Data-Driven Approaches for Solving the Allen-Cahn Equation"
+- email: "4cb95baaa0b87ab3"
+  first_name: "Marta"
+  id: 139630
+  last_name: "Ghirardelli"
+  title: |-
+    Optimisation Algorithms on Riemannian Manifolds with Application to Neural
+    Networks
+- email: "d1477785a637c77a"
+  first_name: "Ipsita"
+  id: 140281
+  last_name: "Ghosh"
+  title: |-
+    Solving Euclidean Distance Geometry Problems from Few Samples Via Iteratively
+    Reweighted Least Squares
+- email: "c54f74f2e243a980"
+  first_name: "Ishika"
+  id: 139741
+  last_name: "Ghosh"
+  title: "Computing a Loss Function to Bound the Interleaving Distance for Mapper Graphs"
+- email: "533fc786f698e064"
+  first_name: "Adam"
+  id: 140020
+  last_name: "Giammarese"
+  title: "Tree-Based Learning for High-Fidelity Prediction of Chaos"
+- email: "2408d2b0d8afdb16"
+  first_name: "David"
+  id: 140318
+  last_name: "Gleich"
+  title: "Better Than Best Low-Rank Approximation with the Singular Value Decomposition"
+- email: "dadd24d858ad60bd"
+  first_name: "Cory"
+  id: 140051
+  last_name: "Glover"
+  title: "Measuring Entanglement in Physical Networks"
+- email: "dadd24d858ad60bd"
+  first_name: "Cory"
+  id: 140224
+  last_name: "Glover"
+  title: |-
+    Deconstructing Reconstruction: Structural Biases in Networks Reconstructed
+    from Time Series Dynamics
+- email: "3bc29867c0ed3e9b"
+  first_name: "Ashkan"
+  id: 139003
+  last_name: "Golgoon"
+  title: "Mechanistic Interpretability of Financial Large Language Models"
+- email: "54b95dfafb40b516"
+  first_name: "Shira"
+  id: 139971
+  last_name: "Golovin"
+  title: "New Family of Refinable Functions, Easily Learned by Neural Networks"
+- email: "7e59777567b572a9"
+  first_name: "Alejandro"
+  id: 140203
+  last_name: "Gomez-Leos"
+  title: "Exponential Speedups in Tensor Completion Via the Average Spectrum Norm"
+- email: "9c1dce2aa98df05e"
+  first_name: "Xindi"
+  id: 140186
+  last_name: "Gong"
+  title: "Derivative-Informed Neural Operators for Optimization under Uncertainty"
+- email: "3374f161a47a52ad"
+  first_name: "Matan"
+  id: 140530
+  last_name: "Goren"
+  title: |-
+    Physics-Guided Full Waveform Inversion Using Encoder-Solver Convolutional
+    Neural Networks (Poster)
+- email: "d4d77fc49ed7dded"
+  first_name: "John"
+  id: 139846
+  last_name: "Gounley"
+  title: "Federated Learning with Heterogenous Private Data Silos"
+- email: "84c14c8bf826ebe0"
+  first_name: "Agam"
+  id: 139968
+  last_name: "Goyal"
+  title: "A Latent Linear Model for Nonlinear Coupled Oscillators on Graphs"
+- email: "cf10eb74912a1942"
+  first_name: "Samuel"
+  id: 139885
+  last_name: "Grauer"
+  title: |-
+    Flow Reconstruction from Parameterized Lagrangian Tracks with Hard Data-Based
+    Constraints
+- email: "f692ca7f17d30a42"
+  first_name: "Carlo"
+  id: 140071
+  last_name: "Graziani"
+  title: "A Gaussian Process Language Model"
+- email: "7c4e18e3234c16b9"
+  first_name: "Anthony"
+  id: 139828
+  last_name: "Gruber"
+  title: |-
+    Reversible and Irreversible Bracket-based Dynamics for Deep Graph Neural
+    Networks
+- email: "19bd83d6f046f21c"
+  first_name: "Hyemin"
+  id: 140242
+  last_name: "Gu"
+  title: "Lipschitz Regularized Gradient Flows and Latent Generative Particles"
+- email: "3efec9cbce1ec883"
+  first_name: "Yanbing"
+  id: 140171
+  last_name: "Gu"
+  title: "Learning Dynamical Systems with the Spectral Exterior Calculus"
+- email: "949ef9587968e00b"
+  first_name: "Gianluca"
+  id: 140194
+  last_name: "Guadagni"
+  title: "Sequential Gradient Descent"
+- email: "6c1cb686a9942d95"
+  first_name: "Martin"
+  id: 139699
+  last_name: "Guerra"
+  title: "Swarm-Based Gradient Descent Meets Simulated Annealing"
+- email: "e399fd59a25fc61c"
+  first_name: "David"
+  id: 139635
+  last_name: "Guinovart"
+  title: |-
+    Utilizing Dynamical Systems and Multipopulation Models to Track Disease
+    Spread in Cuba: A Focus on Dengue, Covid-19, and HIV
+- email: "b0a3b91495df233f"
+  first_name: "Ziheng"
+  id: 140537
+  last_name: "Guo"
+  title: "Learning from High-Dimensional Stochastic Dynamics"
+- email: "3438cabfe56ac07"
+  first_name: "Wei"
+  id: 139936
+  last_name: "Guo"
+  title: "Discrete Stochastic Interpolant"
+- email: "e78127f742ee0bd0"
+  first_name: "Anant"
+  id: 140206
+  last_name: "Gupta"
+  title: "A Reduced Operator Newton Method for Bayesian Filtering"
+- email: "ff3c83a558256d"
+  first_name: "Kanan"
+  id: 140268
+  last_name: "Gupta"
+  title: "Nesterov Acceleration Despite Very Noisy Gradients"
+- email: "32e062f9ce801338"
+  first_name: "Gaurav"
+  id: 139615
+  last_name: "Gupta"
+  title: "Enhancing Ai Interactions: Comprehensive Review on Prompt Engineering Techniques"
+- email: "16039facb7aa97e9"
+  first_name: "Sebastian"
+  id: 139187
+  last_name: "Gutierrez Hernandez"
+  title: |-
+    Control-Deeponet: Deep Operator Networks for Pde-Constrained Optimal Control
+    under Uncertainty
+- email: "16039facb7aa97e9"
+  first_name: "Sebastian"
+  id: 139812
+  last_name: "Gutierrez Hernandez"
+  title: "Control Problems in Wasserstein Space Via Conditional Flow Matching."
+- email: "aa77ecc1350b9714"
+  first_name: "Konstantin"
+  id: 139565
+  last_name: "Häberle"
+  title: "Separating Capacity of Convolutional Neural Networks"
+- email: "5fe03a0869e90804"
+  first_name: "Ido"
+  id: 139735
+  last_name: "Hadi"
+  title: "SE(3) Synchronization by Dual Quaternions"
+- email: "f13e4986aadb7707"
+  first_name: "Xian"
+  id: 139189
+  last_name: "Hadia"
+  title: |-
+    Harnessing Data Efficiency with a Fixed-Point Iteration Analogous to Adaptive
+    Mesh Refinement
+- email: "84b6780df38c0d81"
+  first_name: "Diana"
+  id: 139819
+  last_name: "Halikias"
+  title: "Adjoint-Free Operator Learning and Matrix Recovery"
+- email: "d781ff57bc1f5e03"
+  first_name: "Jackson"
+  id: 140115
+  last_name: "Hamel"
+  title: |-
+    Medical Image Classification by Graph Clustering Methods Applied to a Neural
+    Network Approach
+- email: "2da86b9d1a41c646"
+  first_name: "Fuqun"
+  id: 140289
+  last_name: "Han"
+  title: |-
+    Tensor Train Based Sampling Algorithms for Approximating Regularized Wasserstein
+    Proximal Operators
+- email: "74282a84c26bf38f"
+  first_name: "Tyler"
+  id: 140561
+  last_name: "Hanks"
+  title: "A Compositional Framework for First-Order Optimization (Poster)"
+- email: "ffda9f14e877d29"
+  first_name: "Martine Dyring"
+  id: 139631
+  last_name: "Hansen"
+  title: "Variational Structure-Preserving Neural Networks for Forced Lagrangian Systems"
+- email: "69bbf689750c2bd6"
+  first_name: "Grayson"
+  id: 139861
+  last_name: "Harrington"
+  title: |-
+    Dataset Design to Accelerate Training Process-Structure Surrogate Models
+    of Microstructure Evolution
+- email: "6b938e6b55a45fe"
+  first_name: "Emma"
+  id: 139115
+  last_name: "Hart"
+  title: "Paired Autoencoders for Inference and Regularization"
+- email: "824cbce4a41e1ac8"
+  first_name: "Emmanuel"
+  id: 140278
+  last_name: "Hartman"
+  title: "Geometric Deep Learning for Unregistered Shape Data"
+- email: "ad9c3363f8c98b6f"
+  first_name: "Danish"
+  id: 139999
+  last_name: "Hassan"
+  title: |-
+    Forecasting Solar-Geomagnetic Activity Using Ai: A Markov Chain Monte Carlo
+    Approach
+- email: "2cc92281b95ad4ca"
+  first_name: "Johannes"
+  id: 139707
+  last_name: "Haubner"
+  title: "Learning Mesh Motion Techniques with Application to Fluid-Structure Interaction"
+- email: "f5b27db1143f0071"
+  first_name: "Alexander"
+  id: 140273
+  last_name: "Havrilla"
+  title: |-
+    Predicting Scaling Laws with Approximation and Statistical Theory for Transformer
+    Neural Networks on Intrinsically Low-Dimensional Data
+- email: "4f3f0b8f28241725"
+  first_name: "Nicole"
+  id: 140175
+  last_name: "Hayes"
+  title: |-
+    Integrating Transformer, Autoencoder, and Circular Fingerprint Techniques
+    with Spectral Graph Methods to Predict Scarcely Labeled Molecular Data
+- email: "897310eb5fbbd6f1"
+  first_name: "Zhiheng"
+  id: 140119
+  last_name: "He"
+  title: "Application of Neural Operators to the Phase Field Modeling of Brittle Fractures"
+- email: "51e8558ce9947eb0"
+  first_name: "Huan"
+  id: 140267
+  last_name: "He"
+  title: "Tensor Kernel in Causal Inference"
+- email: "37d55546fc852260"
+  first_name: "Hortencia"
+  id: 139749
+  last_name: "Hernandez"
+  title: "Protecting Data Privacy in Social Network Studies Using Synthetic Data"
+- email: "f5ca61822954b95d"
+  first_name: "Abigail"
+  id: 140249
+  last_name: "Hickok"
+  title: "Curvature Estimation for Point Clouds, Graphs, and Finite Metric Spaces"
+- email: "45786a5b5be4c6b8"
+  first_name: "Caitlin"
+  id: 139805
+  last_name: "Ho"
+  title: "Machine Learning for System Identification and Parameter Estimation"
+- email: "f89d7a9cf0da8610"
+  first_name: "Chester"
+  id: 140173
+  last_name: "Holtz"
+  title: "Continuous Partitioning for Graph-Based Semi-Supervised Learning"
+- email: "263984634b22e2f8"
+  first_name: "YoungJoon"
+  id: 140526
+  last_name: "Hong"
+  title: |-
+    Simple Arithmetic Operation in Latent Space Can Generate a Novel Three Dimensional
+    Graph Metamaterials
+- email: "7d8414b105370aa3"
+  first_name: "Shirin"
+  id: 139717
+  last_name: "Hosseinmardi"
+  title: |-
+    Mitigating Spectral Bias of Neural PDE Solvers by Parametric Grid Convolutional
+    Encoding
+- email: "29309593b88ee52a"
+  first_name: "Jianguo"
+  id: 139901
+  last_name: "Hou"
+  title: |-
+    Applying Machine Learning to Continuous Monitoring Data for Glucose Level
+    Forecasting in Septic Patients
+- email: "fd4e5fc30b84babb"
+  first_name: "Kodjo"
+  id: 140244
+  last_name: "Houssou"
+  title: |-
+    Convergence Rates for Poisson Learning to a Poisson Equation with Measure
+    Data
+- email: "c5a57b797fe2995f"
+  first_name: "Paulina"
+  id: 139952
+  last_name: "Hoyos"
+  title: "Manifold Learning in the Presence of Symmetries: the G-Invariant Graph Laplacian"
+- email: "5baf577f64208adf"
+  first_name: "Yuta"
+  id: 139770
+  last_name: "Hozumi"
+  title: "K-Mer Topology for Whole Genome Analysis"
+- email: "5baf577f64208adf"
+  first_name: "Yuta"
+  id: 140124
+  last_name: "Hozumi"
+  title: |-
+    Analyzing Single Cell Rna Sequencing with Topological Nonnegative Matrix
+    Factorization
+- email: "95bb81295a61f9b2"
+  first_name: "Alexander Win"
+  id: 140543
+  last_name: "Hsu"
+  title: "Approximating Measures on Function Spaces: Transport and Truncation"
+- email: "f0239ca19ce53d21"
+  first_name: "Mengqi"
+  id: 140035
+  last_name: "Hu"
+  title: |-
+    Analyzing Bold Signals with Neural Networks and the Koopman Operator for
+    Neurodegenerative Disease Study
+- email: "f99f967cd79a9da3"
+  first_name: "Rui"
+  id: 140041
+  last_name: "Hu"
+  title: "Federated Learning with Differential Privacy and More"
+- email: "8f4135a89118baf"
+  first_name: "Stephen"
+  id: 140078
+  last_name: "Huan"
+  title: "Möbius Inversion Meets Tensors: Inference by Edgeworth Series"
+- email: "b695becd9cbc8230"
+  first_name: "Juntao"
+  id: 139830
+  last_name: "Huang"
+  title: |-
+    On the Rotational Invariance and Hyperbolicity of Shallow Water Moment Equations
+    for Free Surface Flows
+- email: "304f201b6192205f"
+  first_name: "Jisui"
+  id: 140099
+  last_name: "Huang"
+  title: "Medical Image Segmentation Using the Equivariance under Diffeomorphisms Framework"
+- email: "304f201b6192205f"
+  first_name: "Jisui"
+  id: 140065
+  last_name: "Huang"
+  title: "Discrete Ricci Curvature Based Level Set Model"
+- email: "304f201b6192205f"
+  first_name: "Jisui"
+  id: 139951
+  last_name: "Huang"
+  title: "3D Manifold Topology Based Medical Image Data Augmentation"
+- email: "4f828b9b413200b6"
+  first_name: "Xiangming"
+  id: 139190
+  last_name: "Huang"
+  title: "Towards Optimization of Biological Systems Leveraging Pde Model Discovery"
+- email: "ee9c23e1df62dc37"
+  first_name: "Bill"
+  id: 139843
+  last_name: "Huang"
+  title: |-
+    Unsupervised Solution Operator Learning for Mean-Field Games Via Sampling-Invariant
+    Parametrizations
+- email: "9236117efc0e8e6"
+  first_name: "Yinan"
+  id: 139863
+  last_name: "Huang"
+  title: "On the Stability of Expressive Positional Encodings for Graphs"
+- email: "fb733ea6cf4bae05"
+  first_name: "Hiroki"
+  id: 139776
+  last_name: "Imura"
+  title: |-
+    Virtual X-Ray Diffraction Signals in Simulations of Dislocated Crystals:
+    a Data Generation Pipeline
+- email: "b93197baa1af913a"
+  first_name: "Pedro"
+  id: 139879
+  last_name: "Izquierdo Lehmann"
+  title: "Primal-Dual Hybrid Gradient for Degenerate Partially Smooth Problems"
+- email: "4732f4c17ad0cfe1"
+  first_name: "Konrad"
+  id: 140000
+  last_name: "Janik"
+  title: "Parametric SympNets"
+- email: "be44e33f8fe3f931"
+  first_name: "Tyler"
+  id: 140304
+  last_name: "Jarvis"
+  title: "Double Descent and Generalized Aliasing"
+- email: "38b0f1507a690513"
+  first_name: "Abhijith"
+  id: 140090
+  last_name: "Jayakumar"
+  title: |-
+    Learning While Stuck: Reconstructing Energy-Based Models from Metastable
+    States.
+- email: "b83a0e8a09c56299"
+  first_name: "Bruno"
+  id: 140524
+  last_name: "Jedynak"
+  title: |-
+    Learning Differential Equations from Data: Evaluating the Occupation Kernel
+    Algorithm Using the Common Task Framework of the Ai Institute for Dynamical Systems
+- email: "6efb4afb907ac61"
+  first_name: "Carlos"
+  id: 139997
+  last_name: "Jerez-Hanckes"
+  title: "Uncertainty Quantification in Electromagnetics Via Neural Networks"
+- email: "f6ac02b7e0d44ac1"
+  first_name: "Russell"
+  id: 139671
+  last_name: "Jeter"
+  title: "Stroke Rehabilitation with Machine Learning-Based Residual Severity Classification"
+- email: "686bb57e7e686bee"
+  first_name: "Sumit"
+  id: 140136
+  last_name: "Jha"
+  title: |-
+    Gradient-Based Methods for Explanations and Confidence Metrics in Distributed
+    Learning
+- email: "e91f01a70de1438c"
+  first_name: "Shreya"
+  id: 140238
+  last_name: "Jha"
+  title: "Higher Order Cumulant Truncation for Improved Moment Closure"
+- email: "d5ec1d7142f83678"
+  first_name: "Yao"
+  id: 140246
+  last_name: "Ji"
+  title: "Distributed Stochastic Optimization and Sparse Statistical Recovery"
+- email: "3e13a7004f98b9b1"
+  first_name: "Ruoxi"
+  id: 140219
+  last_name: "Jiang"
+  title: "Training Neural Operators to Preserve Invariant Measures of Chaotic Attractors"
+- email: "23a30dc4b8005cb2"
+  first_name: "Ning"
+  id: 140142
+  last_name: "Jiang"
+  title: "Neural Network Prediction of Covid-19 Daily Infection Count"
+- email: "71c9b41b23179147"
+  first_name: "Hanyang"
+  id: 139804
+  last_name: "Jiang"
+  title: "Conformal Prediction for Multi-Dimensional Time Series by Ellipsoidal Sets"
+- email: "b96996cbbf207ad"
+  first_name: "Yijie"
+  id: 139842
+  last_name: "Jin"
+  title: |-
+    Parametrized Wasserstein Gradient Flow with Application in Porous-Medium
+    Equation
+- email: "b96996cbbf207ad"
+  first_name: "Yijie"
+  id: 139867
+  last_name: "Jin"
+  title: "Parameterized Equations for Nongradient System on Wasserstein Manifold"
+- email: "99151c7554d9aee4"
+  first_name: "Benjamin"
+  id: 140068
+  last_name: "Jones"
+  title: "A Persistent Directed Flag Laplacian"
+- email: "e1a620adbe5b009e"
+  first_name: "Lili"
+  id: 139639
+  last_name: "Ju"
+  title: |-
+    A Deep Learning Method for the Dynamics of Classic and Conservative Allen-Cahn
+    Equations Based on Fully-Discrete Operators
+- email: "e0df963d17a33725"
+  first_name: "Dayal Singh"
+  id: 139972
+  last_name: "Kalra"
+  title: |-
+    Universal Sharpness Dynamics in Neural Network Training: Fixed Point Analysis,
+    Edge of Stability, and Route to Chaos
+- email: "1f59a7ffd94d451d"
+  first_name: "Kelvin"
+  id: 140047
+  last_name: "Kan"
+  title: "Multivariate Quantile Function Forecaster"
+- email: "d0643caeebff833e"
+  first_name: "Dayoung"
+  id: 139188
+  last_name: "Kang"
+  title: |-
+    Multifidelity Linear Regression for Scientific Machine Learning from Scarce
+    Data (Poster)
+- email: "4402898c5ad14208"
+  first_name: "Venkat Sai Suman Lamba"
+  id: 139666
+  last_name: "Karanam"
+  title: |-
+    Looking Beyond Geometric and Probability-Based Distances for Multiclass Classification
+    in Network Communication Systems
+- email: "54db87f3bb561063"
+  first_name: "Nicholas"
+  id: 140241
+  last_name: "Karris"
+  title: |-
+    Using Linearized Optimal Transport to Predict the Movement of Stochastic
+    Particle Systems
+- email: "d8d82b0467e76a3f"
+  first_name: "Eirini"
+  id: 139758
+  last_name: "Katsidoniotaki"
+  title: "Learning Models for Real-World Dynamical Systems from Multifidelity Data"
+- email: "869ed7912d4da64f"
+  first_name: "Joshua"
+  id: 139638
+  last_name: "Katz"
+  title: "Generic Orbit Recovery from Invariants of Very Low Degree."
+- email: "3fe61c1230110599"
+  first_name: "Hongyu"
+  id: 139767
+  last_name: "Ke"
+  title: "Mambev: Vision State Space Models for Bird’s-Eye-View Generation"
+- email: "b4a5e2f56bcf725"
+  first_name: "Conlain"
+  id: 140039
+  last_name: "Kelly"
+  title: "Hybrid Data-Driven Solvers for Statistical Continuum Mechanics"
+- email: "83350354279f686a"
+  first_name: "Yousaf"
+  id: 140250
+  last_name: "Khaliq"
+  title: "Quantum-Enhanced Neural Network for Efficient Financial Market Prediction"
+- email: "5ebef607c58fc523"
+  first_name: "Abraham"
+  id: 139682
+  last_name: "Khan"
+  title: "Parametric Kernel Low-Rank Approximations Using Tensor Train"
+- email: "44e4684ca3bd4fa9"
+  first_name: "Muhammad"
+  id: 139928
+  last_name: "Khan"
+  title: |-
+    Market Efficiency and Price Stability of Major Cryptocurrencies: A Comprehensive
+    Analysis of Recent Surge
+- email: "63586b8bcdadfa3c"
+  first_name: "Byron"
+  id: 140106
+  last_name: "Kilbourne"
+  title: "Behavior Based Entity Resolution for Big-Data Networks"
+- email: "40d8e8d715083a45"
+  first_name: "Hwanwoo"
+  id: 139848
+  last_name: "Kim"
+  title: |-
+    Bayesian Optimization with Noise-Free Observations: Improved Regret Bounds
+    Via Random Exploration
+- email: "117e01ae5c91c790"
+  first_name: "Dohyeon"
+  id: 140045
+  last_name: "Kim"
+  title: "Recent Developments in Consensus Based Optimization"
+- email: "dc0ce7ac7f4ecc0f"
+  first_name: "Matthew"
+  id: 140551
+  last_name: "Klawonn"
+  title: "Mining Sheaf Theoretic Narratives (Poster)"
+- email: "dce3562e21146a39"
+  first_name: "Dhruv"
+  id: 140116
+  last_name: "Kohli"
+  title: "Tear and Repulsion Enabled Registration of Point Clouds for Manifold Learning"
+- email: "d2c69693c5de5f7f"
+  first_name: "Tomoki"
+  id: 140521
+  last_name: "Koike"
+  title: |-
+    Data-Driven Estimation of Stability Guarantees for Nonlinear Dynamical Systems
+    (Poster)
+- email: "20fac77eb61a1b9f"
+  first_name: "Lingkai"
+  id: 140563
+  last_name: "Kong"
+  title: "Convergence of Kinetic Langevin Monte Carlo on Lie Groups"
+- email: "8fdb2a224e60017b"
+  first_name: "Josie"
+  id: 139754
+  last_name: "König"
+  title: "Efficient Training of Gaussian Processes with Tensor Product Structure"
+- email: "de1df972c03dce07"
+  first_name: "Yunbum"
+  id: 140167
+  last_name: "Kook"
+  title: "Uniform Sampling under Isoperimetric Assumptions"
+- email: "dc6791a876a7696d"
+  first_name: "Turgay"
+  id: 140215
+  last_name: "Korkmaz"
+  title: |-
+    Towards Autonomous Laboratories by Integrating IoT, Robotics, Computer Vision,
+    and Ai with Container Technology
+- email: "a4d43ffd147731be"
+  first_name: "Konstandinos"
+  id: 139010
+  last_name: "Kotsiopoulos"
+  title: |-
+    Approximation of Group Explainers with Coalition Structure Using Monte Carlo
+    Sampling
+- email: "cf0274df5020e530"
+  first_name: "Max"
+  id: 140148
+  last_name: "Kreider"
+  title: |-
+    An ML approach to inferring network connectivity for coupled stochastic oscillator
+    networks
+- email: "1722324ecf20332a"
+  first_name: "Shivam"
+  id: 140130
+  last_name: "Kumar"
+  title: |-
+    A Likelihood Based Approach to Distribution Regression Using Conditional
+    Deep Generative Models
+- email: "a59423fb936776cd"
+  first_name: "Chandra"
+  id: 139957
+  last_name: "Kundu"
+  title: "Learned Large-Scale Robust Matrix Completion Via Deep Unfolding"
+- email: "a17c769b26dacb96"
+  first_name: "Soo Min"
+  id: 140556
+  last_name: "Kwon"
+  title: |-
+    The Simplicity Biases in Deep Linear Networks: Flatness, Invariance, and
+    Edge of Stability
+- email: "864d911acd5e7877"
+  first_name: "Jasen"
+  id: 139893
+  last_name: "Lai"
+  title: "Data-Regularized Operator Learning for Inverse Problems"
+- email: "7a290aa54c53e365"
+  first_name: "Bishal"
+  id: 139950
+  last_name: "Lamichhane"
+  title: "Llm Agents in Social Network Dynamics: A Study on Information Flow"
+- email: "73a0edbeded0e1c1"
+  first_name: "Sandro"
+  id: 139801
+  last_name: "Lancellotti"
+  title: "Bayesian Optimization for Parameters Search in Radial Basis Function Interpolation"
+- email: "4de67371b33627ab"
+  first_name: "Quanjun"
+  id: 140269
+  last_name: "Lang"
+  title: "Data Adaptive RKHS Tikhonov Regularization for Learning Kernels in Operators"
+- email: "3eddef598a126aa8"
+  first_name: "Samuel"
+  id: 139925
+  last_name: "Lanthaler"
+  title: "Complexity Bounds for Operator Learning"
+- email: "e7d16246d8683cea"
+  first_name: "Mathieu"
+  id: 139118
+  last_name: "Le Provost"
+  title: "Sparsity-Promoting Ensemble Methods for Bayesian Inverse Problems"
+- email: "e7d16246d8683cea"
+  first_name: "Mathieu"
+  id: 140154
+  last_name: "Le Provost"
+  title: "Data Assimilation Beyond the Linear and Local Gaussian Setting"
+- email: "e7d16246d8683cea"
+  first_name: "Mathieu"
+  id: 140013
+  last_name: "Le Provost"
+  title: "Preserving Linear Invariants in Ensemble Filtering Methods"
+- email: "2d04e3e9471b5c7e"
+  first_name: "Sanghyun"
+  id: 139668
+  last_name: "Lee"
+  title: "On the Training of Deep Operator Networks"
+- email: "cc9f56387a163d53"
+  first_name: "Kangwook"
+  id: 139945
+  last_name: "Lee"
+  title: "The Expressive Power of Low-Rank Adaptation"
+- email: "6007ab64b3fb4a13"
+  first_name: "Wonjun"
+  id: 139873
+  last_name: "Lee"
+  title: "Monotone Generative Modeling Via a Geometry-Preserving Mapping (Poster)"
+- email: "75fc9548e5c226f"
+  first_name: "Jonghyeok"
+  id: 139902
+  last_name: "Lee"
+  title: "Flow-Based Distributionally Robust Optimization"
+- email: "c9bc18d7b6525e6c"
+  first_name: "Jeonghwan"
+  id: 140066
+  last_name: "Lee"
+  title: "Modeling Time-Varying Networks"
+- email: "70ffb24b0957916a"
+  first_name: "Richard"
+  id: 139756
+  last_name: "Lehoucq"
+  title: |-
+    Zero-Truncated Poisson Regression for Multiway Count Data Data Corrupted
+    by False Zeros
+- email: "70ffb24b0957916a"
+  first_name: "Richard"
+  id: 139605
+  last_name: "Lehoucq"
+  title: |-
+    Zero-Truncated Poisson Regression for Sparse Multiway Count Data Data Corrupted
+    by False Zeros
+- email: "5ac2da87e39c8bc5"
+  first_name: "Daniel"
+  id: 139702
+  last_name: "LeJeune"
+  title: "Asymptotically Free Sketching and Ridge Regression Applications"
+- email: "c4de7f80f36b094b"
+  first_name: "Eitan"
+  id: 139688
+  last_name: "Levin"
+  title: "Any-Dimensional Equivariant Neural Networks"
+- email: "8a0d22406bd0cb34"
+  first_name: "Matthew"
+  id: 140042
+  last_name: "Levine"
+  title: |-
+    A Jax Toolbox for Learning Stochastic Differential Equations with Uncertainties
+    from Real-World Data Streams
+- email: "684147700547ade0"
+  first_name: "Joshua"
+  id: 139789
+  last_name: "Lewis"
+  title: |-
+    Fractional Schrodinger Equation: Eigenfunctions with Physical Potentials,
+    and Fractionally-Enhanced Quantum Tunneling
+- email: "5094acea3b03356"
+  first_name: "Shiying"
+  id: 139600
+  last_name: "Li"
+  title: "Measure Transfer Via Stochastic Slicing and Matching"
+- email: "1d3e0d28e0dab65d"
+  first_name: "Tao"
+  id: 139683
+  last_name: "Li"
+  title: |-
+    Automated Security Response Through Conjectural Online Learning under Information
+    Asymmetry
+- email: "84845112cde93b23"
+  first_name: "Jiayi"
+  id: 139718
+  last_name: "Li"
+  title: "Geometry of Polynomial Neural Networks"
+- email: "c36b18f7e54cb259"
+  first_name: "Chunyan"
+  id: 139636
+  last_name: "Li"
+  title: |-
+    Energy Dissipation Rate-Based Sampling: An Adaptive Refinement Strategy
+    for Solving Thermodynamically Consistent Models Using Pinns
+- email: "9d5b19c8f622e278"
+  first_name: "Wei"
+  id: 140070
+  last_name: "Li"
+  title: "Deep Operator Learning for Modeling Li-Ion Batteries"
+- email: "213dc7ade027521"
+  first_name: "Yuchen"
+  id: 140145
+  last_name: "Li"
+  title: |-
+    Transformers Are Uninterpretable with Myopic Methods: a Case Study with
+    Bounded Dyck Grammars
+- email: "2a0cf79427173069"
+  first_name: "Xingjie Helen"
+  id: 140542
+  last_name: "Li"
+  title: "Robust and Efficient Differentiation for Regularized Optimal Transport"
+- email: "53d4b39992e18ca1"
+  first_name: "Chang"
+  id: 140168
+  last_name: "Li"
+  title: "Improved Curvature Gaps for Stochastic Block Model Graphs"
+- email: "1d6ba3553bb9f173"
+  first_name: "Sixu"
+  id: 139794
+  last_name: "Li"
+  title: |-
+    Bilevel-Fedcbo: Robust Clustered Federated Learning Through Bilevel Consensus-Based
+    Optimization
+- email: "ba30b112c8b6e57a"
+  first_name: "Xiang"
+  id: 140256
+  last_name: "Li"
+  title: "Decoupled Data Consistency with Diffusion Purification for Image Restoration"
+- email: "4a1608b60f0a5bfd"
+  first_name: "Jr-Shin"
+  id: 140095
+  last_name: "Li"
+  title: |-
+    Filtrated Reinforcement Learning for Infinite-Dimensional Systems Using Moment
+    Kernelization
+- email: "e6e0ccd048abc395"
+  first_name: "Yuchen"
+  id: 139562
+  last_name: "Li"
+  title: "Stochastic Block Majorization-Minimization Methods on Riemannian Manifolds"
+- email: "e6e0ccd048abc395"
+  first_name: "Yuchen"
+  id: 139594
+  last_name: "Li"
+  title: |-
+    Convergence and Complexity Guarantee for Inexact First-Order Riemannian Optimization
+    Algorithms
+- email: "43552a77254a6318"
+  first_name: "Yao"
+  id: 139898
+  last_name: "Li"
+  title: "Deep Neural Network Solver for Fokker-Planck Eigenfunctions"
+- email: "a4b5076456bc0cd7"
+  first_name: "Ying"
+  id: 139792
+  last_name: "Liang"
+  title: "Data-Assisted Algorithms for Inverse Random Source Problems"
+- email: "5977f30bd160082b"
+  first_name: "Siming"
+  id: 139733
+  last_name: "Liang"
+  title: |-
+    Ensemble Score Filter for Tracking Turbulent Atmosphere Dynamics - Generative
+    Ai in Data Assimilation
+- email: "51b59913f7a0adad"
+  first_name: "Wenjing"
+  id: 139865
+  last_name: "Liao"
+  title: "Exploiting Low-Dimensional Data Structures in Deep Learning"
+- email: "51b59913f7a0adad"
+  first_name: "Wenjing"
+  id: 139874
+  last_name: "Liao"
+  title: |-
+    A Manifold Two-Sample Test Study: Integral Probability Metric with Neural
+    Networks
+- email: "78228d74584a685f"
+  first_name: "Tongseok"
+  id: 139659
+  last_name: "Lim"
+  title: "Maximizing Marginal Variance in Martingales for Unsupervised Learning"
+- email: "7cf820f5710f8944"
+  first_name: "Hao"
+  id: 140266
+  last_name: "Lin"
+  title: "Major Or Minor"
+- email: "d632b288e0a73e1d"
+  first_name: "Julia"
+  id: 139719
+  last_name: "Lindberg"
+  title: "Real Circles Tangent to Three Conics."
+- email: "9b8ca9a716bdd1b5"
+  first_name: "Shu"
+  id: 140151
+  last_name: "Liu"
+  title: "Parametrized Wasserstein Hamiltonian Flow"
+- email: "c7558e5d0571e4ed"
+  first_name: "Jialin"
+  id: 139608
+  last_name: "Liu"
+  title: |-
+    Associated Poster: Towards Constituting Mathematical Structures for Learning
+    to Optimize
+- email: "38a38e5038680d9"
+  first_name: "Hao"
+  id: 139869
+  last_name: "Liu"
+  title: |-
+    Exploring Low-Dimensional Data Structures by Neural Networks with Application
+    on Operator Learning
+- email: "ee28048454fa06ee"
+  first_name: "Lizuo"
+  id: 139834
+  last_name: "Liu"
+  title: |-
+    DeepPropNet - A Recursive Deep Neural Network Propagator for Learning Evolutionary
+    Pde Operators
+- email: "9e0dc37f2f2918bd"
+  first_name: "Siting"
+  id: 140074
+  last_name: "Liu"
+  title: |-
+    Wasserstein Proximal Operators Describe Score-Based Generative Models and
+    Resolve Memorization
+- email: "45849ba2cf689db8"
+  first_name: "Yanfang"
+  id: 140011
+  last_name: "Liu"
+  title: "Supervised Learning of Flow Map for Modeling Stochastic Dynamical Systems"
+- email: "4daf1abd97d58e40"
+  first_name: "Shikun"
+  id: 139681
+  last_name: "Liu"
+  title: "Pairwise Alignment Improves Graph Domain Adaptation"
+- email: "36258ba132116cf0"
+  first_name: "Zhexuan"
+  id: 140557
+  last_name: "Liu"
+  title: |-
+    Assessing and Improving Accountability of Stochastic Neighbor Embedding
+    Methods: A Map-Continuity Perspective
+- email: "426075aeb7733c6c"
+  first_name: "Yicheng"
+  id: 139903
+  last_name: "Liu"
+  title: "Deep Neural Network Solver for the Wkb Approach to the Fokker-Planck Equation"
+- email: "c9d71bc10c7fcf0d"
+  first_name: "Yuxuan"
+  id: 139618
+  last_name: "Liu"
+  title: |-
+    PROSE: Predicting Multiple Operators and Symbolic Expressions Using Multimodal
+    Transformers
+- email: "7ac216dbcbb2122b"
+  first_name: "Chaoyue"
+  id: 139782
+  last_name: "Liu"
+  title: |-
+    Non-Linear Activation Soothes Ntk Conditioning for Wide Neural Networks:
+    a Study in the Relu Case
+- email: "7627a2957b8a59a"
+  first_name: "Carlos"
+  id: 139581
+  last_name: "Llosa"
+  title: |-
+    On a Latent-Variable Formulation of the Poisson Canonical Polyadic Tensor
+    Model
+- email: "500cb47a3d90aeaa"
+  first_name: "Tiffany"
+  id: 140271
+  last_name: "Lodge"
+  title: |-
+    Interpretable Inference of Drift and Control Vector Fields of Stochastic
+    Dynamical Systems
+- email: "588c637d55880bed"
+  first_name: "Jackie"
+  id: 139585
+  last_name: "Lok"
+  title: |-
+    A Subspace Constrained Randomized Kaczmarz Method for Structure or External
+    Knowledge Exploitation
+- email: "984fda7fb8780462"
+  first_name: "Oscar"
+  id: 139623
+  last_name: "Lopez"
+  title: "The Average Spectrum Norm for Tensor Completion Analysis"
+- email: "18d0e4905ed37d6c"
+  first_name: "Daniel"
+  id: 140302
+  last_name: "Lopez-Castaño"
+  title: "Wasserstein Factor Analysis"
+- email: "9d1d96053d4eeec"
+  first_name: "Mengqi"
+  id: 139881
+  last_name: "Lou"
+  title: |-
+    Hyperparameter tuning via trajectory predictions: Stochastic prox-linear
+    methods in matrix sensing
+- email: "f8fdb8d0731f9275"
+  first_name: "Xiaoyi"
+  id: 140229
+  last_name: "Lu"
+  title: "Accelerating Radiation Calculations for Fire Safety Applications Using DeepONet"
+- email: "3c297c5153661e5a"
+  first_name: "Lu"
+  id: 139748
+  last_name: "Lu"
+  title: "One-Shot Learning for Solution Operators of Partial Differential Equations"
+- email: "3c297c5153661e5a"
+  first_name: "Lu"
+  id: 139748
+  last_name: "Lu"
+  title: "One-Shot Learning for Solution Operators of Partial Differential Equations"
+- email: "5fe7277af08cd930"
+  first_name: "Zhixin"
+  id: 139924
+  last_name: "Lun"
+  title: |-
+    A General Approach for Imputation of Non-Normal Continuous Data Based on
+    Copula Transformation
+- email: "bb70349b357a8c37"
+  first_name: "Alan"
+  id: 139880
+  last_name: "Luner"
+  title: "On Averaging and Extrapolation for Gradient Descent"
+- email: "d3cc872b5ff89c2"
+  first_name: "Dingcheng"
+  id: 140187
+  last_name: "Luo"
+  title: "Dimension Reduction for Derivative Informed Operator Learning"
+- email: "45806e9eebf16b53"
+  first_name: "Xiaohang"
+  id: 139920
+  last_name: "Ma"
+  title: "Deep Optimal Control Approach to Path Estimation of Nonlinear Filtering"
+- email: "922173577079fbb9"
+  first_name: "Anna"
+  id: 139653
+  last_name: "Ma"
+  title: "Iterative Approaches for Tensor Linear Systems"
+- email: "1bec6afe636a0adf"
+  first_name: "Gregory"
+  id: 140260
+  last_name: "Macchio"
+  title: "Neural Networks for Nonlinear Dynamics: The Importance of Initial Transients"
+- email: "cd72bf02135822b6"
+  first_name: "Madhusudan"
+  id: 140097
+  last_name: "Madhavan"
+  title: |-
+    Optimal Experimental Design for Control Problems Governed by Pde-Constrained
+    Bayesian Inverse Problems
+- email: "d757ab7422656e10"
+  first_name: "Malvern"
+  id: 140114
+  last_name: "Madondo"
+  title: "Amortized Control of Pathological Neuronal Dynamics under Parametric Variations"
+- email: "d7bfff76d413d8ab"
+  first_name: "Aditya"
+  id: 139990
+  last_name: "Maheshwari"
+  title: "Prediction of Natural Disaster Data Using Fractional Count Processes"
+- email: "d4a1425f1754ea25"
+  first_name: "Juan Francisco"
+  id: 139645
+  last_name: "Mandujano Reyes"
+  title: |-
+    Spatiotemporal Causal Inference with Mechanistic Ecological Models: Evaluating
+    Targeted Culling on Chronic Wasting Disease Dynamics in Cervids
+- email: "2028b1b33c1cc818"
+  first_name: "Nico"
+  id: 139913
+  last_name: "Manzonelli"
+  title: "Membership Inference Attacks and Privacy in Topic Modeling"
+- email: "f877dd0256dbea5f"
+  first_name: "Haitao"
+  id: 139669
+  last_name: "Mao"
+  title: "Principle-Guided Graph Foundation Model Design"
+- email: "c7524ff460865f8e"
+  first_name: "Michela"
+  id: 140538
+  last_name: "Marini"
+  title: |-
+    Predictive Analysis of Opioid-Addiction Behavior Using Morphological Analysis
+    of Astrocytes
+- email: "41b5002670f54009"
+  first_name: "Luca"
+  id: 140321
+  last_name: "Masserano"
+  title: "Trustworthy Scientific Inference from Generative Models"
+- email: "c5aa4e900eaef8ff"
+  first_name: "Praveeni"
+  id: 140018
+  last_name: "Mathangadeera"
+  title: |-
+    Sensitivity and Ml Analysis of a Response of Permafrost Soil to Surface Temperature
+    Variations in Variable Topography.
+- email: "e3b723390366645b"
+  first_name: "Francesca"
+  id: 140402
+  last_name: "Mcfadden"
+  title: "Machine Learning Competency Measures"
+- email: "542b4a322e951b29"
+  first_name: "Karen"
+  id: 140008
+  last_name: "Medlin"
+  title: "Classifying Imbalanced Data"
+- email: "d7e5804cee6d6df0"
+  first_name: "Ivan"
+  id: 139841
+  last_name: "Medri"
+  title: |-
+    Direct Methods for Classification of Time Signals with Separation Guarantees
+    Using Linear Optimal Transport Embeddings
+- email: "9e81f48f6435cc5c"
+  first_name: "Max"
+  id: 139959
+  last_name: "Melnichenko"
+  title: |-
+    Novel Randomized Algorithms for Low and Full-Rank Factorizations and Their
+    Implementations in Randlapack
+- email: "b491bf4de42c2782"
+  first_name: "Renier"
+  id: 139991
+  last_name: "Mendoza"
+  title: |-
+    A Hybrid of Half-Quadratic Minimization Algorithm and Method of K-means for
+    Edge Detection of Texts
+- email: "a3e5d585263c0b15"
+  first_name: "Tingwei"
+  id: 139970
+  last_name: "Meng"
+  title: |-
+    Solving Optimal Execution Problems in Financial Mathematics Via in-Context
+    Operator Networks
+- email: "a3e5d585263c0b15"
+  first_name: "Tingwei"
+  id: 139969
+  last_name: "Meng"
+  title: |-
+    HJ-Sampler: a Bayesian Sampler for Inverse Problems of a Stochastic Process
+    by Leveraging Hamilton-Jacobi PDEs and Score-Based Generative Models
+- email: "4f4dd471d8e50a48"
+  first_name: "Raphael"
+  id: 140037
+  last_name: "Meyer"
+  title: "The Girard-Hutchinson Estimator Is Bad at Kronecker Trace Estimation"
+- email: "7a2115fab87c94f3"
+  first_name: "Kevin"
+  id: 140522
+  last_name: "Miller"
+  title: "Dirichlet Active Learning: Exploration and Exploitation Guarantees"
+- email: "fc25e1838186e882"
+  first_name: "Siddharth"
+  id: 140299
+  last_name: "Mitra"
+  title: "On Independent Samples Along the Langevin Diffusion and Algorithm"
+- email: "94d069647836cbd6"
+  first_name: "Md Amran Hossan"
+  id: 139877
+  last_name: "Mojamder"
+  title: "Machine Learning Parametrization of Sub-Grid Fluxes in 1D Shallow Water Equations"
+- email: "ab05619b9d78870d"
+  first_name: "Carlos"
+  id: 139764
+  last_name: "Mora"
+  title: "A Gaussian Process Approach for Operator Approximation Via Physics and Data"
+- email: "ba44aa8c3accfd57"
+  first_name: "Rachel"
+  id: 140297
+  last_name: "Morris"
+  title: "Performance Guarantees for Probabilistic Adversarial Learning"
+- email: "ba47190b63f4d7b4"
+  first_name: "Jeremy"
+  id: 140197
+  last_name: "Myers"
+  title: "An Online, Sampling-Based Convergence Criterion for Symmetric Matrices"
+- email: "21662b1d420b9a03"
+  first_name: "Protik"
+  id: 140178
+  last_name: "Nag"
+  title: |-
+    Expressive and Flexible Simulation of Information Spread Strategies in Social
+    Networks Using Planning
+- email: "8d0e224efacc4f47"
+  first_name: "Madeline"
+  id: 139816
+  last_name: "Navarro"
+  title: "Graphmad: Graph Mixup for Data Augmentation Using Data-Driven Convex Clustering"
+- email: "55506f421a19f949"
+  first_name: "Elisa"
+  id: 139722
+  last_name: "Negrini"
+  title: "Applications of No-Collision Transportation Maps in Manifold Learning"
+- email: "a15953b11b895813"
+  first_name: "Rachel"
+  id: 139838
+  last_name: "Newton"
+  title: "Manifold Optimization for Data Driven Reduced-Order Modeling"
+- email: "9e8cd255273c62ed"
+  first_name: "Hai"
+  id: 139890
+  last_name: "Nguyen"
+  title: "Model-Constrained AutoEncoder Approach for Solving Forward and Inverse Problems"
+- email: "b6fc4d8a838c14bb"
+  first_name: "Duc Toan"
+  id: 139664
+  last_name: "Nguyen"
+  title: "Towards Tuning-Free Minimum-Volume Nonnegative Matrix Factorization"
+- email: "3b11f55bed1a662f"
+  first_name: "Hoang"
+  id: 140101
+  last_name: "Nguyen"
+  title: |-
+    Wasserstein Convergence Guarantees for a General Class of Score-Based Generative
+    Models
+- email: "95fd9e2a987f7c29"
+  first_name: "Ukamaka"
+  id: 140245
+  last_name: "Nnyaba"
+  title: "An Optimal Multivariate Functional Classifier"
+- email: "dca800df226975b1"
+  first_name: "William"
+  id: 140098
+  last_name: "Nockolds"
+  title: |-
+    Machine Learning for Explicitly Solving Stiff, Parameterized Ordinary Differential
+    Equations
+- email: "a943c357e1e557bc"
+  first_name: "Levon"
+  id: 139914
+  last_name: "Nurbekyan"
+  title: "No-Collision Transportation Maps"
+- email: "a943c357e1e557bc"
+  first_name: "Levon"
+  id: 140046
+  last_name: "Nurbekyan"
+  title: "Regularity and Gradients of Optimal Transportation Based Loss Functions"
+- email: "f8529aac0bd49600"
+  first_name: "Riley"
+  id: 140025
+  last_name: "O’Neill"
+  title: "Learnable Weighting For Dijkstra’s Algorithm Via Graph Neural Networks for Gps Trajectory Registration"
+- email: "8dc66e44890f2de7"
+  first_name: "Assad"
+  id: 139935
+  last_name: "Oberai"
+  title: "Conditional Generative Models in Data Assimilation"
+- email: "de58d8347da859eb"
+  first_name: "Alonso"
+  id: 139829
+  last_name: "Ogueda"
+  title: "Applications of Disease Informed Neural Networks That Includes Human Behavior"
+- email: "ebc833a65b9625a6"
+  first_name: "Toluwani"
+  id: 139117
+  last_name: "Okunola"
+  title: |-
+    Dynamic Inverse Problems: Efficient Methods for Dynamic Image Reconstruction
+    with Motion Estimation
+- email: "bcf1b3025c5f9dbd"
+  first_name: "Gregory"
+  id: 140150
+  last_name: "Ongie"
+  title: |-
+    Performance Guarantees for Solving Linear Inverse Problems with Implicit
+    Neural Representations
+- email: "8fbaf2e090336558"
+  first_name: "Negar"
+  id: 140200
+  last_name: "Orangi-Fard"
+  title: "Real Time Dyspnea Assessment"
+- email: "61fe8929dd409130"
+  first_name: "Elena"
+  id: 139637
+  last_name: "Orlova"
+  title: "Deep Stochastic Mechanics"
+- email: "81aa59a72e6601f4"
+  first_name: "Rafael"
+  id: 140315
+  last_name: "Orozco"
+  title: |-
+    Unsupervised Simulation Based Inference for Amortized Bayesian Inverse Problems
+    Without Prior Samples
+- email: "22000e2b965a05d2"
+  first_name: "Kayode"
+  id: 139153
+  last_name: "Oshinubi"
+  title: |-
+    Enhancing Covid-19 Endemic/Epidemic Forecasting Precision Through the Integration
+    of Deterministic Model, Machine Learning, Daily Data, and Cycle Threshold Values
+- email: "44522e6f9bf4b5a3"
+  first_name: "Weigutian"
+  id: 139656
+  last_name: "Ou"
+  title: "Covering Numbers of Relu Networks"
+- email: "84a263af28194baf"
+  first_name: "Ziyad"
+  id: 140549
+  last_name: "Ouljah"
+  title: "Differentiable Mapper for Topological Data Representation"
+- email: "2455efddce4ed6ae"
+  first_name: "Yunian"
+  id: 140105
+  last_name: "Pan"
+  title: "On the Variational Interpretation of Mirror Play in Monotone Games"
+- email: "3d0e0468e7eaea45"
+  first_name: "Yang"
+  id: 139644
+  last_name: "Pan"
+  title: |-
+    Metric Entropy Limits on Recurrent Neural Network Learning for Lipschitz
+    Fading Memory Systems
+- email: "d690177754149e7a"
+  first_name: "Biraj"
+  id: 140544
+  last_name: "Pandey"
+  title: "Approximation Rates for Minimum Integral Probability Metric Generative Models"
+- email: "216d96753af9e01"
+  first_name: "Hyoung Suk"
+  id: 139790
+  last_name: "Park"
+  title: |-
+    A Novel Implicit Neural Representation-Based Metal Artifact Reduction in
+    Dental CBCT
+- email: "8589d2bfc2773d45"
+  first_name: "Jeongjin"
+  id: 140201
+  last_name: "Park"
+  title: "Learning Statistically Accurate Chaotic Models with Neural ODEs"
+- email: "a03278f90d416eba"
+  first_name: "Suzanna"
+  id: 140265
+  last_name: "Parkinson"
+  title: |-
+    Effect of Linear Layers in ReLu Networks: Learning Single-/Multiple-Index
+    Models
+- email: "ba261cc6eb8c3d06"
+  first_name: "Ravi"
+  id: 140555
+  last_name: "Patel"
+  title: "A Novel Ensemble Approach to Uncertainty Quantification in Graph Neural Operators"
+- email: "7efdde5388be69d6"
+  first_name: "Pratik"
+  id: 140319
+  last_name: "Patil"
+  title: "Optimal Ridge Regularization for Out-of-Distribution Prediction"
+- email: "67323b39ec73bfa8"
+  first_name: "Evan"
+  id: 140560
+  last_name: "Patterson"
+  title: "The Synthetic Theory of Probability and Statistics"
+- email: "2359672ef6e98dcb"
+  first_name: "Sounak"
+  id: 140559
+  last_name: "Paul"
+  title: "Learning Cryo-Em Structures Via the Method of Moments (Poster)"
+- email: "3843271a0f3a8b18"
+  first_name: "Allen"
+  id: 139708
+  last_name: "Paul"
+  title: "Sparse Nystrom Approximation of Currents, Varifolds and Normal Cycles"
+- email: "7b2f63daf98ac3fb"
+  first_name: "Pedro"
+  id: 140061
+  last_name: "Pessoa"
+  title: |-
+    Normalizing Flows for Simulation-Based Inference of Non-Markovian and Multiscale
+    Stochastic Processes
+- email: "1cad251a0c2fa618"
+  first_name: "Adam"
+  id: 139027
+  last_name: "Pickarski"
+  title: "Continuum Limits for Dimension Reduction"
+- email: "324444fc7ef18e11"
+  first_name: "Matt"
+  id: 140550
+  last_name: "Piekenbrock"
+  title: "Spectral Families of Persistent Rank Invariants"
+- email: "c52168edc03c187"
+  first_name: "Luka"
+  id: 140159
+  last_name: "Pocivavsek"
+  title: "Evolution of Aortic Geometry Modeled with Morphoelastic Growth"
+- email: "aed6a47121cec12b"
+  first_name: "William"
+  id: 139561
+  last_name: "Powell"
+  title: "Stochastic Optimization with Arbitrary Recurrent Data Sampling"
+- email: "8dca51bddd4b829b"
+  first_name: "Nathaniel"
+  id: 139652
+  last_name: "Pritchard"
+  title: "Scalable sketching through shared preconditioning"
+- email: "9f4c236b727905ce"
+  first_name: "Adrienne"
+  id: 139781
+  last_name: "Propp"
+  title: "Learning Dirichlet-to-Neumann Maps for Graphs with Gaussian Processes"
+- email: "4987b506150ff604"
+  first_name: "Joseph"
+  id: 140156
+  last_name: "Pugar"
+  title: "Thoracic Aortic Geometry in Scale Space for Enhanced Clinical Decision-Making"
+- email: "7a95810490300f4e"
+  first_name: "Mohammed"
+  id: 139634
+  last_name: "Qaraad"
+  title: |-
+    A Variant Equilibrium Optimizer Approach for Dimensionality Reduction in
+    Cancer Microarray Data
+- email: "b9c408ef27af81df"
+  first_name: "Di"
+  id: 140307
+  last_name: "Qi"
+  title: "A Statistical-Stochastic Reduced-Order Model for Multiscale Turbulent Systems"
+- email: "23ab6f0908539d65"
+  first_name: "Elizabeth"
+  id: 139725
+  last_name: "Qian"
+  title: "The Fundamental Subspaces of Ensemble Kalman Inversion"
+- email: "4b0779010b5b1e6c"
+  first_name: "Haoyang"
+  id: 139886
+  last_name: "Qian"
+  title: |-
+    Explosive Polarization-Depolarization in Opinion Dynamics with Nonlinear
+    Incidence
+- email: "d1cb1f9c773bf0ca"
+  first_name: "Yuan"
+  id: 139687
+  last_name: "Qiu"
+  title: "Derivative-enhanced Deep Operator Network"
+- email: "2cedb34ed62c1bd2"
+  first_name: "Adityanarayanan"
+  id: 140199
+  last_name: "Radhakrishnan"
+  title: |-
+    Mechanism for Feature Learning in Neural Networks and Backpropagation-Free
+    Machine Learning Models
+- email: "aff80a1be391414b"
+  first_name: "Krishnan"
+  id: 140182
+  last_name: "Raghavan"
+  title: "The Effect of Uncertainty on Machine Learning Through Optimal Control"
+- email: "8847f2c25caf80cf"
+  first_name: "Sunny"
+  id: 140218
+  last_name: "Raj"
+  title: |-
+    Low-Cost Robotic Arms and Large Language Models for Autonomous Scientific
+    Laboratories
+- email: "cdc1c924ae184524"
+  first_name: "Sreenivasan"
+  id: 140228
+  last_name: "Ramasamy Ramamurthy"
+  title: "Mitigating Hallucinations in Large Language Models Using Meta-Cognition"
+- email: "7086899800ed7f72"
+  first_name: "Nikhil"
+  id: 140208
+  last_name: "Ramesh"
+  title: "Learning Effective Memory Kernels For Coarse-Grained Simulations"
+- email: "7149b09caa64f860"
+  first_name: "Deep"
+  id: 139765
+  last_name: "Ray"
+  title: "Physics-Driven Conditional GAN to Solve Inverse Problems"
+- email: "19e43b52fb735f84"
+  first_name: "Yinuo"
+  id: 140094
+  last_name: "Ren"
+  title: "Confronting Singularities in Diffusion-Based Generative Modelling"
+- email: "dd5482170e8067dd"
+  first_name: "Evan"
+  id: 140263
+  last_name: "Rheaume"
+  title: "Using Phase Space Perturbations for Defibrillation in Cardiac Tissue"
+- email: "767e207ce61a1eba"
+  first_name: "Erwin"
+  id: 139803
+  last_name: "Riegler"
+  title: "Generating Singular Distributions Through Neural Networks"
+- email: "e98310c494febaaf"
+  first_name: "Andrej"
+  id: 140247
+  last_name: "Risteski"
+  title: "How Do Transformers Learn Topic Structure: Towards a Mechanistic Understanding"
+- email: "74e420945df95aad"
+  first_name: "Graham"
+  id: 140166
+  last_name: "Roberts"
+  title: "Implicit Symbolic Regression for Data-Driven Discovery of Conservation Laws"
+- email: "6b07d1a46aec995d"
+  first_name: "Sawyer"
+  id: 140073
+  last_name: "Robertson"
+  title: |-
+    All You Need Is Resistance: On the Equivalence of Effective Resistance and
+    Certain Optimal Transport Problems on Graphs
+- email: "d8108f454c0d7f02"
+  first_name: "Jose"
+  id: 139729
+  last_name: "Rodriguez"
+  title: |-
+    Applications of singularity theory in applied algebraic geometry and algebraic
+    statistics
+- email: "525763ab60ac0853"
+  first_name: "Joel"
+  id: 140093
+  last_name: "Rosenfeld"
+  title: "Operator Approximations for Inverse Problems"
+- email: "9a2219989ec059cc"
+  first_name: "Haley"
+  id: 139627
+  last_name: "Rosso"
+  title: |-
+    Comparison of Weight-Parameterization Methods in Neural ODEs for Surrogate
+    Modeling
+- email: "f1049f9f31787695"
+  first_name: "Luana"
+  id: 139943
+  last_name: "Ruiz"
+  title: "A Spectral Analysis of Graph Neural Networks on Dense and Sparse Graphs"
+- email: "3888f93f0a2b0bf4"
+  first_name: "Lars"
+  id: 139625
+  last_name: "Ruthotto"
+  title: "Neural ODE/SDE Training in Mixed and Low-Precision"
+- email: "84f738eff9c58559"
+  first_name: "Mehrshad"
+  id: 139894
+  last_name: "Sadria"
+  title: |-
+    FateNet: An Integration of Dynamical Systems and Deep Learning for Cell
+    Fate Prediction
+- email: "a58af350bc3f9c40"
+  first_name: "Yogesh"
+  id: 140001
+  last_name: "Sapkota"
+  title: |-
+    A Network Science Approach to Understanding Ev Charging Accessibility in
+    the Texas Triangle
+- email: "4b4ce9d8024748c7"
+  first_name: "Vijayalakshmi"
+  id: 139904
+  last_name: "Saravanan"
+  title: "AI-Driven Dimensionality Reduction for Scientific Computing with HPC"
+- email: "3328b232f9b0c710"
+  first_name: "Fabian"
+  id: 139929
+  last_name: "Schneider"
+  title: "Efficient Posterior Sampling with Score Diffusions in Bayesian Inverse Problems"
+- email: "b4a7b60218258054"
+  first_name: "Nikolas"
+  id: 139836
+  last_name: "Schonsheck"
+  title: "Hebbian Learning of Cyclic Features of Neural Code"
+- email: "ab95ce1502db2ff9"
+  first_name: "Steffen"
+  id: 139849
+  last_name: "Schotthoefer"
+  title: "Distributed Machine Learning Strategies Using Dynamical Low-Rank Approximation"
+- email: "84c783ecd868ef94"
+  first_name: "Paul"
+  id: 140191
+  last_name: "Schwerdtner"
+  title: |-
+    Greedy Construction of Quadratic Manifolds for Nonlinear Dimensionality Reduction
+    and Nonlinear Model Reduction
+- email: "fe13ec4432bb1d5f"
+  first_name: "Mitchell"
+  id: 140158
+  last_name: "Scott"
+  title: "Acceleration Methods for Scientific and Data Science Applications"
+- email: "7315af958a127876"
+  first_name: "Cristina"
+  id: 140017
+  last_name: "Sgattoni"
+  title: |-
+    An Innovative and Rapid Physics-Informed Data-Driven Method for Atmospheric
+    Radiative Transfer Inversion
+- email: "939790b4272681cd"
+  first_name: "Wen"
+  id: 140276
+  last_name: "Sh"
+  title: |-
+    An Automated Method for Spike Ripples Localization in Human Intracranial
+    Recordings
+- email: "df9c8c40cfba57e1"
+  first_name: "Ehsan"
+  id: 140403
+  last_name: "Shams"
+  title: |-
+    Navigating the Exploitation-Exploration Challenge in Genetic Algorithms:
+    A Novel Human-Centered Approach
+- email: "806a85efee10a987"
+  first_name: "Marrium"
+  id: 140079
+  last_name: "Shamshad"
+  title: |-
+    A Functional Network Criterion for Identifying Seizure Onset Zones from Ieeg
+    Recordings
+- email: "1cead9d158d5189b"
+  first_name: "Tanvi"
+  id: 139641
+  last_name: "Sharma"
+  title: |-
+    Exploring Covid-Related Relationship Extraction: Contrasting Data Sources
+    and Analyzing Misinformation
+- email: "c5ac584a56694a1c"
+  first_name: "Nir"
+  id: 139737
+  last_name: "Sharon"
+  title: "Refining Particle Picking in Cryo-Em"
+- email: "e56baa9811370a98"
+  first_name: "Sage"
+  id: 140430
+  last_name: "Shaw"
+  title: "Radial Basis Function Methods for Neural Field Models"
+- email: "c0807eab40fbf5c9"
+  first_name: "Dixin"
+  id: 139624
+  last_name: "Shen"
+  title: |-
+    A Regularized Cox Hierarchical Model for Incorporating Annotation Information
+    in Predictive Omic Studies
+- email: "78507f1733b9d57d"
+  first_name: "Joseph"
+  id: 140157
+  last_name: "Shenouda"
+  title: |-
+    Variation Spaces for Multi-Output Neural Networks: Insights on Multi-Task
+    Learning and DNN Compression
+- email: "3da7392950277218"
+  first_name: "Ji"
+  id: 139883
+  last_name: "Shi"
+  title: "Efficient Clustering on Riemannian Manifolds Using Fr\\'echet Embeddings"
+- email: "60a4cfae504236bc"
+  first_name: "Yichuan"
+  id: 140010
+  last_name: "Shi"
+  title: |-
+    Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under
+    Federated Learning
+- email: "7301c7b58232362a"
+  first_name: "Yunpeng"
+  id: 140202
+  last_name: "Shi"
+  title: "Fast Alignment of Images in Sliced 2-Wasserstein Distance"
+- email: "9aa29ef8afe1dd27"
+  first_name: "Yeonjong"
+  id: 139576
+  last_name: "Shin"
+  title: "Tlasdi: Thermodynamics-Informed Latent Space Dynamics Identification"
+- email: "dc9a110ab68881ef"
+  first_name: "Boris"
+  id: 139087
+  last_name: "Shustin"
+  title: "Structure Regularization for X-Ray Spectroscopy"
+- email: "dc6a6ccb76565752"
+  first_name: "Sofiia"
+  id: 140220
+  last_name: "Shvaiko"
+  title: "Noise-Tolerant Randomized Kaczmarz Variant"
+- email: "ea9554791a585d11"
+  first_name: "Phillip"
+  id: 140038
+  last_name: "Si"
+  title: "Scalable Data Assimilation in Latent Space Using Variational Autoencoder"
+- email: "a838817474cda341"
+  first_name: "Gagandeep Kaur"
+  id: 137793
+  last_name: "Sidhu"
+  title: |-
+    A Chaotic Niching Sparrow Search Algorithm for Solving Clustering Optimization
+    Problems
+- email: "81fe4b44932a39d"
+  first_name: "Kevin"
+  id: 139142
+  last_name: "Silva Perez"
+  title: "Difussion over Ramified Domains: Solvability and Fine Regularity"
+- email: "ff39f427a5775b15"
+  first_name: "Gideon"
+  id: 140143
+  last_name: "Simpson"
+  title: "Optimal Allocation in Splitting Methods for Variance Reduction"
+- email: "2dbe9fcb33de8a1f"
+  first_name: "Berfin"
+  id: 140088
+  last_name: "Simsek"
+  title: "Learning Associative Memories with Gradient Descent"
+- email: "9e7f808d58e76464"
+  first_name: "Carlos"
+  id: 140092
+  last_name: "Sing Long"
+  title: |-
+    Characterizing Reducibility by Solving High-Dimensional Partial Differential
+    Equations with Neural Networks
+- email: "dfa5dc6e6a45820b"
+  first_name: "Abhijeet"
+  id: 140401
+  last_name: "Singh"
+  title: |-
+    Use of Data Science in the Field of Energy and Seismic Data Evaluation (Smoothing
+    of Data and Automated Fault Detection Using Ml)
+- email: "bfbcc7ef3b39b256"
+  first_name: "Aniket"
+  id: 139614
+  last_name: "Singh"
+  title: "The Nuances of Large-Language-Model-Agent Performance in Simple English Auction"
+- email: "840013f8b8cbea05"
+  first_name: "Himanshu"
+  id: 139655
+  last_name: "Singh"
+  title: |-
+    Data-Driven Modelling with Limited Data Via Laplacian Kernelized Dynamic
+    Mode Decomposition and Gaussian Random Vectors
+- email: "2dfceafdc6db3a27"
+  first_name: "Subham"
+  id: 139769
+  last_name: "Singh"
+  title: |-
+    Understanding the Influence of Genre-Specific Music Using Network Analysis
+    and Machine Learning Algorithms
+- email: "a956f1fd597b7c19"
+  first_name: "Rahul"
+  id: 140034
+  last_name: "Singh"
+  title: "Slepians on Directed Signed Graphs"
+- email: "865ca0b88d25bb03"
+  first_name: "Kevin"
+  id: 139663
+  last_name: "Slote"
+  title: |-
+    The Twitter Effect: How Anti-Regulation Organizations Drive Firearm Acquisitions
+    in the United States
+- email: "91b750ce38c60db8"
+  first_name: "Chandler"
+  id: 140043
+  last_name: "Smith"
+  title: "A Riemannian Distance Geometry Algorithm with Adaptive Sampling"
+- email: "ce082cc43ab85dbe"
+  first_name: "Jack"
+  id: 139766
+  last_name: "Solomon"
+  title: "Sparsity Promoting Eeg Source Localization with Time and Spatial Regularization"
+- email: "9d35a6c5753333ba"
+  first_name: "Rishi"
+  id: 140102
+  last_name: "Sonthalia"
+  title: |-
+    Under-Parameterized Double Descent for Ridge Regularized Least Squares Denoising
+    of Data on a Line
+- email: "38dec470c663d009"
+  first_name: "Antonio"
+  id: 139994
+  last_name: "Squicciarini"
+  title: |-
+    Entropic Information Functionals Combined with Neural Networks Explainability
+    to Detect Events in Signals
+- email: "72db61a7e1c2944a"
+  first_name: "Ram Dyuthi"
+  id: 140076
+  last_name: "Sristi"
+  title: "Contextual Feature Selection with Conditional Stochastic Gates"
+- email: "94bff02640599cc0"
+  first_name: "Andrew"
+  id: 139806
+  last_name: "Starnes"
+  title: "Distributional Smoothing for Machine Learning"
+- email: "a44e78c40f67bb90"
+  first_name: "George"
+  id: 140192
+  last_name: "Stepaniants"
+  title: "Discovering Nonlinear Oscillatory and Chaotic Systems from Partial Observations"
+- email: "1c4d8d4f14ecf4b4"
+  first_name: "Dominik"
+  id: 139921
+  last_name: "Stöger"
+  title: |-
+    Breaking the Quadratic Rank-Bottleneck in Non-Convex Matrix Sensing: Recovery
+    Guarantees with Optimal Sample Complexity
+- email: "d878c8c60efb3144"
+  first_name: "Branden"
+  id: 140283
+  last_name: "Stone"
+  title: "Binary Malware Attribution Using Llm Embeddings and Topological Descriptors"
+- email: "c788db5c322b497c"
+  first_name: "Emanuel"
+  id: 140140
+  last_name: "Ström"
+  title: "Phase Recovery with Moment Constraints for Multireference Alignment"
+- email: "a38b4346ff3a3398"
+  first_name: "Bernardo"
+  id: 139012
+  last_name: "Subercaseaux"
+  title: |-
+    The Easiest Case Is Already Hard: the Complexity of Understanding Decision
+    Trees As Ml Models
+- email: "6b29de2d334ff42a"
+  first_name: "Jingmin"
+  id: 139746
+  last_name: "Sun"
+  title: |-
+    A Foundation Model for Partial Differential Equations: Multi-Operator Generalization
+    and Extrapolation
+- email: "d47b005679287119"
+  first_name: "Bonan"
+  id: 139622
+  last_name: "Sun"
+  title: "Approximation to Multivariate Functions in the Extended Tensor Train Format"
+- email: "3b6d8b36aa387862"
+  first_name: "Zeyu"
+  id: 139701
+  last_name: "Sun"
+  title: "Minimum-Risk Recalibration of Classifiers"
+- email: "acc664101ea61889"
+  first_name: "Shambhavi"
+  id: 139651
+  last_name: "Suryanarayanan"
+  title: "Block Gauss-Siedel Methods for Solving Tensor Regression under the t-Product:"
+- email: "7a90de421b1fdef4"
+  first_name: "Shambhavi"
+  id: 140163
+  last_name: "Suryanarayanan"
+  title: |-
+    Kaczmarz Based Iterative Hard Thresholding Techniques for Low-Rank Tensor
+    Recovery
+- email: "89bea5442949403d"
+  first_name: "Faisal"
+  id: 139814
+  last_name: "Suwayyid"
+  title: "Persistent Path Dirac"
+- email: "595fdd36f452e53d"
+  first_name: "Mikhail"
+  id: 139768
+  last_name: "Sweeney"
+  title: "Moment Invariant Distribution Learning"
+- email: "472d0df6a2f96e41"
+  first_name: "Abiy"
+  id: 139700
+  last_name: "Tasissa"
+  title: "Modified Nystrom Approximation Via Low-Rank Matrix Sensing"
+- email: "d7e6b8463eb1933a"
+  first_name: "Jacopo"
+  id: 140545
+  last_name: "Teneggi"
+  title: "Formal Tests for Semantic Interpretability"
+- email: "1f027c67b3fe6b4"
+  first_name: "Gbocho Masato"
+  id: 139520
+  last_name: "Terasaki"
+  title: |-
+    Ecg Classification: Identifying Abnormalies by Leveraging Data for Diagnostic
+    Accuracy
+- email: "a34e351b47f6aef"
+  first_name: "Alexander"
+  id: 139786
+  last_name: "Terenin"
+  title: "Lookahead-Free Bayesian Optimization Via Gittins Indices"
+- email: "327e453ae65c9f64"
+  first_name: "Michael"
+  id: 140235
+  last_name: "Terrefortes-Rosado"
+  title: "Vibex: A Visualization Tool for Gene Expression Analysis"
+- email: "df58cb1d7507cfb1"
+  first_name: "Ye"
+  id: 139845
+  last_name: "Tian"
+  title: |-
+    Graph Clustering Techniques with Sparse Solution Methods and Application
+    to Medical Image Classification
+- email: "42e10ba98b10f60a"
+  first_name: "Chenxiao"
+  id: 140174
+  last_name: "Tian"
+  title: "Exploring Complex Systems with Markov Bridge and Rwr Models"
+- email: "345a9626436ebd33"
+  first_name: "Ye"
+  id: 139658
+  last_name: "Tian"
+  title: "Neyman-Pearson Multi-Class Classification Via Cost-Sensitive Learning"
+- email: "bbd2d989394dd6b4"
+  first_name: "Fan"
+  id: 139649
+  last_name: "Tian"
+  title: "Tensor Completion with BMD Factor Nuclear Norm Minimization"
+- email: "80386ea02f801c8e"
+  first_name: "Moyi"
+  id: 139169
+  last_name: "Tian"
+  title: "Efficient Learning of Models for Dynamic Networks"
+- email: "80e943e0eb32b6ff"
+  first_name: "Neriman"
+  id: 139650
+  last_name: "Tokcan"
+  title: "Zero-Inflated Poisson Tensor Factorization for Multimodal Genomics Data"
+- email: "9c0d2d09a0f52dc7"
+  first_name: "Shanyin"
+  id: 140295
+  last_name: "Tong"
+  title: "Large Deviation-Informed Sampling for Rare Events in High Dimensions"
+- email: "b6b8ccdfeda0b360"
+  first_name: "Hoang"
+  id: 140519
+  last_name: "Tran"
+  title: "Score Estimation for Supervised Generative Modeling"
+- email: "4a79319116611cf0"
+  first_name: "Tuyen"
+  id: 140261
+  last_name: "Tran"
+  title: "The Boosted Dc Algorithm for Clustering with Constraints"
+- email: "d6fd61ec02ca4875"
+  first_name: "Jonathan"
+  id: 139568
+  last_name: "Tran"
+  title: |-
+    Data-Driven Vehicle Design Optimization Through Aerodynamics Informed Dimensionality
+    Reduction
+- email: "5b5e5aa0afab10bb"
+  first_name: "Eran"
+  id: 139082
+  last_name: "Treister"
+  title: |-
+    Multigrid-Augmented Deep Learning Preconditioners for the Helmholtz Equation
+    Using Compact Implicit Layers
+- email: "c218c72c815998f9"
+  first_name: "Altansuren"
+  id: 140030
+  last_name: "Tumurbaatar"
+  title: |-
+    Identifying Influential Events for Pressure Injury Development: Applying
+    Graph Analysis on Electronic Health Records
+- email: "57044eb1c2a33e0d"
+  first_name: "John"
+  id: 140082
+  last_name: "Turnage"
+  title: "An Optimal Weighted Least Squares Framework for Operator Learning"
+- email: "74e0b1ca73757e45"
+  first_name: "Sarah"
+  id: 139691
+  last_name: "Tymochko"
+  title: |-
+    Using Persistent Homology to Analyze Access to Resources with Heterogenous
+    Quality
+- email: "3731cb5643d122d5"
+  first_name: "Christian"
+  id: 139992
+  last_name: "Uhl"
+  title: "DyCA and DMD: Differences and Similarities in Theory and Application"
+- email: "1f199c27067a705c"
+  first_name: "Lav"
+  id: 140528
+  last_name: "Varshney"
+  title: "Autoequivariant Network Search Via Group Decomposition (Poster)"
+- email: "edd7b30995e058c2"
+  first_name: "Sara"
+  id: 139709
+  last_name: "Veneruso"
+  title: "Extensions of Consensus-Based Methods"
+- email: "323f7fa558298838"
+  first_name: "Praneeth"
+  id: 140533
+  last_name: "Vepakomma"
+  title: "Privacy for Activation Release in Collaborative Training and Inference"
+- email: "82f3ee65d2b9fcbe"
+  first_name: "Victor"
+  id: 140198
+  last_name: "Vergara"
+  title: "Restnet: A Residual Multi-Transformation Network Architecture"
+- email: "1868c9e6ca4c655c"
+  first_name: "Yeari"
+  id: 139911
+  last_name: "Vigder"
+  title: "Spectral Embedding with Group Invariance: Theory and Applications"
+- email: "fd8475e2414c3ac6"
+  first_name: "Arjun"
+  id: 140072
+  last_name: "Vijaywargiya"
+  title: |-
+    Efficient Computation of Mean-Field Control Based Barycenters from Reaction-Diffusion
+    Systems
+- email: "e9647bdf0282dc2b"
+  first_name: "German"
+  id: 139912
+  last_name: "Villalobos"
+  title: |-
+    Neural Networks for Inference in Optimal Control Governed by the FitzHugh-Nagumo
+    Model
+- email: "85813d3798f250df"
+  first_name: "Pranav"
+  id: 140155
+  last_name: "Vinod"
+  title: |-
+    Training Techniques for Learning Neural ODE Models: Accurate Binary Black
+    Hole Dynamical Models for Long-Time Integration and Extrapolation
+- email: "9cf31559fa4aba9f"
+  first_name: "Sajani"
+  id: 140548
+  last_name: "Vithana"
+  title: "Correlated Privacy Mechanisms for Distributed Learning"
+- email: "4480b4e49fd9b2b8"
+  first_name: "Lin"
+  id: 140285
+  last_name: "Wan"
+  title: "Optimal Transport for Single-Cell Heterogeneous Data Analysis"
+- email: "75c0f3ac2de038aa"
+  first_name: "Peng"
+  id: 139915
+  last_name: "Wang"
+  title: "Interpretable Diffusion Models Via Low-Dimensional Data"
+- email: "e52446c3e3dea716"
+  first_name: "Yixuan"
+  id: 140144
+  last_name: "Wang"
+  title: |-
+    Machine Learning-Assisted Agent-Based Model Predicts Outcomes of Cancer Immunotherapy
+    and Highlights Spatial Complexity of the Tumor Microenvironment
+- email: "b23350aec5725a32"
+  first_name: "Yiran"
+  id: 140264
+  last_name: "Wang"
+  title: "A Modified Extreme Learning Machine Based Diffusion Model in Image Denoising"
+- email: "13615b860808b52a"
+  first_name: "Xili"
+  id: 139884
+  last_name: "Wang"
+  title: "Aonn-2: A Deep Learning Based Shape Optimization Method"
+- email: "1691695714ed2b8b"
+  first_name: "Pengjun"
+  id: 139835
+  last_name: "Wang"
+  title: "A Pseudo-Reversible Normalizing Flow for Stochastic Differential Equation"
+- email: "d0edd606d0b6e36a"
+  first_name: "Jian-Xun"
+  id: 139736
+  last_name: "Wang"
+  title: |-
+    CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal
+    Turbulence
+- email: "dce41ffef6bb01bd"
+  first_name: "Tianyu"
+  id: 140213
+  last_name: "Wang"
+  title: |-
+    The Anytime Convergence of Stochastic Gradient Descent with Momentum: From
+    a Continuous-Time Perspective
+- email: "bceda223ecc97498"
+  first_name: "Yating"
+  id: 139900
+  last_name: "Wang"
+  title: "Optimal Transport with Cost-Free Transformations"
+- email: "3edbe59b5aed299a"
+  first_name: "Shuaiqi"
+  id: 139711
+  last_name: "Wang"
+  title: "Statistic Maximal Leakage"
+- email: "7f8b1acb08ae5e75"
+  first_name: "Christopher"
+  id: 139632
+  last_name: "Wang"
+  title: "Operator Learning for Hyperbolic Partial Differential Equations"
+- email: "5c608d88e3d6a270"
+  first_name: "Peihao"
+  id: 140529
+  last_name: "Wang"
+  title: |-
+    Signal Processing with Implicit Neural Fields: Editing, Manipulation, and
+    Understanding (Poster)
+- email: "cf5f3ff3803fc2e9"
+  first_name: "Zheyu Oliver"
+  id: 140009
+  last_name: "Wang"
+  title: |-
+    Efficient Neural Network Approaches for Conditional Optimal Transport with
+    Applications in Bayesian Inference
+- email: "51c3060f7ce987f3"
+  first_name: "Rui"
+  id: 139906
+  last_name: "Wang"
+  title: "Exploring the Power of Persistent Spectral Graphs in Covid-19 Research"
+- email: "89fcc5aee199f28e"
+  first_name: "Gaozhan"
+  id: 140531
+  last_name: "Wang"
+  title: |-
+    Rate of Convergence of Policy Improvement Algorithm for Exploratory Stochastic
+    Control Problems
+- email: "85baaec137735394"
+  first_name: "Zhichao"
+  id: 140196
+  last_name: "Wang"
+  title: |-
+    Exact Recovery in Semi-Supervised Learning: Analysis of Contextual Stochastic
+    Block Model on Gcn and Spectral Method
+- email: "85baaec137735394"
+  first_name: "Zhichao"
+  id: 140153
+  last_name: "Wang"
+  title: |-
+    Nonlinear Spiked Covariance Matrices and Signal Propagation in Deep Neural
+    Networks
+- email: "2eb07dc55b31971b"
+  first_name: "Nathan"
+  id: 139116
+  last_name: "Waniorek"
+  title: "Hierarchical Bayesian Inverse Problems: a High-Dimensional Statistics Viewpoint"
+- email: "c1971a786826be1d"
+  first_name: "Maria"
+  id: 140027
+  last_name: "Warns"
+  title: |-
+    Using Identifiability Analysis to Evaluate Wastewater Surveillance and Public
+    Health Data As Indirect Observables to Inform Predictive Disease Models
+- email: "a81bc989222bf4f6"
+  first_name: "Andrew"
+  id: 139866
+  last_name: "Warren"
+  title: "Principal Curves in Wasserstein Space"
+- email: "f43f12ae758832e9"
+  first_name: "Jeremy"
+  id: 139732
+  last_name: "Watts"
+  title: "Characterizing Lymphedema Risk Using MRI Topological Data Analysis"
+- email: "ab41bfb683200972"
+  first_name: "Robert"
+  id: 140534
+  last_name: "Webber"
+  title: "Fast, Effective Data Reduction Through Novelty Sampling"
+- email: "ab41bfb683200972"
+  first_name: "Robert"
+  id: 139548
+  last_name: "Webber"
+  title: "Robust Randomized Preconditioning for Kernel Ridge Regression"
+- email: "2572234eb3ec00ff"
+  first_name: "Clayton"
+  id: 140212
+  last_name: "Webster"
+  title: "Gaussian Smoothing (Stochastic) Gradient Descent"
+- email: "a7b44206d630e92b"
+  first_name: "Rongzhe"
+  id: 139716
+  last_name: "Wei"
+  title: "On the Inherent Privacy Properties of Discrete Denoising Diffusion Models"
+- email: "41d0d4e5be368b31"
+  first_name: "Laura"
+  id: 140007
+  last_name: "Weidensager"
+  title: "Interpretable Function Approximation Using Random Fourier Features and ANOVA-Boosting"
+- email: "9c1386f867e1eacf"
+  first_name: "Zheyu"
+  id: 139795
+  last_name: "Wen"
+  title: |-
+    Biophysics-Based Data Assimilation of Longitudinal Tau and Amyloid-$\beta$
+    Pet Scans
+- email: "9c7ff3aa2b0bf7fb"
+  first_name: "Stefan"
+  id: 140313
+  last_name: "Wild"
+  title: |-
+    Performance Analysis of Sequential Experimental Design for Calibration in
+    Parallel Computing Environments
+- email: "cb8b502ea58dd219"
+  first_name: "Jan"
+  id: 139922
+  last_name: "Williams"
+  title: |-
+    Reservoir Computing for System Identification and Predictive Control with
+    Limited Data
+- email: "92e3692c955b1bb5"
+  first_name: "Hyenkyun"
+  id: 140190
+  last_name: "Woo"
+  title: "Linear Classification for Imbalanced Dataset Via Skewed Hyperplane Equation"
+- email: "5edd66c1a132e4ee"
+  first_name: "Xiangyu"
+  id: 140120
+  last_name: "Wu"
+  title: |-
+    A Latent Space Approach to Inferring Heterogeneous Reciprocity in Directed
+    Network Data
+- email: "5a078ee8dc7e1e0a"
+  first_name: "Yantao"
+  id: 140539
+  last_name: "Wu"
+  title: "Conditional Regression on a Nonlinear Variable Model"
+- email: "b4677afeb74e2c75"
+  first_name: "Jingfeng"
+  id: 139591
+  last_name: "Wu"
+  title: |-
+    Large Stepsize Gradient Descent for Logistic Loss: Non-Monotonicity of the
+    Loss Improves Optimization Efficiency
+- email: "a165cd28bb46a9a7"
+  first_name: "Ruihan"
+  id: 139674
+  last_name: "Wu"
+  title: "Better Membership Inference Privacy Measurement Through Discrepancy"
+- email: "5d02616afb49f0f4"
+  first_name: "Samy"
+  id: 140552
+  last_name: "Wu Fung"
+  title: |-
+    Mean-Field Control Barrier Functions: A Framework for Real-Time Swarm Control
+    (Poster)
+- email: "354d85515028b9ee"
+  first_name: "Maximilian"
+  id: 139815
+  last_name: "Wuerschmidt"
+  title: "A Probabilistic Approach to Shape Derivatives"
+- email: "a4cbc83c3b0c33e5"
+  first_name: "Li"
+  id: 140309
+  last_name: "Xia"
+  title: |-
+    CTRhythm: accurate atrial fibrillation detection from single-lead rhythm
+    by convolutional neural network and transformer integration
+- email: "1f5bd97903ebb274"
+  first_name: "Weihang"
+  id: 139621
+  last_name: "Xu"
+  title: |-
+    Over-Parameterization Exponentially Slows Down Gradient Descent for Learning
+    a Single Neuron
+- email: "4723b9b9abfb1d7a"
+  first_name: "Zihan"
+  id: 139762
+  last_name: "Xu"
+  title: |-
+    Extending Statistics-Informed Neural Network to Multidimensional Stochastic
+    Processes
+- email: "8ff00c12461c1f77"
+  first_name: "Yiming"
+  id: 139519
+  last_name: "Xu"
+  title: "Hybrid Least Squares"
+- email: "f31e4e7689c01759"
+  first_name: "Tianshi"
+  id: 140162
+  last_name: "Xu"
+  title: "Hpytorch: Data-Driven Hierarchical Matrix-Based Gaussian Process"
+- email: "f75f3c23c136fb96"
+  first_name: "Jason"
+  id: 140320
+  last_name: "Xu"
+  title: "Bayesian Constraint Relaxation: Distance and Divergence Penalization"
+- email: "139528c47833ff3d"
+  first_name: "Zhenghao"
+  id: 140087
+  last_name: "Xu"
+  title: |-
+    Provable Acceleration of Nesterov's Accelerated Gradient for Asymmetric Matrix
+    Factorization and Linear Neural Networks
+- email: "8e02ab79f33a01d9"
+  first_name: "Yuesheng"
+  id: 140195
+  last_name: "Xu"
+  title: |-
+    Distributed Deep Learning Optimization Using Second-Order Methods with Dynamic
+    Weight Sharing and Hessian Variance Reduction
+- email: "b6fa38d25904ff25"
+  first_name: "Wuzhe"
+  id: 140527
+  last_name: "Xu"
+  title: |-
+    Generative Downscaling of Pde Solvers with Physics-Guided Diffusion Models
+    (Poster)
+- email: "45978b0e1e37b81b"
+  first_name: "Anran"
+  id: 139731
+  last_name: "Xu"
+  title: "Leveraging Neural Fields for Geophysical Inverse Problems"
+- email: "4d1eed279ab20760"
+  first_name: "Umesh"
+  id: 139948
+  last_name: "Yadav"
+  title: |-
+    Decoding Confidence and Accuracy: An Analysis of Llm Performance on Leetcode
+    Challenges
+- email: "df514f42cc6bef73"
+  first_name: "Runze"
+  id: 140188
+  last_name: "Yan"
+  title: |-
+    Enabling Pre-Shock State Detection Using Electrogram Signals from Implantable
+    Cardioverter-Defibrillators
+- email: "76e3d6fe76cc854a"
+  first_name: "Yitong"
+  id: 140536
+  last_name: "Yang"
+  title: |-
+    Improved Reconstruction Speed for 5D Free Running Motion Resolved Using a
+    Variable Projection Augmented Lagrangian (vpal) Method
+- email: "7adcaf905bacb6bd"
+  first_name: "Xianjin"
+  id: 140181
+  last_name: "Yang"
+  title: |-
+    Forward-Backward Algorithm for Functions with Locally Lipschitz Gradient:
+    Applications to Mean Field Games.
+- email: "c393749e59011ee0"
+  first_name: "Yahong"
+  id: 140023
+  last_name: "Yang"
+  title: |-
+    Homotopy Relaxation Training Algorithms for Infinite-Width Two-Layer Relu
+    Neural Networks
+- email: "1b43758c04257982"
+  first_name: "Kaylee"
+  id: 139684
+  last_name: "Yang"
+  title: "Optimal Score Estimation Via Empirical Bayes"
+- email: "7c982c7aeac66fcf"
+  first_name: "Ruiyi"
+  id: 139503
+  last_name: "Yang"
+  title: "Gaussian Process Regression under Computational and Epistemic Misspecification"
+- email: "931fc1cc81be58ed"
+  first_name: "Qian"
+  id: 140169
+  last_name: "Yang"
+  title: "Extrapolation in Data-Driven Learning of Complex Reactive Processes"
+- email: "7ecf026eed7a3e60"
+  first_name: "Sichen"
+  id: 140540
+  last_name: "Yang"
+  title: |-
+    Nonlinear Model Reduction for Slow-Fast Stochastic Systems Near Unknown Invariant
+    Manifolds
+- email: "6245905d1ff7a7c1"
+  first_name: "Nicole"
+  id: 139662
+  last_name: "Yang"
+  title: "Nonlinear Filtering in Stochastic Dynamical Systems"
+- email: "c53938d51f29d8f4"
+  first_name: "Chengrun"
+  id: 139611
+  last_name: "Yang"
+  title: "Associated Poster: Large Language Models As Optimizers"
+- email: "74d4863bd81421ae"
+  first_name: "Tiantian"
+  id: 139966
+  last_name: "Yang"
+  title: |-
+    Interpretable Graph Neural Networks for Disease Classification on High-Dimensional
+    Omics Data
+- email: "e4548bad2bf5374c"
+  first_name: "Rentian"
+  id: 139721
+  last_name: "Yao"
+  title: "Mean-Field Variational Inference Via Wasserstein Gradient Flow"
+- email: "fb34722720488b38"
+  first_name: "Yagmur"
+  id: 140179
+  last_name: "Yavuz Ozdemir"
+  title: "All Models Are Wrong But a Set of Them Is Useful"
+- email: "671fa9d52d0412a6"
+  first_name: "Taiyu"
+  id: 140308
+  last_name: "Ye"
+  title: |-
+    False Discovery Rate Control in Multiple Regression Models with Unobserved
+    Confounders
+- email: "6a9003c712eac1c"
+  first_name: "Qihao"
+  id: 139582
+  last_name: "Ye"
+  title: "A Model-Based Approach for Continuous-Time Policy Evaluation with Unknown Lévy Process Dynamics"
+- email: "cc6595e26fc96e84"
+  first_name: "Farhang"
+  id: 140227
+  last_name: "Yeganegi"
+  title: |-
+    OptiBridge: Multi-Scale Multi-Shift Bridging for Conditioning Optimization
+    Landscapes
+- email: "cc6595e26fc96e84"
+  first_name: "Farhang"
+  id: 140233
+  last_name: "Yeganegi"
+  title: |-
+    Finite Volume Property: Binary Compressed Sensing With Fourier Sampling
+    Matrix
+- email: "fd92686a8d7a1e46"
+  first_name: "Chugang"
+  id: 140069
+  last_name: "Yi"
+  title: "Discovery of Governing Equations Using Sparse and Low-Rank Tensor Regression"
+- email: "fcecec2d10533d05"
+  first_name: "Minglang"
+  id: 139604
+  last_name: "Yin"
+  title: |-
+    Learning the Geometry-Dependent Solution Operators of Partial Differential
+    Equations
+- email: "c0c84b257b584755"
+  first_name: "Amin"
+  id: 139783
+  last_name: "Yousefpour"
+  title: |-
+    Neural Networks with Kernel-Weighted Corrective Residuals: A Mesh-Independent
+    Approach for Inverse Design
+- email: "12dfe95b6975af6f"
+  first_name: "Yaodong"
+  id: 139598
+  last_name: "Yu"
+  title: "Differentially Private Representation Learning Via Image Captioning"
+- email: "657156a9cc1d4b5b"
+  first_name: "Yue"
+  id: 140257
+  last_name: "Yu"
+  title: "Toward Foundation Material Model with Nonlocal Attention Operator"
+- email: "909bb69a281dd597"
+  first_name: "Jiajia"
+  id: 139862
+  last_name: "Yu"
+  title: "Solving High-Dimensional Mean-Field Games with Fictitious Play"
+- email: "9b7a725a6f35f5e6"
+  first_name: "Annan"
+  id: 139633
+  last_name: "Yu"
+  title: "Robustifying State-Space Models for Long Sequences Via Approximate Diagonalization"
+- email: "7e8bf30e758ad1ec"
+  first_name: "Bo"
+  id: 140296
+  last_name: "Yuan"
+  title: "Improved Dimension Dependence of a Proximal Algorithm for Sampling"
+- email: "4bbcb040e8eba5e5"
+  first_name: "Zahra"
+  id: 139850
+  last_name: "Zanjani Foumani"
+  title: "Constrained Cost-Aware Multi-Fidelity Bayesian Optimization"
+- email: "28d66be28253e7b6"
+  first_name: "Yasi"
+  id: 140172
+  last_name: "Zhang"
+  title: |-
+    Solving Linear Inverse Problems with Flows by Adaptive Corrupted Trajectory
+    Matching
+- email: "e30702c563b2c295"
+  first_name: "Tan"
+  id: 139995
+  last_name: "Zhang"
+  title: |-
+    A Convergent Interacting Particle Method for Computing Kpp Front Speeds in
+    Random Flows
+- email: "4f89852285ac0a73"
+  first_name: "Yifan"
+  id: 140205
+  last_name: "Zhang"
+  title: |-
+    Learning Conditionally Independent Nonparametric Mixture Models Through Implicit
+    Tensor Decomposition
+- email: "5b91bb00afd43b5"
+  first_name: "Tianhao"
+  id: 140029
+  last_name: "Zhang"
+  title: |-
+    Provable In-Context Learning of Pdes with Transformers: The Linear Elliptic
+    Case
+- email: "55fdd8b131f4bda4"
+  first_name: "Li"
+  id: 140291
+  last_name: "Zhang"
+  title: |-
+    Topological Analysis Reveals Organizational Routines Recurrence in Outpatient
+    Medical Clinics During Covid-19
+- email: "4921dadff47f9cf1"
+  first_name: "Wei"
+  id: 140232
+  last_name: "Zhang"
+  title: |-
+    Dynamic Pattern Formation Via Distribution Control of Moment Kernelized Population
+    Systems
+- email: "8e9e39b020340d34"
+  first_name: "Yani"
+  id: 139667
+  last_name: "Zhang"
+  title: "Deep Neural Networks Learn Cellular Automaton Rules in Many-Valued Logic"
+- email: "85d02fd288b4baf3"
+  first_name: "Ziheng"
+  id: 140185
+  last_name: "Zhang"
+  title: |-
+    Geometric Mcmc for Inference of Coseismic Model for 2011 Tohoku-Oki Earthquake
+    Using Derivative-Informed Neural Operators
+- email: "31eb1a96ff209a53"
+  first_name: "Zheng"
+  id: 139918
+  last_name: "Zhang"
+  title: "Self Supervised Representation Learning of Text-Attributed Graphs"
+- email: "ffbb9069082d57c1"
+  first_name: "Shijie"
+  id: 140234
+  last_name: "Zhang"
+  title: |-
+    Bayesian Inference of Stochastic Dynamical Systems with Inhomogeneous Poisson
+    Noise
+- email: "bc4e557f702e0cc0"
+  first_name: "Maoyu"
+  id: 140091
+  last_name: "Zhang"
+  title: "Preferential Latent Space Models for Networks with Textual Edges"
+- email: "8d547b0e9dacdeb9"
+  first_name: "Sichong"
+  id: 140541
+  last_name: "Zhang"
+  title: "Minimax Rates for Learning Kernels in Ill-Posed Inverse Problems"
+- email: "5b47128563db61a1"
+  first_name: "Matthew"
+  id: 140298
+  last_name: "Zhang"
+  title: "Sampling from the Mean-Field Stationary Distribution"
+- email: "194d6062d47b9369"
+  first_name: "Zezhong"
+  id: 139887
+  last_name: "Zhang"
+  title: |-
+    Improving the Ensemble Score Filter for Sparse and Nonlinear Data Assimilation
+    Problem by Compositing State Dynamics to Observation Function
+- email: "194d6062d47b9369"
+  first_name: "Zezhong"
+  id: 139712
+  last_name: "Zhang"
+  title: |-
+    Exact Likelihood Score Estimation for Bayesian Sampling with Diffusion SDE
+    under Gaussian Mixture Assumption
+- email: "b532ab917086236e"
+  first_name: "Benjamin"
+  id: 139931
+  last_name: "Zhang"
+  title: "A Mean-Field Games Laboratory for Generative Modeling"
+- email: "a446c0732cba98b5"
+  first_name: "Ruixun"
+  id: 139571
+  last_name: "Zhang"
+  title: "On Consistency of Signatures Using Lasso"
+- email: "e837be0704f4f4bb"
+  first_name: "Jingtong"
+  id: 139013
+  last_name: "Zhao"
+  title: |-
+    Neural Ordinary Differential Equation Enables Radiogenomic Explainable Ai
+    for Identifying Post-Radiosurgery Brain Metastasis Radionecrosis
+- email: "a5b64cd69c2d592a"
+  first_name: "Shifan"
+  id: 139763
+  last_name: "Zhao"
+  title: |-
+    Efficient Two-stage Gaussian Process Regression Via Subsampling and Automatic
+    Kernel Searching
+- email: "522aa9c5fe53c014"
+  first_name: "Ruoxi"
+  id: 139647
+  last_name: "Zhao"
+  title: "Ai Foundation Models for Surgical Tool Localization"
+- email: "59b96b0829261820"
+  first_name: "Haoyang"
+  id: 140080
+  last_name: "Zheng"
+  title: |-
+    Accelerating Approximate Thompson Sampling with Underdamped Langevin Monte
+    Carlo
+- email: "ba1e2d421a5bebc6"
+  first_name: "Suhan"
+  id: 139593
+  last_name: "Zhong"
+  title: "Polynomial Lower Approximation for Two-Stage Stochastic Optimization"
+- email: "1f76d99a8e22c484"
+  first_name: "Zihe"
+  id: 139882
+  last_name: "Zhou"
+  title: "Sequential Quadratic Programming for Optimal Transport"
+- email: "a171bbb059892d8a"
+  first_name: "Mo"
+  id: 139362
+  last_name: "Zhou"
+  title: |-
+    Solving Time-Continuous Stochastic Optimal Control Problems: Algorithm Design
+    and Convergence Analysis of Actor-Critic Flow
+- email: "98ae52e299b33846"
+  first_name: "Yuhua"
+  id: 139361
+  last_name: "Zhu"
+  title: |-
+    Phibe: Physics-Informed Bellman Equation for Continuous-Time Reinforcement
+    Learning
+- email: "5eecdd2c135d68ea"
+  first_name: "Yuchen"
+  id: 139777
+  last_name: "Zhu"
+  title: |-
+    A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to
+    Functional Conditional Moment Equations
+- email: "ea98b812b30561e0"
+  first_name: "Zhihui"
+  id: 139927
+  last_name: "Zhu"
+  title: "Similarity of Layer-Wise Representations Within Transformers"
